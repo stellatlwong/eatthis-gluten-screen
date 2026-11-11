@@ -1,0 +1,28 @@
+Restaurant,Method,Dishes,Wheat dishes caught,False alarms,Unflagged dishes,Unflagged and not marked wheat,Share of unflagged not marked wheat,Share of all dishes not marked wheat
+All restaurants,Word rule,745,192 of 586,4 of 159,549,155,0.28233151183970856,0.2134228187919463
+All restaurants,Simple text model,745,566 of 586,85 of 159,94,74,0.7872340425531915,0.2134228187919463
+All restaurants,Fine-tuned language model,745,551 of 586,78 of 159,116,81,0.6982758620689655,0.2134228187919463
+Au Bon Pain,Word rule,200,51 of 150,1 of 50,148,49,0.3310810810810811,0.25
+Au Bon Pain,Simple text model,200,144 of 150,29 of 50,27,21,0.7777777777777778,0.25
+Au Bon Pain,Fine-tuned language model,200,141 of 150,28 of 50,31,22,0.7096774193548387,0.25
+Boudin,Word rule,97,24 of 82,3 of 15,70,12,0.17142857142857143,0.15463917525773196
+Boudin,Simple text model,97,80 of 82,9 of 15,8,6,0.75,0.15463917525773196
+Boudin,Fine-tuned language model,97,78 of 82,9 of 15,10,6,0.6,0.15463917525773196
+CAVA,Word rule,17,4 of 8,0 of 9,13,9,0.6923076923076923,0.5294117647058824
+CAVA,Simple text model,17,8 of 8,7 of 9,2,2,1.0,0.5294117647058824
+CAVA,Fine-tuned language model,17,7 of 8,8 of 9,2,1,0.5,0.5294117647058824
+Cosi,Word rule,63,16 of 51,0 of 12,47,12,0.2553191489361702,0.19047619047619047
+Cosi,Simple text model,63,51 of 51,9 of 12,3,3,1.0,0.19047619047619047
+Cosi,Fine-tuned language model,63,50 of 51,5 of 12,8,7,0.875,0.19047619047619047
+Panera,Word rule,122,46 of 108,0 of 14,76,14,0.18421052631578946,0.11475409836065574
+Panera,Simple text model,122,108 of 108,8 of 14,6,6,1.0,0.11475409836065574
+Panera,Fine-tuned language model,122,107 of 108,8 of 14,7,6,0.8571428571428571,0.11475409836065574
+Pret,Word rule,111,19 of 67,0 of 44,92,44,0.4782608695652174,0.3963963963963964
+Pret,Simple text model,111,64 of 67,15 of 44,32,29,0.90625,0.3963963963963964
+Pret,Fine-tuned language model,111,64 of 67,14 of 44,33,30,0.9090909090909091,0.3963963963963964
+Sweetgreen,Word rule,7,0 of 3,0 of 4,7,4,0.5714285714285714,0.5714285714285714
+Sweetgreen,Simple text model,7,3 of 3,3 of 4,1,1,1.0,0.5714285714285714
+Sweetgreen,Fine-tuned language model,7,1 of 3,1 of 4,5,3,0.6,0.5714285714285714
+Tatte,Word rule,128,32 of 117,0 of 11,96,11,0.11458333333333333,0.0859375
+Tatte,Simple text model,128,108 of 117,5 of 11,15,6,0.4,0.0859375
+Tatte,Fine-tuned language model,128,103 of 117,5 of 11,20,6,0.3,0.0859375

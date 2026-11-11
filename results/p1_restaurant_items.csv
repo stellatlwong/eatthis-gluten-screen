@@ -1,0 +1,1323 @@
+restaurant,item,wheat,type,risk_score,possible source,flag,word_rule_flag,deep_score,deep possible source,deep_flag
+Boudin,BLTA,1,dish,0.286864763431552,no clear source,1,0,0.5123266,wheat flour,1
+Boudin,California Veggie,1,dish,0.5380503857816501,soy sauce and similar,1,0,0.14572217,no clear source,1
+Boudin,Caprese (Vegetarian),1,dish,0.4590546329607119,bread and buns,1,0,0.036083944,no clear source,0
+Boudin,Catalan (Vegan),1,dish,0.4030862030742931,no clear source,1,0,0.25219983,no clear source,1
+Boudin,Catalan (Vegetarian),1,dish,0.5850870424539009,bread and buns,1,0,0.15203226,no clear source,1
+Boudin,Chicken Salad,1,dish,0.22010513873633342,no clear source,1,0,0.14116298,no clear source,1
+Boudin,Crispy Chicken Caesar Wrap,1,dish,0.9908936307228855,bread and buns,1,0,0.9400236,bread and buns,1
+Boudin,Crispy Chicken Parm,1,dish,0.859941255499051,bread and buns,1,0,0.8431217,breadcrumbs,1
+Boudin,Deluxe French Dip,1,dish,0.3090523681264452,no clear source,1,0,0.03803509,no clear source,0
+Boudin,Grilled Brie with Apples & Fig Jam,1,dish,0.47859841835028916,bread and buns,1,0,0.68626493,bread and buns,1
+Boudin,Hot Chicken Pesto Sandwich,1,dish,0.7975460049374663,bread and buns,1,0,0.8680457,bread and buns,1
+Boudin,Italian Classic,1,dish,0.594230029104821,wheat flour,1,0,0.5726033,pasta and noodles,1
+Boudin,Prosciutto & Pestos Sandwich,1,dish,0.9780381092818393,bread and buns,1,0,0.91321325,bread and buns,1
+Boudin,Sourdough French Dip,1,dish,0.8809918626750044,bread and buns,1,1,0.8112278,bread and buns,1
+Boudin,The Great Grilled Cheese,1,dish,0.9380340600942997,bread and buns,1,0,0.9662198,bread and buns,1
+Boudin,The Great with Bacon,1,dish,0.4653766462656317,wheat flour,1,0,0.13039611,no clear source,1
+Boudin,Toasted Chicken Club,1,dish,0.85816025463763,bread and buns,1,0,0.7687332,bread and buns,1
+Boudin,Tuna Salad,1,dish,0.35055878270436513,pasta and noodles,1,0,0.2607658,pasta and noodles,1
+Boudin,Tuna Melt,1,dish,0.9320912711363897,bread and buns,1,0,0.9413314,bread and buns,1
+Boudin,Turkey and Havarti,1,dish,0.4181420881607665,no clear source,1,0,0.53816414,bread and buns,1
+Boudin,Turkey Avocado,1,dish,0.4482513074677267,wheat flour,1,0,0.12560065,no clear source,1
+Boudin,Turkey Cranberry,1,dish,0.3288462930552063,no clear source,1,0,0.16532344,no clear source,1
+Boudin,The Classic Ribeye Cheesesteak,1,dish,0.35886894097285527,bread and buns,1,0,0.56739736,wheat flour,1
+Boudin,The Bold Ribeye Cheesesteak,1,dish,0.42686865068132895,bread and buns,1,0,0.5480991,wheat flour,1
+Boudin,Rustic Stuffing Turkey Cranberry,1,dish,0.8975627340429451,bread and buns,1,1,0.89606965,bread and buns,1
+Boudin,Thanksgiving Turkey Melt on Rustic Stuffing Bread,1,dish,0.9972199402084688,bread and buns,1,1,0.9783019,bread and buns,1
+Boudin,Asian Citrus Chicken Salad,1,dish,0.47935456710862323,soy sauce and similar,1,0,0.7193836,soy sauce and similar,1
+Boudin,"Chicken, Apple, Walnut Salad",0,dish,0.07568926113874108,no clear source,0,0,0.071332,no clear source,0
+Boudin,Crispy Chicken Avo Salad,1,dish,0.31952890679523516,no clear source,1,0,0.573559,no clear source,1
+Boudin,Little Gem Cobb Salad,1,dish,0.16782802522120266,no clear source,0,0,0.062103126,no clear source,0
+Boudin,Mixed Greens (Side Salad),1,dish,0.0876994108488407,no clear source,0,0,0.025371311,no clear source,0
+Boudin,"Mixed Greens (Side Salad, No Croutons)",0,dish,0.28190009931584636,bread and buns,1,1,0.73469096,bread and buns,1
+Boudin,Traditional Caesar Salad,1,dish,0.8333937064052804,bread and buns,1,0,0.9328214,bread and buns,1
+Boudin,Add On Grilled All-Natural Chicken Breast,0,component,0.2822891002895803,no clear source,1,0,0.13330235,no clear source,1
+Boudin,Add On Crispy Fried Chicken Breast,1,component,0.7311610531356079,wheat flour,1,0,0.84169555,wheat flour,1
+Boudin,Green Goddess Chicken With Avocado Protein Bowl,0,dish,0.1492974488259975,no clear source,0,0,0.26095408,no clear source,1
+Boudin,Harvest Chicken Protein Bowl,0,dish,0.13655072583206396,no clear source,0,0,0.19744445,no clear source,1
+Boudin,Mediterranean Chicken W/ Lemon Hummus Protein Bowl,0,dish,0.10978692751085362,no clear source,0,0,0.20609397,no clear source,1
+Boudin,Broccoli Cheddar,0,dish,0.4523357855743281,bread and buns,1,0,0.6033477,wheat flour,1
+Boudin,Butternut Squash,0,dish,0.2575438118412049,no clear source,1,0,0.032466814,no clear source,0
+Boudin,Chili,0,dish,0.21728895188813235,no clear source,1,0,0.14402841,no clear source,1
+Boudin,Clam Chowder,0,dish,0.4677832454931332,wheat flour,1,0,0.33111975,wheat flour,1
+Boudin,Rustic Tomato,1,dish,0.42202863527041057,no clear source,1,0,0.3060083,no clear source,1
+Boudin,Cheese Pizza,1,dish,0.8128987751631578,pastry and dough,1,0,0.62498045,wheat flour,1
+Boudin,Chicken Fingers & French Fries,1,dish,0.4687166325218496,breadcrumbs,1,0,0.6899327,bread and buns,1
+Boudin,Grilled Cheese,1,dish,0.9947596833457766,bread and buns,1,0,0.9638481,bread and buns,1
+Boudin,Mac & Cheese,1,dish,0.9968106437283827,pasta and noodles,1,0,0.985663,pasta and noodles,1
+Boudin,Turkey Sandwich,1,dish,0.9781592069340787,bread and buns,1,0,0.89029425,bread and buns,1
+Boudin,All Meat,1,dish,0.38634219228125255,wheat flour,1,0,0.40409586,no clear source,1
+Boudin,Cheesy Garlic Bread,1,dish,0.9239018324112491,bread and buns,1,1,0.93318766,bread and buns,1
+Boudin,Classic Pepperoni,1,dish,0.5891800996352998,pastry and dough,1,0,0.62314755,pasta and noodles,1
+Boudin,Crowd Pleaser (50/50),1,dish,0.6466093170000511,wheat flour,1,0,0.5640985,wheat flour,1
+Boudin,Four Cheese,1,dish,0.6136970716065923,wheat flour,1,0,0.23039988,no clear source,1
+Boudin,Hawaiian Pizza,1,dish,0.5201238903214911,wheat flour,1,0,0.60743034,no clear source,1
+Boudin,Papa Steve's Original Style Pizza Bread,1,dish,0.845699970891061,bread and buns,1,1,0.9614615,wheat flour,1
+Boudin,Sausage & Pepperoni,1,dish,0.7125635406849002,pasta and noodles,1,0,0.76803803,pasta and noodles,1
+Boudin,Four Cheese Pinsa Romana,1,dish,0.5076079462793943,wheat flour,1,0,0.5122961,wheat flour,1
+Boudin,Pepperoni Pinsa Romana,1,dish,0.3372332278027822,no clear source,1,0,0.5194604,no clear source,1
+Boudin,Prosciutto Bianca Pinsa Romana,1,dish,0.4720368160741246,wheat flour,1,0,0.23686911,no clear source,1
+Boudin,Sausage & Pepperoni Hot Honey Pinsa Romana,1,dish,0.243588743279058,no clear source,1,0,0.67800725,wheat flour,1
+Boudin,Cookies & Cream,1,drink,0.9201839459734495,"cookies, crackers and cake",1,1,0.9237301,"cookies, crackers and cake",1
+Boudin,Dark Chocolate,0,drink,0.3366611275586061,wheat flour,1,0,0.024563089,no clear source,0
+Boudin,Sea Salt Caramel,0,drink,0.2919693206842052,no clear source,1,0,0.01798621,no clear source,0
+Boudin,Strawberry,0,drink,0.3254319489879426,"cookies, crackers and cake",1,0,0.15090263,no clear source,1
+Boudin,*Seasonal* - Pumpkin Spice,0,drink,0.29436969040757766,wheat flour,1,0,0.020764738,no clear source,0
+Boudin,Asiago Cheese,1,component,0.48807476836467323,wheat flour,1,0,0.15253653,no clear source,1
+Boudin,Brioche (Buns & Rolls),1,component,0.9408879771261685,wheat flour,1,1,0.96378,wheat flour,1
+Boudin,Cinnamon Raisin,1,component,0.35855583122726,no clear source,1,0,0.45386693,wheat flour,1
+Boudin,Corn Rye,1,component,0.9972448043087282,"barley, rye and bulgur",1,1,0.8804891,"barley, rye and bulgur",1
+Boudin,English Muffins,1,component,0.8679914993141752,wheat flour,1,1,0.97090924,wheat flour,1
+Boudin,Pinsa Crust - 4 Pack,1,catering or retail pack,0.5106439222341745,wheat flour,1,0,0.81655276,wheat flour,1
+Boudin,Schiacciata Flatbread,1,component,0.9522382749954553,wheat flour,1,1,0.8668104,bread and buns,1
+Boudin,"Sourdough (Loaves, Rolls, Baguettes, Lunch Boxes, Critters & Seasonal Shapes)",1,component,0.9945649417106238,bread and buns,1,1,0.96124375,bread and buns,1
+Boudin,Sweet Cinnamon Delight,1,component,0.4101003730770161,wheat flour,1,0,0.69160146,wheat flour,1
+Boudin,Multigrain (Loaves & Lunch Boxes),1,component,0.8500850808439586,wheat flour,1,0,0.88161486,"barley, rye and bulgur",1
+Boudin,House Fries,0,dish,0.3009905395181587,no clear source,1,0,0.04822634,no clear source,0
+Boudin,Spicy Buttermilk Ranch Fries,0,dish,0.2103987578684613,no clear source,1,0,0.037679393,no clear source,0
+Boudin,Balsamic Dressing,0,component,0.07738114974030064,no clear source,0,0,0.044847902,no clear source,0
+Boudin,Basil Pesto Sauce,0,component,0.09084048487143148,no clear source,0,0,0.046638038,no clear source,0
+Boudin,Caesar Dressing,0,component,0.1260218507716815,no clear source,0,0,0.02898063,no clear source,0
+Boudin,Calabrian Chili Hot Honey,0,component,0.17925140099728365,no clear source,0,0,0.05613278,no clear source,0
+Boudin,"Citrus, Garlic, & Herb Caesar Dressing",0,component,0.12003215461974837,no clear source,0,0,0.07751766,no clear source,0
+Boudin,Dijon Mustard,0,component,0.26057757792562475,no clear source,1,0,0.2952299,no clear source,1
+Boudin,Garlic Aioli Spread,0,component,0.0789392666618286,no clear source,0,0,0.11496335,no clear source,0
+Boudin,Honey Mustard,0,component,0.17871339584374213,no clear source,0,0,0.18787657,no clear source,1
+Boudin,Horseradish Mayo,0,component,0.2581076195096592,no clear source,1,0,0.023286305,no clear source,0
+Boudin,Lemon Hummus Dressing,0,component,0.14154714502906063,no clear source,0,0,0.07329728,no clear source,0
+Boudin,Lemon Vinaigrette Dressing,0,component,0.0416123350916644,no clear source,0,0,0.051845465,no clear source,0
+Boudin,Mayo,0,component,0.3315474289856616,bread and buns,1,0,0.03327394,no clear source,0
+Boudin,Pesto Balsamic Dressing,0,component,0.06175469058939309,no clear source,0,0,0.043528143,no clear source,0
+Boudin,Pesto Mayo,0,component,0.26582568767474324,no clear source,1,0,0.045268092,no clear source,0
+Boudin,Ranch Dressing,0,component,0.07813196378471587,no clear source,0,0,0.07094483,no clear source,0
+Boudin,Romesco Sauce,0,component,0.6139078968503325,bread and buns,1,0,0.31510335,no clear source,1
+Boudin,Spicy Asian Dressing,1,component,0.9248805758624414,soy sauce and similar,1,0,0.9152046,soy sauce and similar,1
+Boudin,Spicy Crema,0,component,0.22023647427085613,no clear source,1,0,0.01678549,no clear source,0
+Boudin,Sundried Tomato Spread,0,component,0.24921517229359846,no clear source,1,0,0.17709816,no clear source,1
+Boudin,Bacon & Cheddar on English Muffin,1,dish,0.8132723221482177,bread and buns,1,1,0.9263037,bread and buns,1
+Boudin,Cali-Style Bacon Breakfast Burrito,1,dish,0.8576151884332512,bread and buns,1,0,0.9403531,bread and buns,1
+Boudin,Cali-Style Veggie Breakfast Burrito,1,dish,0.7996591678069809,bread and buns,1,0,0.9390248,bread and buns,1
+Boudin,Granola & Greek Yogurt Parfait,0,dish,0.1228886275866472,no clear source,0,0,0.06979492,no clear source,0
+Boudin,Ham & Swiss on Croissant,1,dish,0.9264370120867053,bread and buns,1,1,0.94728357,bread and buns,1
+Boudin,Bacon,0,component,0.298873285692993,no clear source,1,0,0.06681232,no clear source,0
+Boudin,Fruit Cup,0,dish,0.08890619142641232,no clear source,0,0,0.04733772,no clear source,0
+Boudin,Sourdough Toast,1,component,0.9999904929351181,bread and buns,1,1,0.967225,bread and buns,1
+Boudin,English Muffin,1,component,0.7793683392821121,bread and buns,1,1,0.94957596,bread and buns,1
+Boudin,Multigrain Toast,1,component,0.9988400405746556,bread and buns,1,1,0.97389406,bread and buns,1
+Boudin,Traditional Deli Feast,1,catering or retail pack,0.3785138797191394,no clear source,1,0,0.84972197,wheat flour,1
+Boudin,Ultimate Deli Feast,1,catering or retail pack,0.39289370500383214,no clear source,1,0,0.76559335,wheat flour,1
+Boudin,Duo Salad,1,catering or retail pack,0.11868718392195987,no clear source,0,0,0.0743657,no clear source,0
+Boudin,Sausage Frittata Tray,0,catering or retail pack,0.2101410554364892,no clear source,1,0,0.19314736,no clear source,1
+Boudin,Vegetarian Frittata Tray,0,catering or retail pack,0.3351543538790448,no clear source,1,0,0.13161904,no clear source,1
+Boudin,Vegetarian Frittata Breakfast Sandwich,1,catering or retail pack,0.8564780785468675,bread and buns,1,0,0.87705624,bread and buns,1
+Boudin,Vegan Breakfast Burrito,1,catering or retail pack,0.8138120751954567,bread and buns,1,0,0.9375548,bread and buns,1
+Boudin,Ham & Swiss Breakfast Sandwich on English Muffin,1,catering or retail pack,0.9695818875183035,bread and buns,1,1,0.9341553,bread and buns,1
+Boudin,Egg & Cheddar Breakfast Sandwich on English Muffin,1,catering or retail pack,0.9687343858291404,bread and buns,1,1,0.93980294,bread and buns,1
+Boudin,Chicken & Waffle Breakfast Sandwich,1,catering or retail pack,0.5499815258855802,bread and buns,1,0,0.7814974,bread and buns,1
+Boudin,Oatmeal (Includes condiments),0,catering or retail pack,0.29382483019962335,wheat flour,1,0,0.022457052,no clear source,0
+Boudin,Simple Seasoned Eggs,0,catering or retail pack,0.33980471778785415,no clear source,1,0,0.04922211,no clear source,0
+Boudin,Avocado Toast Tray,1,catering or retail pack,0.9436317532401983,bread and buns,1,1,0.937669,bread and buns,1
+Boudin,Bagel - Blueberry,1,dish,0.9625813779089759,bread and buns,1,1,0.9721515,bread and buns,1
+Boudin,Bagel - Cinnamon Raisin,1,dish,0.9626281905126933,bread and buns,1,1,0.9658352,bread and buns,1
+Boudin,Bagel - Onion,1,dish,0.9937164622504738,bread and buns,1,1,0.9583822,bread and buns,1
+Boudin,Bagel - Plain,1,dish,0.9769749886258999,bread and buns,1,1,0.96691406,bread and buns,1
+Boudin,Bagel - Sesame,1,dish,0.987917059930661,bread and buns,1,1,0.9753431,bread and buns,1
+Boudin,Bar - Cookies & Cream,1,dish,0.899822485155813,"cookies, crackers and cake",1,1,0.9308365,"cookies, crackers and cake",1
+Boudin,Bar - Double Fudge Brownie,1,dish,0.6684162776420401,wheat flour,1,0,0.83508044,wheat flour,1
+Boudin,"Bar - ""Gluten Friendly"" Raspberry Almond Shortbread",0,dish,0.9063861170346557,wheat flour,1,1,0.33742183,wheat flour,1
+Boudin,Bar - Peanut Butter Crunch,1,dish,0.35340759591529824,wheat flour,1,0,0.45534995,"cookies, crackers and cake",1
+Boudin,Bar - Salted Caramel Pretzel Brownie,1,dish,0.7897607305653016,"cookies, crackers and cake",1,1,0.9548163,"cookies, crackers and cake",1
+Boudin,Chocolate Chip Banana Bread - Loaf & Mini,1,dish,0.9335047841100685,wheat flour,1,1,0.983597,wheat flour,1
+Boudin,Cookie - Oatmeal Raisin Spice,1,dish,0.5524414067320602,wheat flour,1,1,0.81960475,wheat flour,1
+Boudin,Cookie - Peanut Butter,1,dish,0.8855689701477841,wheat flour,1,1,0.8718026,wheat flour,1
+Boudin,Cookie - Semi-Sweet Chocolate Chip,1,dish,0.8488679780354347,wheat flour,1,1,0.9639839,wheat flour,1
+Boudin,Cookie - Snickerdoodle,1,dish,0.9675655192573117,wheat flour,1,1,0.9835338,wheat flour,1
+Boudin,Cookie - The Royale,0,dish,0.6441292532791125,wheat flour,1,1,0.93980294,wheat flour,1
+Boudin,Cookie - White Chocolate Macadamia Nut,1,dish,0.8404036442615653,wheat flour,1,1,0.9432431,wheat flour,1
+Boudin,Croissant - Almond Lg. & Mini (NorCal & SoCal),1,dish,0.6714825075563384,bread and buns,1,1,0.92879725,bread and buns,1
+Boudin,Croissant - Butter Lg. & Mini (NorCal & SoCal),1,dish,0.6502363421672515,bread and buns,1,1,0.9274948,bread and buns,1
+Boudin,Croissant - Chocolate Lg. & Mini (NorCal & SoCal),1,dish,0.5587849769490969,bread and buns,1,1,0.9205043,bread and buns,1
+Boudin,Loaf - Banana Pecan,1,dish,0.786511921752618,wheat flour,1,0,0.8292156,wheat flour,1
+Boudin,Loaf - Marble Chocolate Chip,1,dish,0.8232986139445564,wheat flour,1,0,0.9488225,wheat flour,1
+Boudin,Loaf - Seasonal Pumpkin Swirl,1,dish,0.6940843873536459,wheat flour,1,0,0.9019207,wheat flour,1
+Boudin,Mini Coffee Cake,1,dish,0.9135867570354999,wheat flour,1,0,0.9683812,wheat flour,1
+Boudin,Morning Bun Lg. & Mini,1,dish,0.4073872434002077,bread and buns,1,1,0.8234704,bread and buns,1
+Boudin,Muffin - Banana Walnut,1,dish,0.7335633054375494,wheat flour,1,0,0.8489722,wheat flour,1
+Boudin,Muffin - Blueberry,1,dish,0.857262920616735,wheat flour,1,0,0.9425068,wheat flour,1
+Boudin,Muffin - Iced Lemon Poppyseed,1,dish,0.5132272204681996,wheat flour,1,0,0.92827886,wheat flour,1
+Boudin,Scone - Artisan Blueberry,1,dish,0.9602980053484447,wheat flour,1,0,0.9841546,wheat flour,1
+Boudin,Scone - Artisan Cinnamon,1,dish,0.9305547208018536,wheat flour,1,0,0.98262435,wheat flour,1
+Boudin,Fruits & Cheese Tray,1,catering or retail pack,0.4560336972805473,"cookies, crackers and cake",1,0,0.3198645,"cookies, crackers and cake",1
+Boudin,California Vegetable Tray,0,catering or retail pack,0.3732542016663315,no clear source,1,0,0.24436301,no clear source,1
+Boudin,Antipasti,1,dish,0.5405247078911481,bread and buns,1,0,0.32562777,no clear source,1
+Boudin,Ham & Swiss,1,catering or retail pack,0.4953603926617257,bread and buns,1,0,0.5827879,bread and buns,1
+Boudin,Pesto Roast Beef,1,catering or retail pack,0.171931580483083,no clear source,0,0,0.15165494,no clear source,1
+Boudin,Roast Beef & Cheddar,1,catering or retail pack,0.32428022538804335,no clear source,1,0,0.4406197,wheat flour,1
+Boudin,Catering Pesto Chicken,1,catering or retail pack,0.3604679467209948,no clear source,1,0,0.33807713,no clear source,1
+Boudin,*Sandwiches Prepared on Gluten Free Bread,0,catering or retail pack,0.38559086127038367,bread and buns,1,0,0.16465074,no clear source,1
+Boudin,Mini California Veggie,1,catering or retail pack,0.5830637646660413,wheat flour,1,0,0.24238493,no clear source,1
+Boudin,Mini Chicken Salad,1,catering or retail pack,0.2741403943830574,no clear source,1,0,0.22524615,no clear source,1
+Boudin,Mini Ham & Swiss,1,catering or retail pack,0.39237104425978553,no clear source,1,0,0.6072557,bread and buns,1
+Boudin,Mini Italiano,1,catering or retail pack,0.6940999072357099,pasta and noodles,1,0,0.761893,pasta and noodles,1
+Boudin,Mini Roast Beef & Cheddar,1,catering or retail pack,0.3784316995400505,no clear source,1,0,0.5374359,wheat flour,1
+Boudin,Mini Turkey Havarti,1,catering or retail pack,0.37031836929291473,no clear source,1,0,0.6046324,wheat flour,1
+Cosi,"Bowl, Adobo Chicken with Avocado",0,dish,0.6201833473524201,soy sauce and similar,1,0,0.56067365,soy sauce and similar,1
+Cosi,"Bowl, Spicy Meatless Chorizo",1,dish,0.3392884237590721,no clear source,1,0,0.15856485,no clear source,1
+Cosi,"Bowl, Shanghai Chicken",1,dish,0.9495478540782598,soy sauce and similar,1,0,0.89552265,soy sauce and similar,1
+Cosi,"Bowl, Falafel & Harissa Hummus",1,dish,0.2597082890576292,no clear source,1,0,0.7182981,bread and buns,1
+Cosi,"Orange Juice, Large",0,drink,0.19705434437131186,no clear source,0,0,0.017442485,no clear source,0
+Cosi,Hard Boiled Eggs,0,dish,0.15500749293752392,no clear source,0,0,0.058560826,no clear source,0
+Cosi,Fruit Cup,0,dish,0.08890619142641232,no clear source,0,0,0.04733772,no clear source,0
+Cosi,"Bagel, Asiago (Just Bagels)",1,dish,0.9925080400166509,bread and buns,1,1,0.96691406,bread and buns,1
+Cosi,"Bagel, Jalepeno (Just Bagels)",1,dish,0.9868753129668035,bread and buns,1,1,0.96124375,bread and buns,1
+Cosi,"Bagel, Multi-Grain (Just Bagels)",1,dish,0.9982885985252807,bread and buns,1,1,0.97539,bread and buns,1
+Cosi,"Bagel, Plain (Just Bagels)",1,dish,0.9923808212356996,bread and buns,1,1,0.96879715,bread and buns,1
+Cosi,"Bagel, Cinnamon Raisin (Just Bagels)",1,dish,0.9875942381800068,bread and buns,1,1,0.9680808,bread and buns,1
+Cosi,"Bagel, Seasame (Just Bagels)",1,dish,0.996233058463308,bread and buns,1,1,0.9747251,bread and buns,1
+Cosi,"Bagel, Everything (Just Bagels)",1,dish,0.9871439500967067,bread and buns,1,1,0.96405166,bread and buns,1
+Cosi,"Bagel, Poppy (Just Bagels)",1,dish,0.9886254734806841,bread and buns,1,1,0.9626028,bread and buns,1
+Cosi,"Bread Slice, Original* (Corporate)",1,component,0.9046567238453016,wheat flour,1,1,0.9680205,wheat flour,1
+Cosi,"Bread Slice, Multi Grain* (Corporate)",1,component,0.9722037674164034,wheat flour,1,1,0.97369474,wheat flour,1
+Cosi,"Bread Slice, Original* (Franchisee)",1,component,0.9046567238453016,wheat flour,1,1,0.97313875,wheat flour,1
+Cosi,"Bread Slice, Multi Grain* (Franchisee)",1,component,0.9722037674164034,wheat flour,1,1,0.9764905,wheat flour,1
+Cosi,"Croissant, Butter*",1,dish,0.9296596070073606,bread and buns,1,1,0.88018054,bread and buns,1
+Cosi,"Crumb Cake, Butter*",1,dish,0.9023122342415696,wheat flour,1,0,0.94600123,wheat flour,1
+Cosi,"Loaf, Lemon Pound Cake*",1,dish,0.932727844445225,wheat flour,1,1,0.98475236,wheat flour,1
+Cosi,"Loaf, Marble Pound Cake*",1,dish,0.9252724212853735,wheat flour,1,1,0.98549646,wheat flour,1
+Cosi,"Muffin, Blueberry",1,dish,0.857262920616735,wheat flour,1,0,0.9015746,wheat flour,1
+Cosi,"Muffin, Lemon Cranberry",1,dish,0.5815773336784543,wheat flour,1,0,0.9334308,wheat flour,1
+Cosi,"Muffin, Double Chocolate Chip",1,dish,0.7583580095612014,wheat flour,1,0,0.95938325,wheat flour,1
+Cosi,"Muffin, Apple Cinnamon",1,dish,0.731479923649504,wheat flour,1,0,0.81946033,wheat flour,1
+Cosi,"Scone, Blueberry*",1,dish,0.9508765270981729,wheat flour,1,0,0.9757624,wheat flour,1
+Cosi,"Scone, Orange Cranberry*",1,dish,0.8399927371263652,wheat flour,1,0,0.9675945,wheat flour,1
+Cosi,"Cream Cheese, Low-fat",0,component,0.37954572947252896,wheat flour,1,0,0.14743239,no clear source,1
+Cosi,"Cream Cheese, Plain",0,component,0.4315980106566384,wheat flour,1,0,0.15190639,no clear source,1
+Cosi,"Cream Cheese, Veggie",0,component,0.28270907041424953,no clear source,1,0,0.16424818,no clear source,1
+Cosi,"Brownie Bites, Blondie",1,dish,0.9412979731713866,wheat flour,1,0,0.8969756,wheat flour,1
+Cosi,"Brownie Bites, Chocolate Chunk*",1,dish,0.9307053443759445,wheat flour,1,0,0.7962924,wheat flour,1
+Cosi,"Brownie, Blondie*",1,dish,0.861511942859633,wheat flour,1,0,0.8824279,wheat flour,1
+Cosi,"Brownie, Chocolate Chunk*",1,dish,0.7838525562852662,wheat flour,1,0,0.61103386,wheat flour,1
+Cosi,"Cookie, Chocolate Chip*",1,dish,0.8489688089152319,wheat flour,1,1,0.9704086,wheat flour,1
+Cosi,Blueberry Smash Lemonade,0,drink,0.09314736375507626,no clear source,0,0,0.014392336,no clear source,0
+Cosi,Iced Tea,0,drink,0.021976556177831674,no clear source,0,0,0.014899643,no clear source,0
+Cosi,"Iced Tea, Raspberry",0,drink,0.026820402270098964,no clear source,0,0,0.015130728,no clear source,0
+Cosi,Lemonade,0,drink,0.07922080057663694,no clear source,0,0,0.017375665,no clear source,0
+Cosi,Mojito Lemonade,0,drink,0.03965707573827382,no clear source,0,0,0.01461567,no clear source,0
+Cosi,Café Americano,0,drink,0.15157337105752666,no clear source,0,0,0.09982066,no clear source,0
+Cosi,Cappuccino,0,drink,0.1800003111631543,no clear source,0,0,0.015014749,no clear source,0
+Cosi,Caramel Latte,0,drink,0.15052902959237568,no clear source,0,0,0.015483989,no clear source,0
+Cosi,Chai Tea Latte,0,drink,0.05427186608575507,no clear source,0,0,0.01711089,no clear source,0
+Cosi,Coffee,0,drink,0.11506970305056019,no clear source,0,0,0.019531239,no clear source,0
+Cosi,Espresso,0,drink,0.28051552824738535,wheat flour,1,0,0.018653521,no clear source,0
+Cosi,Hot Chocolate,0,drink,0.05500786857276463,no clear source,0,0,0.01665704,no clear source,0
+Cosi,Latte,0,drink,0.09734314086433216,no clear source,0,0,0.021615334,no clear source,0
+Cosi,Mocha,0,drink,0.24511315049375193,no clear source,1,0,0.018905446,no clear source,0
+Cosi,Shot in the Dark,0,drink,0.1977604877216661,no clear source,0,0,0.19713514,no clear source,1
+Cosi,White Hot Chocolate,0,drink,0.07054090184731543,no clear source,0,0,0.015603535,no clear source,0
+Cosi,Cheese,1,dish,0.57645808677382,wheat flour,1,0,0.14104462,no clear source,1
+Cosi,Margherita Chicken,1,dish,0.33036636952654597,no clear source,1,0,0.45045,wheat flour,1
+Cosi,Margherita,1,dish,0.30448799251529146,no clear source,1,0,0.45601606,wheat flour,1
+Cosi,Pepperoni,1,dish,0.5431670868279255,pasta and noodles,1,0,0.6461254,pasta and noodles,1
+Cosi,Kids Flatbread Cheese Pizza,1,dish,0.9733481162500836,pastry and dough,1,1,0.8587186,bread and buns,1
+Cosi,Kids Flatbread Pepperoni Pizza,1,dish,0.933162616885699,wheat flour,1,1,0.863161,bread and buns,1
+Cosi,Kids Grape Cup,0,dish,0.19452538990400958,no clear source,0,0,0.046638038,no clear source,0
+Cosi,Kids Grilled Cheese,1,dish,0.9832588819060768,bread and buns,1,0,0.9658996,bread and buns,1
+Cosi,Kids Ham & Cheese,1,dish,0.5559981241979899,bread and buns,1,0,0.37582102,bread and buns,1
+Cosi,Kids Mac & Cheese,1,dish,0.9901223071196836,pasta and noodles,1,0,0.98609793,pasta and noodles,1
+Cosi,Kids Peanut Butter & Jelly,1,dish,0.6366283870606719,wheat flour,1,0,0.083740406,no clear source,0
+Cosi,Kids Turkey Sandwich,1,dish,0.962726640425057,bread and buns,1,0,0.8868131,bread and buns,1
+Cosi,Roasted Chicken,0,component,0.2803973722265971,no clear source,1,0,0.10230471,no clear source,0
+Cosi,Turkey,0,component,0.6485803198521933,bread and buns,1,0,0.37605008,no clear source,1
+Cosi,Tofu,0,component,0.9373762244608937,soy sauce and similar,1,0,0.50564545,soy sauce and similar,1
+Cosi,Tuna Salad,0,component,0.35055878270436513,pasta and noodles,1,0,0.2607658,pasta and noodles,1
+Cosi,Southwest Adobo Chicken,0,dish,0.2610986443503265,no clear source,1,0,0.7629543,soy sauce and similar,1
+Cosi,Caesar,1,dish,0.734270937861327,bread and buns,1,0,0.8614217,bread and buns,1
+Cosi,Caesar - Chicken,1,dish,0.5657792809978522,bread and buns,1,0,0.8262917,bread and buns,1
+Cosi,Cobb,0,dish,0.514456643093157,wheat flour,1,0,0.05232763,no clear source,0
+Cosi,Mediterranean Salad,0,dish,0.2969940608537269,bread and buns,1,0,0.1799625,no clear source,1
+Cosi,Mandarin Chicken,1,dish,0.775616061362813,soy sauce and similar,1,0,0.7767923,soy sauce and similar,1
+Cosi,Signature,0,dish,0.36292426207733464,wheat flour,1,0,0.18155324,no clear source,1
+Cosi,Salad Dressing (Portion Only),0,component,0.07276473376259651,no clear source,0,0,0.07490527,no clear source,0
+Cosi,Dressing - Adobo Vinaigrette,0,component,0.387683896493618,soy sauce and similar,1,0,0.25128007,soy sauce and similar,1
+Cosi,Dressing - Caesar,0,component,0.8725275377130185,bread and buns,1,0,0.6329566,bread and buns,1
+Cosi,Dressing - Ginger Sesame,1,component,0.8222125163476571,soy sauce and similar,1,0,0.6237207,soy sauce and similar,1
+Cosi,Dressing - Cosi® Vinaigrette (Balsamic Vinaigrette),0,component,0.060636195069760035,no clear source,0,0,0.058453236,no clear source,0
+Cosi,Dressing - Green Goddess,0,component,0.19318822957224113,no clear source,0,0,0.22388572,no clear source,1
+Cosi,Dressing - Sherry Shallot,0,component,0.18073183236085544,no clear source,0,0,0.09534945,no clear source,0
+Cosi,Bacon Turkey Cheddar,1,dish,0.5536119689297332,wheat flour,1,0,0.7191864,wheat flour,1
+Cosi,Pesto Chicken Melt,1,dish,0.6724191141679261,bread and buns,1,0,0.9012275,bread and buns,1
+Cosi,Fiery Chipotle Chicken Melt,1,dish,0.7850494791309579,bread and buns,1,0,0.85403454,bread and buns,1
+Cosi,Buffalo Chicken,1,dish,0.5496239897057961,wheat flour,1,0,0.48358747,wheat flour,1
+Cosi,Old World Italiano,1,dish,0.6860076714729325,pasta and noodles,1,0,0.52276564,pasta and noodles,1
+Cosi,Chicken Noodle,1,dish,0.9991444471393092,pasta and noodles,1,1,0.9718859,pasta and noodles,1
+Cosi,Fire Roasted Vegetable,0,dish,0.41048176990304885,no clear source,1,0,0.03371654,no clear source,0
+Cosi,French Onion Soup,1,dish,0.9043425678206579,bread and buns,1,0,0.937669,bread and buns,1
+Cosi,Italian Wedding Soup,1,dish,0.8678759082451696,pasta and noodles,1,0,0.80730873,pasta and noodles,1
+Cosi,Macaroni & Cheese,1,dish,0.9999253198583041,pasta and noodles,1,1,0.9871788,pasta and noodles,1
+Cosi,Mediterranean Lentil,0,dish,0.3113095658344397,bread and buns,1,0,0.075995214,no clear source,0
+Cosi,New England Clam Chowder,0,dish,0.610864831659262,wheat flour,1,0,0.56517875,wheat flour,1
+Cosi,Turkey Chili,1,dish,0.20540333764191154,no clear source,1,0,0.14378779,no clear source,1
+Cosi,Tomato Basil,0,dish,0.25158594315944993,no clear source,1,0,0.04426588,no clear source,0
+Cosi,Chicken & Dumpling,1,dish,0.8943328367710657,wheat flour,1,0,0.94468933,wheat flour,1
+Panera,Asiago Cheese,1,dish,0.48807476836467323,wheat flour,1,0,0.15253653,no clear source,1
+Panera,Asiago Everything,1,dish,0.39743698351140944,wheat flour,1,0,0.41081536,no clear source,1
+Panera,Blueberry,1,dish,0.6444387289428073,wheat flour,1,0,0.64523166,wheat flour,1
+Panera,Chocolate Chip,1,dish,0.5741875730098334,wheat flour,1,0,0.9710193,wheat flour,1
+Panera,Cinnamon Crunch,1,dish,0.7457292417840502,wheat flour,1,0,0.79454446,"cookies, crackers and cake",1
+Panera,Cinnamon Swirl & Raisin,1,dish,0.7287616308536763,wheat flour,1,0,0.2562732,no clear source,1
+Panera,Everything,1,dish,0.37862085803531875,wheat flour,1,0,0.5262971,wheat flour,1
+Panera,Multigrain Bagel Flat,1,dish,0.9886129449589558,bread and buns,1,1,0.9747251,bread and buns,1
+Panera,Plain,1,dish,0.44238133476024644,wheat flour,1,0,0.27483767,wheat flour,1
+Panera,Sesame,1,dish,0.940247192211459,soy sauce and similar,1,0,0.6756576,soy sauce and similar,1
+Panera,Plain Cream Cheese Spread,0,component,0.0810249442685167,no clear source,0,0,0.14270912,no clear source,1
+Panera,Honey Walnut Cream Cheese Spread,0,component,0.13104473470182254,no clear source,0,0,0.13764834,no clear source,1
+Panera,Honey Pecan Cream Cheese Spread,0,component,0.14713986064831297,no clear source,0,0,0.1334152,no clear source,1
+Panera,Artisan Ciabatta- Loaf,1,component,0.9937644254960151,bread and buns,1,1,0.962462,bread and buns,1
+Panera,Black Pepper Focaccia - Round Loaf,1,component,0.899340270664872,bread and buns,1,1,0.961171,wheat flour,1
+Panera,Classic White - Loaf,1,component,0.7473926602989802,wheat flour,1,0,0.9184803,wheat flour,1
+Panera,Country Rustic Sourdough - XL Loaf,1,component,0.9975627759765542,bread and buns,1,1,0.96814114,bread and buns,1
+Panera,Croissant,1,dish,0.9838943063215864,bread and buns,1,1,0.9384633,bread and buns,1
+Panera,French Baguette,1,component,0.9047791559618711,bread and buns,1,1,0.9623913,bread and buns,1
+Panera,Sourdough Bread Bowl,1,component,0.9865727602556612,bread and buns,1,1,0.97074324,bread and buns,1
+Panera,Tomato Basil - Miche,1,component,0.25158594315944993,no clear source,1,0,0.08079154,no clear source,0
+Panera,Whole Grain Lahvash Wrap,1,component,0.9892054653661353,wheat flour,1,0,0.9308365,wheat flour,1
+Panera,Italian Stuffer Roll - Retail whole,1,component,0.4758862812472957,wheat flour,1,0,0.7687332,wheat flour,1
+Panera,Brownie,1,dish,0.7077923641704604,wheat flour,1,0,0.9091032,wheat flour,1
+Panera,Cookie- Candy,1,dish,0.4956112858786016,"cookies, crackers and cake",1,1,0.89858866,"cookies, crackers and cake",1
+Panera,Cookie- Chocolate Chipper (Large & Petites),1,dish,0.8696536728271127,wheat flour,1,1,0.9570375,"cookies, crackers and cake",1
+Panera,Cookie - Chocolate Coconut Macaroon,1,dish,0.7190949760706788,wheat flour,1,1,0.9339146,wheat flour,1
+Panera,Cookie - Coconut Macaroon,1,dish,0.8040257970092587,wheat flour,1,1,0.9308365,wheat flour,1
+Panera,Cookie - Dubai Style Chocolate Pistachio,1,dish,0.7079350932067167,wheat flour,1,1,0.9517737,wheat flour,1
+Panera,Cookie- Iced Shaped Shortbread- Pumpkin & Mitten,1,dish,0.9923865881037173,wheat flour,1,1,0.9851576,wheat flour,1
+Panera,Cookie- Kitchen Sink,1,dish,0.7839696592634007,wheat flour,1,1,0.96485513,"cookies, crackers and cake",1
+Panera,Cookie- Oatmeal Raisin with Berries,1,dish,0.5687708292392599,wheat flour,1,1,0.9323302,wheat flour,1
+Panera,Pastry - Cranberry Orange Loaf Slice - Naturally Flavored,1,dish,0.9376553837372749,wheat flour,1,0,0.98571813,wheat flour,1
+Panera,Muffin- Blueberry,1,dish,0.857262920616735,wheat flour,1,0,0.92944044,wheat flour,1
+Panera,Muffie- Chocolate Chip,1,dish,0.5741875730098334,wheat flour,1,0,0.94458723,wheat flour,1
+Panera,Pastry - Almond,1,dish,0.8733123715056588,wheat flour,1,0,0.9492946,wheat flour,1
+Panera,Pastry - Asiago Croissant Twists,1,dish,0.7734592446211331,bread and buns,1,1,0.9610981,wheat flour,1
+Panera,Pastry - Cherry,1,dish,0.8749863650875274,wheat flour,1,0,0.9738444,wheat flour,1
+Panera,Pastry- Chocolate Croissant,1,dish,0.4063630403215911,wheat flour,1,1,0.9517737,wheat flour,1
+Panera,Pastry- Cinnamon Roll,1,dish,0.7750124237787706,wheat flour,1,0,0.95861524,wheat flour,1
+Panera,Pastry - Pumpkin Spice Cinnamon Roll,1,dish,0.6426676857817137,wheat flour,1,0,0.96753323,wheat flour,1
+Panera,Pastry- Pecan Braid,1,dish,0.9335921311605694,wheat flour,1,0,0.9772842,wheat flour,1
+Panera,Scone- Orange (Large & Mini),1,dish,0.8425107162286989,wheat flour,1,0,0.98159516,wheat flour,1
+Panera,Cookie - PB & J,1,dish,0.8671010740577993,wheat flour,1,1,0.97046465,wheat flour,1
+Panera,Pastry - Cinnamon Croissant Bites with White Icing,1,dish,0.6870707483894809,wheat flour,1,1,0.9744348,wheat flour,1
+Panera,Add on - White Icing Portion Cup,0,component,0.22382426997418514,no clear source,1,0,0.115960725,no clear source,0
+Panera,Pastry - Cocoa Marshmallow Flavored Cake Slice,1,dish,0.8935296555310366,wheat flour,1,0,0.9693822,wheat flour,1
+Panera,Asiago Everything Bagel Stack - Wake-up BLT,1,dish,0.8571998880621772,bread and buns,1,1,0.96753323,bread and buns,1
+Panera,Asiago Bagel Stack - Farmhouse Duo,1,dish,0.9096286595593897,bread and buns,1,1,0.9732915,bread and buns,1
+Panera,"Bacon, Egg & Cheese on Artisan Ciabatta",1,dish,0.9551692252254631,bread and buns,1,1,0.95695716,bread and buns,1
+Panera,"Bacon, Egg & Cheese on Croissant",1,dish,0.9346180318543821,bread and buns,1,1,0.947186,bread and buns,1
+Panera,Bacon Double Take on Black Pepper Focaccia,1,dish,0.7418841982260372,wheat flour,1,1,0.8872046,bread and buns,1
+Panera,"Chipotle Chicken, Egg & Avo on Artisan Ciabatta",1,dish,0.8725540377333509,bread and buns,1,1,0.93367314,bread and buns,1
+Panera,Egg & Cheese on Artisan Ciabatta,1,dish,0.955073586483499,bread and buns,1,1,0.9589241,bread and buns,1
+Panera,Egg & Cheese on Croissant,1,dish,0.9284094055261478,bread and buns,1,1,0.9462997,bread and buns,1
+Panera,Egg Styles - Scrambled Egg or Egg White,0,component,0.23185954603418102,no clear source,1,0,0.42178997,no clear source,1
+Panera,Garden Avo & Egg White on Multigrain Bagel Flat,1,dish,0.906672669892488,bread and buns,1,1,0.9659639,bread and buns,1
+Panera,Ham Croissant Benny,1,dish,0.8691769540803393,bread and buns,1,1,0.9309621,bread and buns,1
+Panera,"Ham, Egg & Cheese on Artisan Ciabatta",1,dish,0.9388225871959436,bread and buns,1,1,0.9583042,bread and buns,1
+Panera,"Sausage, Egg & Cheese on Artisan Ciabatta",1,dish,0.9510517967510733,bread and buns,1,1,0.9599126,bread and buns,1
+Panera,"Sausage, Egg & Cheese on Croissant",1,dish,0.9299362294469867,bread and buns,1,1,0.94796216,bread and buns,1
+Panera,Steak & Wake on Artisan Ciabatta,1,dish,0.86945639996056,bread and buns,1,1,0.94757545,bread and buns,1
+Panera,Four Cheese Souffle,1,dish,0.7607515390818784,wheat flour,1,0,0.93033177,wheat flour,1
+Panera,Spinach & Bacon Souffle,1,dish,0.44866407726150415,bread and buns,1,0,0.67779404,wheat flour,1
+Panera,Fruit Cup,0,dish,0.08890619142641232,no clear source,0,0,0.04733772,no clear source,0
+Panera,Hard Boiled Eggs,0,dish,0.15500749293752392,no clear source,0,0,0.058560826,no clear source,0
+Panera,Parfait- Greek Yogurt with Berries,0,dish,0.17750598352325142,no clear source,0,0,0.028761586,no clear source,0
+Panera,Steel Cut Oatmeal with Strawberries & Pecans,0,dish,0.03726592223426983,no clear source,0,0,0.021574067,no clear source,0
+Panera,Steel Cut Oatmeal with Strawberries - Without Pecans,0,dish,0.04381780076162489,no clear source,0,0,0.021165619,no clear source,0
+Panera,Asian Sesame with & without Chicken,1,dish,0.8853846926991517,soy sauce and similar,1,0,0.89478946,soy sauce and similar,1
+Panera,Stuffer - Asian Sesame with & without Chicken,1,dish,0.8853846926991517,soy sauce and similar,1,0,0.7962924,soy sauce and similar,1
+Panera,Asian Sesame with & without Chicken - Without Almonds,1,dish,0.6984469010547079,soy sauce and similar,1,0,0.7977145,soy sauce and similar,1
+Panera,Stuffer - Asian Sesame with & without Chicken - without Almonds,1,dish,0.6984469010547079,soy sauce and similar,1,0,0.73545164,soy sauce and similar,1
+Panera,Caesar with & without Chicken,1,dish,0.5580819165102664,bread and buns,1,0,0.85705173,bread and buns,1
+Panera,Stuffer - Caesar with & without Chicken,1,dish,0.5580819165102664,bread and buns,1,0,0.8159669,bread and buns,1
+Panera,Stuffer - Farmhouse Crunch,1,dish,0.5891316507873497,wheat flour,1,0,0.6491339,wheat flour,1
+Panera,Farmhouse Crunch Salad - without almonds,0,dish,0.1746252953855294,no clear source,0,0,0.18877223,no clear source,1
+Panera,Stuffer - Farmhouse Crunch - without almonds,1,dish,0.38102500101748915,wheat flour,1,0,0.54334795,wheat flour,1
+Panera,Fuji Apple with & without Chicken,0,dish,0.42461465871742365,wheat flour,1,0,0.3765085,wheat flour,1
+Panera,Stuffer - Fuji Apple with & without Chicken,1,dish,0.42461465871742365,wheat flour,1,0,0.3555511,wheat flour,1
+Panera,Fuji Apple with & without Chicken - Without Pecans,0,dish,0.22342092406870695,no clear source,1,0,0.29401222,no clear source,1
+Panera,Stuffer - Fuji Apple with & without Chicken - without Pecans,1,dish,0.22342092406870695,no clear source,1,0,0.2683658,no clear source,1
+Panera,Greek with & without Chicken,0,dish,0.60727371933384,wheat flour,1,0,0.2939109,pasta and noodles,1
+Panera,Stuffer - Greek with & without Chicken,1,dish,0.60727371933384,wheat flour,1,0,0.39840642,pasta and noodles,1
+Panera,Green Goddess Cobb with Chicken,0,dish,0.32569790760243067,no clear source,1,0,0.1985299,no clear source,1
+Panera,Stuffer - Green Goddess Cobb with Chicken,1,dish,0.32569790760243067,no clear source,1,0,0.23458196,no clear source,1
+Panera,Ranch Parm BLT,1,dish,0.7675699986172919,bread and buns,1,0,0.952131,bread and buns,1
+Panera,Stuffer - Ranch Parm BLT,1,dish,0.7675699986172919,bread and buns,1,0,0.95806944,bread and buns,1
+Panera,Southwest Chicken Ranch,0,dish,0.26334171043802934,no clear source,1,0,0.38566384,no clear source,1
+Panera,Stuffer - Southwest Chicken Ranch,1,dish,0.26334171043802934,no clear source,1,0,0.33491567,no clear source,1
+Panera,Ultimate Garden Steak Salad,1,dish,0.3006893147722248,no clear source,1,0,0.253861,no clear source,1
+Panera,Stuffer - Ultimate Garden Steak,1,dish,0.32428932027182666,no clear source,1,0,0.50271034,wheat flour,1
+Panera,Harvest Medley with and without Chicken,1,dish,0.5036556339531936,wheat flour,1,0,0.24562746,no clear source,1
+Panera,Stuffer- Harvest Medley with and without Chicken,1,dish,0.5036556339531936,wheat flour,1,0,0.39653543,wheat flour,1
+Panera,Harvest Medley with and without Chicken - No Pecans,1,dish,0.2547124166873037,no clear source,1,0,0.1466974,no clear source,1
+Panera,Stuffer- Harvest Medley with and without Chicken - No Pecans,1,dish,0.2547124166873037,no clear source,1,0,0.23458196,no clear source,1
+Panera,All-In Veggie,1,dish,0.4232610833968786,no clear source,1,0,0.12592275,no clear source,1
+Panera,Sesame Ginger Chicken,1,dish,0.9049453237954235,soy sauce and similar,1,0,0.8384153,soy sauce and similar,1
+Panera,Sesame Ginger Chicken - No Almonds,1,dish,0.7583435989719486,soy sauce and similar,1,0,0.68825895,soy sauce and similar,1
+Panera,Carnitas Elote,0,dish,0.2139221007028913,no clear source,1,0,0.03358951,no clear source,0
+Panera,Asiago Bagel Stack - Spicy Steak,1,dish,0.7512838863835707,bread and buns,1,1,0.95379424,bread and buns,1
+Panera,Bacon Turkey Bravo on Tomato Basil,1,dish,0.48908467721667837,bread and buns,1,0,0.38260272,bread and buns,1
+Panera,Chicken Bacon Rancher on Black Pepper Focaccia,1,dish,0.6184932897029742,wheat flour,1,1,0.8119744,bread and buns,1
+Panera,Chipotle Chicken Avo Melt on Round Black Pepper Focaccia,1,dish,0.9062301537491134,bread and buns,1,1,0.8957053,bread and buns,1
+Panera,Ciabatta Cheesesteak,1,dish,0.9811224521348596,bread and buns,1,1,0.92762595,bread and buns,1
+Panera,Cranberry Walnut Chicken Salad on Country Rustic,1,dish,0.3678265906266788,bread and buns,1,0,0.15623358,no clear source,1
+Panera,Grilled Cheese on Classic White Loaf,1,dish,0.94587442828099,bread and buns,1,0,0.9590777,bread and buns,1
+Panera,Grilled Chicken & Avo BLT on Country Rustic Sourdough,1,dish,0.9795688214806216,bread and buns,1,1,0.9653158,bread and buns,1
+Panera,Mediterranean Veggie on Tomato Basil,1,dish,0.5789776368167053,bread and buns,1,0,0.107250325,no clear source,0
+Panera,Pickle Spear for cold sandwiches,0,component,0.30585320841058694,no clear source,1,0,0.06596494,no clear source,0
+Panera,Smokehouse BBQ Chicken on Artisan Ciabatta,1,dish,0.7327939417621324,bread and buns,1,1,0.91212356,bread and buns,1
+Panera,Toasted Frontega Chicken on Black Pepper Focaccia,1,dish,0.7501220204337291,bread and buns,1,1,0.8656789,bread and buns,1
+Panera,Toasted Italiano on Baguette,1,dish,0.9842865571158239,bread and buns,1,1,0.95846003,bread and buns,1
+Panera,Tomato Basil BLT on Tomato Basil Miche,1,dish,0.5487375832074812,bread and buns,1,0,0.91181,bread and buns,1
+Panera,Toasted Caprese Focaccia,1,dish,0.9269320613379745,bread and buns,1,1,0.9114953,bread and buns,1
+Panera,Tuna Salad on Country Rustic Sourdough,1,dish,0.9557839598770399,bread and buns,1,1,0.966028,bread and buns,1
+Panera,Turkey & Cheddar on Country Rustic Sourdough,1,dish,0.9782800274574946,bread and buns,1,1,0.96826136,bread and buns,1
+Panera,Spicy Fiesta Chicken on Ciabatta,1,dish,0.7984024433283645,bread and buns,1,1,0.9348725,bread and buns,1
+Panera,Catering- Ham & Cheddar on Country Rustic,1,catering or retail pack,0.7423735059136982,bread and buns,1,0,0.68394744,wheat flour,1
+Panera,Ciabatta Dipper - French,1,dish,0.9540125756604739,bread and buns,1,1,0.8893368,bread and buns,1
+Panera,Ciabatta Dipper - Chicken Pesto,1,dish,0.8887532964803946,bread and buns,1,1,0.72545415,bread and buns,1
+Panera,Dressing - Asian Sesame vinaigrette,0,component,0.8488951240325423,soy sauce and similar,1,0,0.4976635,soy sauce and similar,1
+Panera,Sauce - Balsamic Glaze,0,component,0.09345788655645626,no clear source,0,0,0.047602657,no clear source,0
+Panera,Sauce - Balsamic Vinaigrette,0,component,0.04649865038968326,no clear source,0,0,0.028114058,no clear source,0
+Panera,Sauce - Bravo Signature,0,component,0.23646572246315345,no clear source,1,0,0.1504028,no clear source,1
+Panera,Dressing - Caesar,0,component,0.8725275377130185,bread and buns,1,0,0.6329566,bread and buns,1
+Panera,Sauce - Cheese Hollandaise,0,component,0.09416412274586372,no clear source,0,0,0.1046602,no clear source,0
+Panera,Sauce - Chipotle Aioli,0,component,0.14158369301127027,no clear source,0,0,0.02072506,no clear source,0
+Panera,Dressing - Creamy Garden Herb,0,component,0.3433357314179415,no clear source,1,0,0.2654994,bread and buns,1
+Panera,Sauce - Creamy Basil Pesto,0,component,0.1710865016050196,no clear source,0,0,0.05470151,no clear source,0
+Panera,Dressing - Farmhouse Ranch,0,component,0.25949193188372277,no clear source,1,0,0.5848641,bread and buns,1
+Panera,Sauce - Garlic Aioli,0,component,0.10608119222377677,no clear source,0,0,0.021822827,no clear source,0
+Panera,Dressing - Greek,0,component,0.46863486905301144,bread and buns,1,0,0.3260568,bread and buns,1
+Panera,Sauce - Green Chile Salsa Verde,0,component,0.06829248466403426,no clear source,0,0,0.030908957,no clear source,0
+Panera,Dressing - Green Goddess,0,component,0.19318822957224113,no clear source,0,0,0.22388572,no clear source,1
+Panera,Spread- Hummus,0,component,0.1799874416469046,no clear source,0,0,0.10706346,no clear source,0
+Panera,Sauce - Mayonnaise,0,component,0.11812966403836389,no clear source,0,0,0.09334688,no clear source,0
+Panera,Dressing - Sesame Ginger,1,component,0.6433014367533173,soy sauce and similar,1,0,0.51024485,soy sauce and similar,1
+Panera,Dressing - White Balsamic Apple Flavored Vinaigrette,0,component,0.04889208663730016,no clear source,0,0,0.11085559,no clear source,0
+Panera,Dressing - Zesty Smoky Lemon Vinaigrette,1,component,0.08685027813067403,no clear source,0,0,0.087096825,no clear source,0
+Panera,Dipper - Creamy Tomato - Dipper Portion,0,component,0.3161944048970732,no clear source,1,0,0.26607114,no clear source,1
+Panera,Dipper - Bistro French Onion - Dipper Portion,1,component,0.40775328050741866,bread and buns,1,0,0.6211388,bread and buns,1
+Panera,Additional Pump of Caramel Syrup,0,component,0.1263824850137406,no clear source,0,0,0.018725162,no clear source,0
+Panera,Additional Pump of Chocolate Sauce,0,component,0.2159080532205807,no clear source,1,0,0.14694205,no clear source,1
+Panera,Additional Pump of Chocolatey Hazelnut Flavored Syrup,0,component,0.18802646495775277,no clear source,0,0,0.020215968,no clear source,0
+Panera,Additional Pump of Madagascar Vanilla Syrup or Cane Sugar Syrup,0,component,0.0972751949199876,no clear source,0,0,0.01778039,no clear source,0
+Panera,Additional Shot of Pumpkin Spice Sauce,0,component,0.0920574406840845,no clear source,0,0,0.107812636,no clear source,0
+Panera,Additional Pump of Snickerdoodle Syrup,0,component,0.2989613735910942,wheat flour,1,0,0.07864238,no clear source,0
+Panera,Additional Pump of White Chocolate and Peppermint Flavored Sauce,0,component,0.3038520168684078,wheat flour,1,0,0.06524657,no clear source,0
+Panera,Additional Pump of White Chocolate and Pistachio Flavored Sauce,0,component,0.24692649168932268,no clear source,1,0,0.056029383,no clear source,0
+Panera,Agave Lemonade,0,drink,0.11503903239760149,no clear source,0,0,0.014899643,no clear source,0
+Panera,Americano,0,drink,0.1938977172389844,no clear source,0,0,0.20625381,no clear source,1
+Panera,Blackberry Hibiscus Iced Tea - Naturally Flavored Herbal Tea,0,drink,0.03980879076134847,no clear source,0,0,0.01433703,no clear source,0
+Panera,Cafe Frozen Java,0,drink,0.2547798083497369,no clear source,1,0,0.027066175,no clear source,0
+Panera,Caffe Latte (espresso - Hot or Iced),0,drink,0.12703290713776227,no clear source,0,0,0.015906392,no clear source,0
+Panera,Cappuccino (espresso),0,drink,0.194471850167934,no clear source,0,0,0.014559518,no clear source,0
+Panera,Caramel Latte (espresso - Hot or Iced),0,drink,0.1548277587944662,no clear source,0,0,0.014392336,no clear source,0
+Panera,Chai Tea Latte (Hot or Iced),0,drink,0.06530632095152744,no clear source,0,0,0.015967654,no clear source,0
+Panera,Cherry Lime Fresca,0,drink,0.17277111566338865,no clear source,0,0,0.03839402,no clear source,0
+Panera,Coffee/Decaf Coffee (Hot or Iced),0,drink,0.15241704254826904,no clear source,0,0,0.017176708,no clear source,0
+Panera,Dragonfruit Sunset Energy Refresher - Naturally Flavored,0,drink,0.10669492243403156,no clear source,0,0,0.015723992,no clear source,0
+Panera,Hot Tea Bags,0,drink,0.09690107577530527,no clear source,0,0,0.86373675,wheat flour,1
+Panera,Iced Teas - Unsweetened / Sweetened / Passion Papaya Naturally Flavored Green Tea,0,drink,0.11640479305862184,no clear source,0,0,0.02220123,no clear source,0
+Panera,Island Mango Energy Refresher - Naturally Flavored - With Dragon Fruit,0,drink,0.12978138857249633,no clear source,0,0,0.017644465,no clear source,0
+Panera,Island Mango Energy Refresher - Naturally Flavored - With Pineapple,0,drink,0.15825851135332858,no clear source,0,0,0.017045317,no clear source,0
+Panera,Madagascar Vanilla Latte (espresso - Hot or Iced),0,drink,0.11769101055864128,no clear source,0,0,0.015189049,no clear source,0
+Panera,Mango Smoothie with Greek Yogurt (Frozen),0,drink,0.07081425322278778,no clear source,0,0,0.016215032,no clear source,0
+Panera,Mocha Latte (espresso - Hot or Iced),0,drink,0.18131101527815907,no clear source,0,0,0.015014749,no clear source,0
+Panera,Passionfruit Paradise Energy Refresher - Naturally Flavored,0,drink,0.11787387768696511,no clear source,0,0,0.015784562,no clear source,0
+Panera,Pumpkin Spice Frozen Java,0,drink,0.3418547948255375,"cookies, crackers and cake",1,0,0.025565214,no clear source,0
+Panera,Pumpkin Spice Iced Coffee,0,drink,0.17302527340833385,no clear source,0,0,0.015072629,no clear source,0
+Panera,Pumpkin Spice Latte - (Hot or Iced),0,drink,0.15508515406948542,no clear source,0,0,0.016152835,no clear source,0
+Panera,Pistachio White Mocha Frozen Java,0,drink,0.29161074232870143,no clear source,1,0,0.018941708,no clear source,0
+Panera,Pistachio White Mocha Latte,0,drink,0.19904990143541657,no clear source,1,0,0.01524759,no clear source,0
+Panera,Pistachio White Mocha Iced Latte,0,drink,0.16241460956703901,no clear source,0,0,0.015189049,no clear source,0
+Panera,Pistachio White Mocha Iced Coffee,0,drink,0.1567328632111057,no clear source,0,0,0.014281935,no clear source,0
+Panera,Signature Hot Chocolate - (Hot or Frozen),0,drink,0.19246492388641545,no clear source,0,0,0.016466174,no clear source,0
+Panera,Strawberry Banana Smoothie with Greek Yogurt (Frozen),0,drink,0.0780541720950535,no clear source,0,0,0.016593177,no clear source,0
+Panera,Strawberry Basil Lemonade Fresca,0,drink,0.05735480968849982,no clear source,0,0,0.018334452,no clear source,0
+Panera,Strawberry Smoothie with Greek Yogurt (Frozen),0,drink,0.07406372536762684,no clear source,0,0,0.01678549,no clear source,0
+Panera,Sweet Cream Cold Foam,0,component,0.10740155009751651,no clear source,0,0,0.026506126,no clear source,0
+Panera,Tropical Green Smoothie (Frozen),0,drink,0.0458914151662726,no clear source,0,0,0.016090874,no clear source,0
+Panera,Kids Broccoli Cheddar Soup,1,dish,0.5935321248390701,wheat flour,1,0,0.79390603,wheat flour,1
+Panera,Kids Ham & American Cheese on Classic White Loaf,1,dish,0.628120349474967,bread and buns,1,0,0.69035035,bread and buns,1
+Panera,Kids Turkey & American Cheese on Classic White Loaf,1,dish,0.7165148037884076,bread and buns,1,0,0.86223567,bread and buns,1
+Panera,Mac & Cheese,1,dish,0.9968106437283827,pasta and noodles,1,0,0.985663,pasta and noodles,1
+Panera,Bistro French Onion with Cheese & Croissant Croutons,1,dish,0.9706586930086812,bread and buns,1,1,0.9600627,bread and buns,1
+Panera,Broccoli Cheddar,1,dish,0.4523357855743281,bread and buns,1,0,0.6033477,wheat flour,1
+Panera,Cream of Chicken & Wild Rice,1,dish,0.6483491403910273,wheat flour,1,0,0.5209685,wheat flour,1
+Panera,Homestyle Chicken Noodle,1,dish,0.9757056040103712,pasta and noodles,1,1,0.97046465,pasta and noodles,1
+Panera,Creamy Tomato with Croissant Croutons - Vegetarian,1,dish,0.9901126285677396,bread and buns,1,1,0.9592307,bread and buns,1
+Panera,Bacon Mac & Cheese,1,dish,0.9716617733163982,pasta and noodles,1,0,0.9824905,pasta and noodles,1
+Panera,Rustic Baked Potato,0,dish,0.46763925670422446,wheat flour,1,0,0.14499426,no clear source,1
+Panera,Three Cheese Lasagna,1,dish,0.9931907315030598,pasta and noodles,1,1,0.9834705,pasta and noodles,1
+Panera,Autumn Squash - Vegetarian,0,dish,0.3695799191275151,no clear source,1,0,0.16817278,no clear source,1
+Panera,Grab N Go Chicken Caesar Wrap,1,dish,0.9626788572534681,bread and buns,1,0,0.9378969,bread and buns,1
+Panera,Frontega Chicken Wrap,1,dish,0.9986876428695031,bread and buns,1,0,0.9174507,bread and buns,1
+Panera,Green Goddess Chicken Wrap,1,dish,0.9553579208657068,bread and buns,1,0,0.9216402,bread and buns,1
+Panera,Turkey & Cheddar Wrap,1,dish,0.9805604941010372,bread and buns,1,0,0.92762595,bread and buns,1
+Pret,Pesto Caprese Baguette,1,dish,0.8743249132663014,bread and buns,1,1,0.9635062,bread and buns,1
+Pret,Pret's Chicken Bánh Mi,1,dish,0.7349776964953405,bread and buns,1,0,0.93663365,soy sauce and similar,1
+Pret,Pret’s Famous Ham & Cheese Baguette,1,dish,0.9288854885564992,bread and buns,1,1,0.97151,bread and buns,1
+Pret,Pret's Tuna & Cucumber Baguette,1,dish,0.9142212951510514,bread and buns,1,1,0.9686789,bread and buns,1
+Pret,Romesco Chicken & Mozzarella Baguette,1,dish,0.9781551309736956,bread and buns,1,1,0.96653706,bread and buns,1
+Pret,Cheddar & Tomato Sandwich,1,dish,0.9749536205304544,bread and buns,1,0,0.929951,bread and buns,1
+Pret,Chicken & Bacon Sandwich,1,dish,0.8071206320230715,bread and buns,1,0,0.89805347,bread and buns,1
+Pret,Pret's Chicken Salad & Avo Sandwich,1,dish,0.8446039705679937,bread and buns,1,0,0.88602656,bread and buns,1
+Pret,Pret's Egg Salad & Arugula Sandwich,1,dish,0.9116185335992518,bread and buns,1,0,0.9234544,bread and buns,1
+Pret,Pret's Tuna & Cucumber Sandwich,1,dish,0.8865445295144629,bread and buns,1,0,0.9224824,bread and buns,1
+Pret,Rainbow Veggie Sandwich,1,dish,0.7685044726892363,bread and buns,1,0,0.79549927,bread and buns,1
+Pret,Turkey & Cheddar Sandwich,1,dish,0.8913305106363184,bread and buns,1,0,0.92788786,bread and buns,1
+Pret,Kid's Ham & Cheddar Sandwich,1,dish,0.9126291813723401,bread and buns,1,0,0.9046505,bread and buns,1
+Pret,Kid's Cheddar & Mayo Sandwich,1,dish,0.9320204425753419,bread and buns,1,0,0.93183565,bread and buns,1
+Pret,Avocado Veggie Sandwich,1,dish,0.9198192722737156,bread and buns,1,0,0.9097468,bread and buns,1
+Pret,Pret’s Italian Turkey Club Sandwich,1,dish,0.9144505782755904,bread and buns,1,0,0.9167081,bread and buns,1
+Pret,BBQ Pulled Pork Melt,1,dish,0.7331855075675437,bread and buns,1,0,0.8735388,bread and buns,1
+Pret,Buffalo Chicken Melt,1,dish,0.7100327417003539,bread and buns,1,0,0.8558512,bread and buns,1
+Pret,Roasted Mushroom & Swiss Melt,1,dish,0.8562999762351898,bread and buns,1,0,0.9532751,bread and buns,1
+Pret,Bang Bang Chicken Wrap,1,dish,0.8983108294320781,bread and buns,1,0,0.91274774,bread and buns,1
+Pret,Crunchy Chipotle Chicken & Avo Wrap,1,dish,0.9507630845958437,bread and buns,1,0,0.9091032,bread and buns,1
+Pret,Crunchy Miso Mushroom Wrap,1,dish,0.9383240309637467,bread and buns,1,0,0.9199307,bread and buns,1
+Pret,Falafel & Hummus Wrap,1,dish,0.9120772766232474,bread and buns,1,0,0.9222025,bread and buns,1
+Pret,Spicy Chicken Caesar Wrap,1,dish,0.9695879536198809,bread and buns,1,0,0.93581736,bread and buns,1
+Pret,Pret’s Chicken Parm Wrap,1,dish,0.9911051422585319,bread and buns,1,0,0.9411153,bread and buns,1
+Pret,Pret's Pulled Pork Burrito,1,dish,0.9345535580350138,bread and buns,1,0,0.9320833,bread and buns,1
+Pret,Spiced Lentil & Chickpea Hot Wrap,1,dish,0.8038994967282475,bread and buns,1,0,0.86726075,bread and buns,1
+Pret,Chicken Burrito Wrap,1,dish,0.9994290411443882,bread and buns,1,0,0.9235924,bread and buns,1
+Pret,Ham & Cheddar Croissant,1,dish,0.9522852646352914,bread and buns,1,1,0.9457011,bread and buns,1
+Pret,Turkey & Swiss Croissant,1,dish,0.8691246929395693,bread and buns,1,1,0.95540243,bread and buns,1
+Pret,Broccoli Cheddar & Chive Quiche,1,dish,0.41438368473749054,wheat flour,1,0,0.6746938,pastry and dough,1
+Pret,Spinach & Fontina Quiche,1,dish,0.7212466189984957,pastry and dough,1,0,0.66137636,pastry and dough,1
+Pret,Bread Roll,1,component,0.7706378017491439,wheat flour,1,1,0.9666002,wheat flour,1
+Pret,Chili Yogurt & Herbs Soup Topper,1,component,0.07762027449437059,no clear source,0,0,0.13822895,no clear source,1
+Pret,"Croutons, Lemon & Herbs Soup Topper",1,component,0.2587704468527674,no clear source,1,1,0.9158089,bread and buns,1
+Pret,Moroccan Lentil Soup,0,dish,0.17206509082200294,no clear source,0,0,0.13128456,no clear source,1
+Pret,Roasted Veggie Harvest Soup,0,dish,0.18468841157053162,no clear source,0,0,0.17695588,no clear source,1
+Pret,Super Greens Soup,0,dish,0.22656030957954632,no clear source,1,0,0.1377643,no clear source,1
+Pret,Tomato & Feta Soup,0,dish,0.22150797077858309,no clear source,1,0,0.2193375,no clear source,1
+Pret,Turmeric Chicken & Farro Soup,1,dish,0.9296444337377685,wheat flour,1,1,0.9730877,wheat flour,1
+Pret,White Chicken Chili,0,dish,0.16726081099980583,no clear source,0,0,0.19961986,no clear source,1
+Pret,Classic Mac and Cheese,1,dish,0.9981767764965177,pasta and noodles,1,0,0.98926485,pasta and noodles,1
+Pret,Spinach & Tomato Mac and Cheese,1,dish,0.9924974664758165,pasta and noodles,1,0,0.98835784,pasta and noodles,1
+Pret,Pumpkin Bisque,0,dish,0.2225641553455321,no clear source,1,0,0.51808906,wheat flour,1
+Pret,"Blackened Salmon, Avo & Quinoa Salad with Pret's Simple",0,dish,0.09338041823032805,no clear source,0,0,0.0705596,no clear source,0
+Pret,Vinaigrette,0,component,0.060533528379829504,no clear source,0,0,0.022414215,no clear source,0
+Pret,"Blackened Salmon, Avo & Quinoa Salad without Dressing",0,dish,0.08314154267504437,no clear source,0,0,0.068662286,no clear source,0
+Pret,Chicken Avocado Salad with Pret's Simple Vinaigrette,0,dish,0.08075276690962063,no clear source,0,0,0.08122776,no clear source,0
+Pret,Chicken Avocado Salad without Dressing,0,dish,0.10737972179837152,no clear source,0,0,0.107250325,no clear source,0
+Pret,Chicken Caesar Salad with Caesar Dressing,1,dish,0.6010461518103704,bread and buns,1,0,0.8474635,bread and buns,1
+Pret,Chicken Caesar Salad without Dressing,1,dish,0.7452900350417799,bread and buns,1,0,0.82161736,bread and buns,1
+Pret,"Chicken, Elote Corn & Avocado Salad with Herb Yogurt Dressing",0,dish,0.044178027900482864,no clear source,0,0,0.07654563,no clear source,0
+Pret,Elote Chicken salad with Pret's Simple Vinaigrette (LAX),0,dish,0.11435570791394323,no clear source,0,0,0.07004896,no clear source,0
+Pret,"Chicken, Elote Corn & Avocado Salad without Dressing",0,dish,0.05152668931075732,no clear source,0,0,0.06620602,no clear source,0
+Pret,Chicken & Strawberry Salad with Pret's Simple Vinaigrette,0,dish,0.0653280964342271,no clear source,0,0,0.05623635,no clear source,0
+Pret,Chicken & Strawberry Salad without Dressing,0,dish,0.1232379554955737,no clear source,0,0,0.10743748,no clear source,0
+Pret,Mediterranean Mezze Salad with Pret's Simple Vinaigrette,0,dish,0.10493717854208517,no clear source,0,0,0.6550051,bread and buns,1
+Pret,Mediterranean Mezze Salad without Dressing,0,dish,0.14034914242289254,no clear source,0,0,0.5333367,bread and buns,1
+Pret,Pesto Marinated White Bean & Avocado Salad with Pret's Simple,0,dish,0.06379116016410546,no clear source,0,0,0.02769026,no clear source,0
+Pret,Pesto Marinated White Bean & Avocado Salad without Dressing,0,dish,0.06780852334889664,no clear source,0,0,0.033336826,no clear source,0
+Pret,Caesar Side Salad with Caesar Dressing,1,dish,0.20585093109294206,no clear source,1,0,0.7789858,bread and buns,1
+Pret,Caesar Side Salad without Dressing,1,dish,0.2685304166942579,bread and buns,1,0,0.6389479,bread and buns,1
+Pret,Pret's Greek Side Salad with Herb Yogurt Dressing,1,dish,0.12440511290013145,no clear source,0,0,0.053206205,no clear source,0
+Pret,Pret's Greek Side Salad without Dressing,1,dish,0.1488639731432977,no clear source,0,0,0.06572466,no clear source,0
+Pret,Lemon Arugula Side Salad with Pret's Simple Vinaigrette,0,dish,0.06764142869761125,no clear source,0,0,0.020606475,no clear source,0
+Pret,Lemon Arugula Side Salad without Dressing,0,dish,0.0887925726574812,no clear source,0,0,0.026405517,no clear source,0
+Pret,Caesar Dressing,1,component,0.1260218507716815,no clear source,0,0,0.02898063,no clear source,0
+Pret,Herb Yogurt Dressing,0,component,0.11066669195395928,no clear source,0,0,0.05781161,no clear source,0
+Pret,Pret's Simple Vinaigrette,0,component,0.08738966334208842,no clear source,0,0,0.02665774,no clear source,0
+Pret,Egg Salad & Avocado Breakfast Baguette,1,dish,0.8009029058512689,bread and buns,1,1,0.9626028,bread and buns,1
+Pret,"Bacon, Egg & Cheddar Roll",1,dish,0.6910403565696339,bread and buns,1,0,0.70212173,pastry and dough,1
+Pret,Egg & Cheddar Roll,1,dish,0.7629245235533288,wheat flour,1,0,0.74632394,bread and buns,1
+Pret,Southwestern Breakfast Wrap,1,dish,0.9219106911914963,bread and buns,1,0,0.9203613,bread and buns,1
+Pret,Southwestern Breakfast Wrap with bacon,1,dish,0.9552718319928394,wheat flour,1,0,0.93686515,bread and buns,1
+Pret,Apple Cranberry Crunch Porridge Topper,0,component,0.4161505802975888,wheat flour,1,0,0.37022537,wheat flour,1
+Pret,Coconut Banana Blueberry Porridge Topper,0,component,0.44656171340814166,"cookies, crackers and cake",1,0,0.2987982,no clear source,1
+Pret,Oatm*lk Porridge,0,dish,0.25625646703991856,no clear source,1,0,0.21733753,no clear source,1
+Pret,Egg White Greek Frittata,0,dish,0.09658064441030811,no clear source,0,0,0.047780067,no clear source,0
+Pret,Power Breakfast Frittata,0,dish,0.15280803451881309,no clear source,0,0,0.050705366,no clear source,0
+Pret,Dragon Fruit Yogurt Protein Pot,0,dish,0.10018639156985043,no clear source,0,0,0.031026183,no clear source,0
+Pret,Sunset Smoothie Pot,0,drink,0.033374884651038994,no clear source,0,0,0.026759284,no clear source,0
+Pret,Egg Salad & Bacon Sourdough Breakfast Baguette,1,dish,0.9888175343461769,bread and buns,1,1,0.96926606,bread and buns,1
+Pret,"Bacon, Egg & Cheddar Sourdough Breakfast Half Baguette",1,dish,0.9985048828029751,bread and buns,1,1,0.9689738,bread and buns,1
+Pret,Egg & Cheddar Sourdough Breakfast Half Baguette,1,dish,0.9993438519293034,bread and buns,1,1,0.9686196,bread and buns,1
+Pret,Roasted Tomato & Mozzarella Croissant,1,dish,0.9589778756019429,bread and buns,1,1,0.9528382,bread and buns,1
+Pret,Apple Cinnamon Oatm*lk Porridge,1,dish,0.1726437670748835,no clear source,0,0,0.09653532,no clear source,0
+Pret,Brown Sugar & Banana Oatm*lk Porridge,1,dish,0.3059255472736333,wheat flour,1,0,0.12378869,no clear source,1
+Pret,Banana,0,dish,0.36553476247869887,wheat flour,1,0,0.07906799,no clear source,0
+Pret,Cantaloupe & Blueberry Pot,0,dish,0.2561103896567145,wheat flour,1,0,0.094176665,no clear source,0
+Pret,Pineapple & Lime Pot,0,dish,0.23493151357842124,no clear source,1,0,0.05834584,no clear source,0
+Pret,Strawberry & Blueberry Pot,0,dish,0.20111150046771398,no clear source,1,0,0.058776557,no clear source,0
+Pret,Banana & Honey Yogurt Pot (LAX Only),0,dish,0.21090956137766426,no clear source,1,0,0.03191915,no clear source,0
+Pret,Berry Yogurt Parfait Pot (LAX ONLY),0,dish,0.11074866817142959,no clear source,0,0,0.04232459,no clear source,0
+Pret,Bircher Muesli,0,dish,0.11412954034831124,no clear source,0,0,0.05291181,no clear source,0
+Pret,Blueberry & Granola Pot,0,dish,0.4518141863360563,wheat flour,1,0,0.13330235,no clear source,1
+Pret,Blueberry Yogurt Pot,0,dish,0.45897171494098266,wheat flour,1,0,0.035211135,no clear source,0
+Pret,Dragon Fruit Coconut Chia Bowl,0,dish,0.1318263944360284,no clear source,0,0,0.1337543,no clear source,1
+Pret,Egg & Spinach Pot,0,dish,0.3282242300770366,no clear source,1,0,0.4240542,no clear source,1
+Pret,Guava Coconut Chia Pot,0,dish,0.15372196240417313,no clear source,0,0,0.032100707,no clear source,0
+Pret,Hummus Pot,0,dish,0.14487845630258045,no clear source,0,0,0.19513355,no clear source,1
+Pret,Little Cup of Goodness,0,dish,0.324353404862331,no clear source,1,0,0.36761075,no clear source,1
+Pret,Strawberry Yogurt Pot,0,dish,0.187513028250903,no clear source,0,0,0.024750972,no clear source,0
+Pret,Chobani Strawberry Yogurt Protein Pot,0,dish,0.07356943384920234,no clear source,0,0,0.030908957,no clear source,0
+Pret,Sunshine Bowl,0,dish,0.29988500387476313,no clear source,1,0,0.077099696,no clear source,0
+Pret,Kid's Honey Banana Yogurt Pot (NYC Only),0,dish,0.2402426362849962,no clear source,1,0,0.042245496,no clear source,0
+Pret,Pumpkin Spice Yogurt Pot,0,dish,0.16061059413227585,no clear source,0,0,0.026708463,no clear source,0
+Pret,Almond Croissant,1,dish,0.9212165638218626,bread and buns,1,1,0.92590266,bread and buns,1
+Pret,Chocolate Croissant,1,dish,0.7093005896707276,bread and buns,1,1,0.9014011,bread and buns,1
+Pret,Plain Croissant,1,dish,0.9197136414557878,bread and buns,1,1,0.9370958,bread and buns,1
+Pret,Blueberry Muffin,1,dish,0.7454858953237727,wheat flour,1,0,0.98173577,wheat flour,1
+Pret,"Cinnamon Kouign Amann (""queen a-mahn"")",1,dish,0.6226289355201154,wheat flour,1,0,0.26340988,no clear source,1
+Pret,Everything Cream Cheese Swirl,1,dish,0.6214364713803388,wheat flour,1,0,0.31027624,"cookies, crackers and cake",1
+Pret,Chocolate Chunk Cookie,1,dish,0.8540455245694197,wheat flour,1,1,0.967163,wheat flour,1
+Pret,Chocolate Brownie Cookie,1,dish,0.8685456446428246,wheat flour,1,1,0.87310666,wheat flour,1
+Pret,Double Chocolate Pecan Cookie,1,dish,0.7288036679054235,wheat flour,1,1,0.9465967,wheat flour,1
+Pret,Harvest Cookie,1,dish,0.8804344232113006,wheat flour,1,1,0.9686196,wheat flour,1
+Pret,Pumpkin Cheese Danish,1,dish,0.3473027277290627,wheat flour,1,0,0.48560733,"cookies, crackers and cake",1
+Pret,Brownie Bite,1,dish,0.507526149099608,wheat flour,1,0,0.32993123,wheat flour,1
+Pret,Key Lime Cheesecake,1,dish,0.9842327297137994,"cookies, crackers and cake",1,0,0.90448195,"cookies, crackers and cake",1
+Pret,Raspberry Cheesecake,1,dish,0.9116413548026105,"cookies, crackers and cake",1,0,0.8887587,"cookies, crackers and cake",1
+Pret,Tiramisu Cheesecake,1,dish,0.9865085958283673,"cookies, crackers and cake",1,0,0.9449947,"cookies, crackers and cake",1
+Pret,Chocolate Covered Almonds,0,component,0.08921939263726264,no clear source,0,0,0.047780067,no clear source,0
+Pret,Omega-3 Mix,0,component,0.4291462505586524,wheat flour,1,0,0.03308598,no clear source,0
+Pret,Raw Almonds,0,component,0.08824821576938424,no clear source,0,0,0.029873095,no clear source,0
+Pret,Coffee,0,drink,0.11506970305056019,no clear source,0,0,0.019531239,no clear source,0
+Pret,Americano Black,0,drink,0.22106034830672228,no clear source,1,0,0.11085559,no clear source,0
+Pret,Cappuccino (Almond Milk),0,drink,0.0900568645816886,no clear source,0,0,0.015784562,no clear source,0
+Pret,Cappuccino (Oat Milk),0,drink,0.1721768324489631,no clear source,0,0,0.015130728,no clear source,0
+Pret,Cappuccino (Half and Half),0,drink,0.36355809461158106,wheat flour,1,0,0.017309096,no clear source,0
+Pret,Cappuccino (Skim Milk),0,drink,0.146944070134997,no clear source,0,0,0.016090874,no clear source,0
+Pret,Cappuccino (Whole Milk),0,drink,0.1357534017256221,no clear source,0,0,0.014842416,no clear source,0
+Pret,Espresso,0,drink,0.28051552824738535,wheat flour,1,0,0.018653521,no clear source,0
+Pret,Macchiato (Almond Milk),0,drink,0.13440954356409796,no clear source,0,0,0.022116588,no clear source,0
+Pret,Macchiato (Oat Milk),0,drink,0.21229178096811352,no clear source,1,0,0.022032265,no clear source,0
+Pret,Macchiato (Half and Half),0,drink,0.4206039398515933,wheat flour,1,0,0.19406214,no clear source,1
+Pret,Macchiato (Skim Milk),0,drink,0.20651174070410838,no clear source,1,0,0.026506126,no clear source,0
+Pret,Macchiato (Whole Milk),0,drink,0.18517921335513043,no clear source,0,0,0.024609929,no clear source,0
+Pret,Flat White (Almond Milk),0,drink,0.1912246788388281,no clear source,0,0,0.026607107,no clear source,0
+Pret,Flat White (Oat Milk),0,drink,0.31554523337571416,wheat flour,1,0,0.024563089,no clear source,0
+Pret,Flat White (Half and Half),0,drink,0.5171187351231643,wheat flour,1,0,0.15215819,no clear source,1
+Pret,Flat White (Skim Milk),0,drink,0.27435837556042664,no clear source,1,0,0.02508314,no clear source,0
+Pret,Flat White (Whole Milk),0,drink,0.2593690518151406,no clear source,1,0,0.025711587,no clear source,0
+Pret,Coffee (Cont.),0,drink,0.11506970305056019,no clear source,0,0,0.01836964,no clear source,0
+Pret,Mocha (Almond Milk),0,drink,0.11051758429780856,no clear source,0,0,0.016593177,no clear source,0
+Pret,Mocha (Oat Milk),0,drink,0.18731089320983385,no clear source,0,0,0.015723992,no clear source,0
+Pret,Mocha (Half & Half),0,drink,0.32777270639779366,wheat flour,1,0,0.022328783,no clear source,0
+Pret,Mocha (Skim Milk),0,drink,0.16496755382466732,no clear source,0,0,0.018055335,no clear source,0
+Pret,Mocha (Whole Milk),0,drink,0.14934172807222346,no clear source,0,0,0.015663648,no clear source,0
+Pret,Latte (Almond Milk),0,drink,0.0650985367374588,no clear source,0,0,0.017848738,no clear source,0
+Pret,Latte (Oat Milk),0,drink,0.11970880834365871,no clear source,0,0,0.016721142,no clear source,0
+Pret,Latte (Half & Half),0,drink,0.2278630954069838,no clear source,1,0,0.01979478,no clear source,0
+Pret,Latte (Skim Milk),0,drink,0.1052128734198462,no clear source,0,0,0.01812472,no clear source,0
+Pret,Latte (Whole Milk),0,drink,0.09892044218421736,no clear source,0,0,0.01711089,no clear source,0
+Pret,Pret's Organic Single Origin Coffee Black,0,drink,0.2131335778584399,no clear source,1,0,0.02898063,no clear source,0
+Pret,Pret's Organic Classic Blend Coffee Black,0,drink,0.17768037078109378,no clear source,0,0,0.020924192,no clear source,0
+Pret,Chai Latte (Almond Milk),0,drink,0.06342722374760712,no clear source,0,0,0.017309096,no clear source,0
+Pret,Chai Latte (Oat Milk),0,drink,0.09988914472821575,no clear source,0,0,0.016914913,no clear source,0
+Pret,Chai Latte (Half & Half),0,drink,0.1705959488603509,no clear source,0,0,0.017309096,no clear source,0
+Pret,Chai Latte (Skim Milk),0,drink,0.09241376203056528,no clear source,0,0,0.01815951,no clear source,0
+Pret,Chai Latte (Whole Milk),0,drink,0.08742403272740051,no clear source,0,0,0.01685008,no clear source,0
+Pret,Matcha Chai Latte (Almond Milk),0,drink,0.0719896758622991,no clear source,0,0,0.016090874,no clear source,0
+Pret,Matcha Chai Latte (Oat Milk),0,drink,0.1136645993411427,no clear source,0,0,0.015967654,no clear source,0
+Pret,Matcha Chai Latte (Half & Half Milk),0,drink,0.1612220409591908,no clear source,0,0,0.016090874,no clear source,0
+Pret,Matcha Chai Latte (Skim Milk),0,drink,0.10553050994776669,no clear source,0,0,0.01685008,no clear source,0
+Pret,Matcha Chai Latte (Whole Milk),0,drink,0.100587962227077,no clear source,0,0,0.016029147,no clear source,0
+Pret,Matcha Latte (Almond milk),0,drink,0.08781927758078123,no clear source,0,0,0.016029147,no clear source,0
+Pret,Matcha Latte (Oat milk),0,drink,0.14075070744690832,no clear source,0,0,0.015483989,no clear source,0
+Pret,Matcha Latte (Half & Half),0,drink,0.23860899546160452,no clear source,1,0,0.017045317,no clear source,0
+Pret,Matcha Latte (Skim Milk),0,drink,0.13146699898673642,no clear source,0,0,0.016914913,no clear source,0
+Pret,Matcha Latte (Whole Milk),0,drink,0.12450647492183242,no clear source,0,0,0.015845362,no clear source,0
+Pret,Hot Chocolate (Almond Milk),0,drink,0.0532367261025235,no clear source,0,0,0.015845362,no clear source,0
+Pret,Hot Chocolate (Oat Milk),0,drink,0.19244010858518945,no clear source,0,0,0.01524759,no clear source,0
+Pret,Hot Chocolate (Half & Half),0,drink,0.15517622667085385,no clear source,0,0,0.018475592,no clear source,0
+Pret,Hot Chocolate (Skim Milk),0,drink,0.08020253147557854,no clear source,0,0,0.0153063545,no clear source,0
+Pret,Hot Chocolate (Whole Milk),0,drink,0.07929897124540763,no clear source,0,0,0.015365342,no clear source,0
+Pret,Iced Coffee,0,drink,0.0975423936773755,no clear source,0,0,0.017242778,no clear source,0
+Pret,Cold Brew (Black),0,drink,0.18620826907288224,no clear source,0,0,0.042087726,no clear source,0
+Pret,Iced Americano (Black),0,drink,0.15725160346676148,no clear source,0,0,0.04023794,no clear source,0
+Pret,Iced Coffee (Black),0,drink,0.10825658035267394,no clear source,0,0,0.017509557,no clear source,0
+Pret,Iced Espresso (Black),0,drink,0.2474666069907635,no clear source,1,0,0.014957086,no clear source,0
+Pret,Iced Mocha (Almond Milk),0,drink,0.0926993916235368,no clear source,0,0,0.01678549,no clear source,0
+Pret,Iced Mocha (Oat Milk),0,drink,0.1277478681663443,no clear source,0,0,0.016152835,no clear source,0
+Pret,Iced Mocha (Half & Half),0,drink,0.2118631379337571,no clear source,1,0,0.017442485,no clear source,0
+Pret,Iced Mocha (Skim Milk),0,drink,0.12272954453375284,no clear source,0,0,0.01979478,no clear source,0
+Pret,Iced Mocha (Whole Milk),0,drink,0.11139336996718663,no clear source,0,0,0.015663648,no clear source,0
+Pret,Iced Latte (Almond Milk),0,drink,0.07665381975172014,no clear source,0,0,0.017375665,no clear source,0
+Pret,Iced Latte (Oat Milk),0,drink,0.11340211468423811,no clear source,0,0,0.016721142,no clear source,0
+Pret,Iced Latte (Half & Half),0,drink,0.19111801380419313,no clear source,0,0,0.017176708,no clear source,0
+Pret,Iced Latte (Skim Milk),0,drink,0.10950707612529542,no clear source,0,0,0.01883313,no clear source,0
+Pret,Iced Latte (Whole Milk),0,drink,0.10056735052909704,no clear source,0,0,0.01665704,no clear source,0
+Pret,Iced Chai Latte (Almond Milk),0,drink,0.06734383862480864,no clear source,0,0,0.01711089,no clear source,0
+Pret,Iced Chai Latte (Oat Milk),0,drink,0.09305469925294507,no clear source,0,0,0.016979992,no clear source,0
+Pret,Iced Chai Latte (Half & Half),0,drink,0.1480151743105459,no clear source,0,0,0.017576883,no clear source,0
+Pret,Iced Chai Latte (Skim Milk),0,drink,0.09120728539663447,no clear source,0,0,0.019493872,no clear source,0
+Pret,Iced Chai Latte (Whole Milk),0,drink,0.08499377580648926,no clear source,0,0,0.016914913,no clear source,0
+Pret,Iced Chocolate (Almond Milk),0,drink,0.10163500016060756,no clear source,0,0,0.019606182,no clear source,0
+Pret,Iced Chocolate (Oat Milk),0,drink,0.29244369481511656,wheat flour,1,0,0.017576883,no clear source,0
+Pret,Iced Chocolate (Half & Half),0,drink,0.2753550366481785,wheat flour,1,0,0.024940254,no clear source,0
+Pret,Iced Chocolate (Skim Milk),0,drink,0.15343700071247945,no clear source,0,0,0.018475592,no clear source,0
+Pret,Iced Chocolate (Whole Milk),0,drink,0.141444261213292,no clear source,0,0,0.01778039,no clear source,0
+Pret,Iced Matcha (Almond Milk),0,drink,0.1053070999494573,no clear source,0,0,0.01685008,no clear source,0
+Pret,Iced Matcha (Oat Milk),0,drink,0.20326283280221769,no clear source,1,0,0.016340127,no clear source,0
+Pret,Iced Matcha (Half & Half),0,drink,0.3456056512008351,wheat flour,1,0,0.017576883,no clear source,0
+Pret,Iced Matcha (Skim Milk),0,drink,0.17683918130782084,no clear source,0,0,0.018089995,no clear source,0
+Pret,Iced Matcha (Whole Milk),0,drink,0.16537620879844694,no clear source,0,0,0.015784562,no clear source,0
+Pret,Pink Guava Matcha Iced Latte (Almond,0,drink,0.10758822494665554,no clear source,0,0,0.015603535,no clear source,0
+Pret,Pink Guava Matcha Iced Latte (Oat Milk),0,drink,0.09034515821959177,no clear source,0,0,0.015189049,no clear source,0
+Pret,Pink Guava Matcha Iced Latte (Half &Half),0,drink,0.13836039154445068,no clear source,0,0,0.015543648,no clear source,0
+Pret,Pink Guava Matcha Iced Latte (Skim Milk),0,drink,0.08556341309207582,no clear source,0,0,0.015603535,no clear source,0
+Pret,Pink Guava Matcha Iced Latte (Whole,0,drink,0.0870354649464744,no clear source,0,0,0.015906392,no clear source,0
+Pret,"Iced Teas, Lemonade and Refreshers",0,drink,0.1681901595583627,no clear source,0,0,0.107250325,no clear source,0
+Pret,Iced Black Tea,0,drink,0.1270839237070377,no clear source,0,0,0.014899643,no clear source,0
+Pret,Iced Green Tea,0,drink,0.15366042435592553,no clear source,0,0,0.014447852,no clear source,0
+Pret,Sunshine Black Tea,0,drink,0.14520894697609588,no clear source,0,0,0.014559518,no clear source,0
+Pret,Sunshine Green Tea,0,drink,0.17455904691548363,no clear source,0,0,0.01433703,no clear source,0
+Pret,Pink Guava Lemonade,0,drink,0.06247989468954884,no clear source,0,0,0.014117893,no clear source,0
+Pret,Pink Guava Sunshine Black Tea,0,drink,0.09794347490213395,no clear source,0,0,0.014009568,no clear source,0
+Pret,Pink Guava Sunshine Green Tea,0,drink,0.10794815224696197,no clear source,0,0,0.013689476,no clear source,0
+Pret,Pink Guava Black Tea,0,drink,0.10361559100748485,no clear source,0,0,0.014063628,no clear source,0
+Pret,Pink Guava Green Tea,0,drink,0.10758698734989758,no clear source,0,0,0.013795366,no clear source,0
+Pret,Dragon Fruit Mango Black Tea,0,drink,0.12119513251911185,no clear source,0,0,0.01450358,no clear source,0
+Pret,Dragon Fruit Mango Green Tea,0,drink,0.14623825076943497,no clear source,0,0,0.014447852,no clear source,0
+Pret,Dragon Fruit Mango Lemonade,0,drink,0.10030127456694982,no clear source,0,0,0.015543648,no clear source,0
+Pret,Dragon Fruit Mango Sunshine Black Tea,0,drink,0.11939048604145797,no clear source,0,0,0.01450358,no clear source,0
+Pret,Dragon Fruit Mango Sunshine Green Tea,0,drink,0.13730569343386834,no clear source,0,0,0.014447852,no clear source,0
+Pret,Lemonade,0,drink,0.07922080057663694,no clear source,0,0,0.017375665,no clear source,0
+Pret,Matcha Lemonade,0,drink,0.10093953884753759,no clear source,0,0,0.014842416,no clear source,0
+Pret,Cane Syrup,0,component,0.3547788301147876,wheat flour,1,0,0.018194368,no clear source,0
+Pret,Caramel Syrup,0,component,0.10096502246373129,no clear source,0,0,0.0153063545,no clear source,0
+Pret,Hazelnut Syrup,0,component,0.15220001870322886,no clear source,0,0,0.017509557,no clear source,0
+Pret,Vanilla Syrup,0,component,0.09911747939806081,no clear source,0,0,0.017045317,no clear source,0
+Pret,Classic Whipped Cream,0,component,0.2742587689376532,wheat flour,1,0,0.03204008,no clear source,0
+Pret,Almond Milk,0,drink,0.09588552474463541,no clear source,0,0,0.01979478,no clear source,0
+Pret,Oat Milk,0,drink,0.22998930309029464,no clear source,1,0,0.020023441,no clear source,0
+Pret,Half & Half,0,component,0.42833298499689143,wheat flour,1,0,0.32444942,no clear source,1
+Pret,Skim Milk,0,drink,0.18609562364702248,no clear source,0,0,0.025908021,no clear source,0
+Pret,Whole Milk,0,drink,0.17523170403179178,no clear source,0,0,0.021906368,no clear source,0
+Pret,Breakfast Tea,0,drink,0.06754376135935636,no clear source,0,0,0.017644465,no clear source,0
+Pret,Earl Grey Tea,0,drink,0.3375017345194806,wheat flour,1,0,0.016914913,no clear source,0
+Pret,Peppermint Tea,0,drink,0.05477941707729983,no clear source,0,0,0.014728614,no clear source,0
+Pret,Tropical Green Tea,0,drink,0.18012897118844806,no clear source,0,0,0.014063628,no clear source,0
+Pret,Spiced Pumpkin Latte (Skim Milk),0,drink,0.17342340015611757,no clear source,0,0,0.016215032,no clear source,0
+Pret,Spiced Pumpkin Latte (Whole Milk),0,drink,0.16429430144276913,no clear source,0,0,0.016029147,no clear source,0
+Pret,Spiced Pumpkin Latte (Almond Milk),0,drink,0.1137095932166512,no clear source,0,0,0.016215032,no clear source,0
+Pret,Spiced Pumpkin Latte (Oat Milk),0,drink,0.19599718282384626,no clear source,0,0,0.015845362,no clear source,0
+Pret,Spiced Pumpkin Latte (Half & Half),0,drink,0.2990654680960311,wheat flour,1,0,0.016721142,no clear source,0
+Pret,Spiced Pumpkin Matcha Latte (Skim Milk),0,drink,0.19199835289324552,no clear source,0,0,0.0153063545,no clear source,0
+Pret,Iced Spiced Pumpkin Latte (Skim Milk),0,drink,0.15441563503412015,no clear source,0,0,0.01627746,no clear source,0
+Pret,Iced Spiced Pumpkin Latte (Whole Milk),0,drink,0.14461360573882043,no clear source,0,0,0.016152835,no clear source,0
+Pret,Iced Spiced Pumpkin Latte (Almond Milk),0,drink,0.10512927333649169,no clear source,0,0,0.016152835,no clear source,0
+Pret,Iced Spiced Pumpkin Latte (Oat Milk),0,drink,0.17010903177314318,no clear source,0,0,0.015967654,no clear source,0
+Pret,Iced Spiced Pumpkin Latte (Half & Half),0,drink,0.2574457105636234,no clear source,1,0,0.017242778,no clear source,0
+Pret,Iced Spiced Pumpkin Matcha Latte (Skim,0,drink,0.19462494476146053,no clear source,0,0,0.02068546,no clear source,0
+Pret,Ice Spiced Pumpkin Matcha Latte (Whole,0,drink,0.11779361425837875,no clear source,0,0,0.01627746,no clear source,0
+Pret,Iced Spiced Pumpkin Matcha Latte,0,drink,0.20506439870630555,no clear source,1,0,0.014957086,no clear source,0
+Pret,Iced Spiced Pumpkin Matcha Latte (Oat,0,drink,0.2425199575930449,wheat flour,1,0,0.015365342,no clear source,0
+Pret,Ice Spiced Pumpkin Matcha Latte (Half &,0,drink,0.15736038376042116,no clear source,0,0,0.016340127,no clear source,0
+Pret,Spiced Pumpkin Matcha Latte (Whole,0,drink,0.22977360652196266,no clear source,1,0,0.015967654,no clear source,0
+Pret,Spiced Pumpkin Matcha Latte (Almond,0,drink,0.27299964604773763,wheat flour,1,0,0.015365342,no clear source,0
+Pret,Spiced Pumpkin Matcha Latte (Oat Milk),0,drink,0.21419472149145913,no clear source,1,0,0.014957086,no clear source,0
+Pret,Pumpkin Spice Sauce,0,component,0.12891017401931015,no clear source,0,0,0.036838703,no clear source,0
+Pret,Daily Greens Cold Pressed Juice,0,drink,0.08266625222441581,no clear source,0,0,0.016090874,no clear source,0
+Pret,Super Reds Cold Pressed Juice,0,drink,0.10398221513676098,no clear source,0,0,0.016529556,no clear source,0
+Pret,Pink Grapefruit Juice,0,drink,0.05023378282369573,no clear source,0,0,0.015130728,no clear source,0
+Pret,Orange Juice,0,drink,0.17962842547629032,no clear source,0,0,0.01627746,no clear source,0
+Pret,Classic Lemonade,0,drink,0.14280437763762033,no clear source,0,0,0.014899643,no clear source,0
+Pret,Strawberry Lemonade,0,drink,0.10325977862239166,no clear source,0,0,0.016593177,no clear source,0
+CAVA,Greek Goddess Steak Salad,0,dish,0.22742989010017933,no clear source,1,0,0.13568956,no clear source,1
+CAVA,Greek Goddess Salmon Bowl,0,dish,0.23847761381369859,no clear source,1,0,0.22084616,no clear source,1
+CAVA,Spicy Lamb + Avocado Bowl,0,dish,0.29017951531298647,no clear source,1,0,0.18832397,no clear source,1
+CAVA,Steak + Harissa Bowl,0,dish,0.2595807420044832,no clear source,1,0,0.4070977,soy sauce and similar,1
+CAVA,Harissa Avocado Bowl,0,dish,0.13668160376723792,no clear source,0,0,0.1436676,no clear source,1
+CAVA,Chicken + Rice Bowl,0,dish,0.804102473214279,soy sauce and similar,1,0,0.27405986,soy sauce and similar,1
+CAVA,Greek Salad Bowl,0,dish,0.37610697345584065,no clear source,1,0,0.091220066,no clear source,0
+CAVA,Falafel Crunch Bowl,1,dish,0.5657876538261682,wheat flour,1,0,0.7725307,bread and buns,1
+CAVA,Salmon + Yogurt Dill Bowl,0,dish,0.15878836643104555,no clear source,0,0,0.15482272,no clear source,1
+CAVA,Pomegranate Glazed Salmon Bowl,0,dish,0.30222035058465135,soy sauce and similar,1,0,0.30290633,soy sauce and similar,1
+CAVA,Spicy Chicken + Avocado Pita,1,dish,0.9358955102032469,bread and buns,1,1,0.9637117,bread and buns,1
+CAVA,Steak + Feta Pita,1,dish,0.9703983996752319,bread and buns,1,1,0.96160597,bread and buns,1
+CAVA,Greek Chicken Pita,1,dish,0.9012948349547982,bread and buns,1,1,0.96411926,bread and buns,1
+CAVA,Brown Rice,0,component,0.11667216075386322,no clear source,0,0,0.055106897,no clear source,0
+CAVA,Saffron Basmati Rice,0,component,0.029030091717580864,no clear source,0,0,0.022586042,no clear source,0
+CAVA,Black Lentils,0,component,0.14277109272654454,no clear source,0,0,0.04146227,no clear source,0
+CAVA,Super Greens,0,component,0.17067708013395233,no clear source,0,0,0.0894546,no clear source,0
+CAVA,Arugula,0,component,0.25387464960203854,no clear source,1,0,0.02655657,no clear source,0
+CAVA,Baby Spinach,0,component,0.2217777116677363,no clear source,1,0,0.34477428,no clear source,1
+CAVA,Romaine,0,component,0.2400817355849889,no clear source,1,0,0.24436301,no clear source,1
+CAVA,Power Greens,0,component,0.1614253610319324,no clear source,0,0,0.18432662,no clear source,1
+CAVA,Braised Lamb,0,component,0.2167693087002246,no clear source,1,0,0.24184732,no clear source,1
+CAVA,Grilled Chicken,0,component,0.28187346407913816,no clear source,1,0,0.13296424,no clear source,1
+CAVA,Falafel,1,component,0.7213747410105503,wheat flour,1,0,0.8171371,bread and buns,1
+CAVA,Grilled Steak,0,component,0.4038023415119729,no clear source,1,0,0.46965712,soy sauce and similar,1
+CAVA,Harissa Honey Chicken,0,component,0.15384662944802852,no clear source,0,0,0.43176386,soy sauce and similar,1
+CAVA,Roasted Vegetables,0,component,0.06853328435087935,no clear source,0,0,0.02297737,no clear source,0
+CAVA,Spicy Lamb Meatballs,0,component,0.47006561613189723,bread and buns,1,0,0.6804541,bread and buns,1
+CAVA,Glazed Salmon,0,component,0.5359095853864759,soy sauce and similar,1,0,0.39396775,soy sauce and similar,1
+CAVA,Kids Saffron Basmati Rice,0,component,0.04533022637053097,no clear source,0,0,0.0269635,no clear source,0
+CAVA,Kids Brown Rice,0,component,0.10931851279439098,no clear source,0,0,0.049589027,no clear source,0
+CAVA,Kids Black Lentils,0,component,0.17944293947074386,no clear source,0,0,0.04509957,no clear source,0
+CAVA,Kids Chicken,0,component,0.4474473661259132,wheat flour,1,0,0.4073334,no clear source,1
+CAVA,Kids Harissa Honey Chicken,0,component,0.18337783460796253,no clear source,0,0,0.33144426,soy sauce and similar,1
+CAVA,Kids Falafel,1,component,0.7044140205448726,wheat flour,1,0,0.853669,bread and buns,1
+CAVA,Kids Spicy Lamb Meatballs,0,component,0.5125181293026229,bread and buns,1,0,0.6779006,breadcrumbs,1
+CAVA,Kids Roasted Vegetables,0,component,0.11343819542323197,no clear source,0,0,0.027014788,no clear source,0
+CAVA,Kids Braised Lamb,0,component,0.2578412219436551,no clear source,1,0,0.3188032,wheat flour,1
+CAVA,Kids Grilled Steak,0,component,0.39834665228552046,no clear source,1,0,0.320077,soy sauce and similar,1
+CAVA,Kids Pita Chips,1,component,0.9924467606524384,bread and buns,1,1,0.96425414,bread and buns,1
+CAVA,Shredded Romaine,0,component,0.21638327394627233,no clear source,1,0,0.14342748,no clear source,1
+CAVA,Pita Crisps,1,component,0.9879771528616322,bread and buns,1,1,0.96653706,bread and buns,1
+CAVA,Sumac Cabbage Slaw,0,component,0.1361221339471932,no clear source,0,0,0.10932483,no clear source,0
+CAVA,Tomato + Onion,0,component,0.25440199997984425,no clear source,1,0,0.25776508,no clear source,1
+CAVA,Persian Cucumber,0,component,0.12262537725823164,no clear source,0,0,0.055005286,no clear source,0
+CAVA,Tomato + Cucumber,0,component,0.17809067489610053,no clear source,0,0,0.06681232,no clear source,0
+CAVA,Kalamata Olives,0,component,0.3078341293943321,wheat flour,1,0,0.060640547,no clear source,0
+CAVA,Fiery Broccoli,0,component,0.3744540707268441,bread and buns,1,0,0.25146383,no clear source,1
+CAVA,Pickled Onions,0,component,0.06549867763720263,no clear source,0,0,0.01798621,no clear source,0
+CAVA,Salt-Brined Pickles,0,component,0.019540402190454942,no clear source,0,0,0.017917344,no clear source,0
+CAVA,Crumbled Feta,0,component,0.19986264632519002,no clear source,1,0,0.45444188,no clear source,1
+CAVA,Fire-Roasted Corn,0,component,0.2889612135373866,wheat flour,1,0,0.02132808,no clear source,0
+CAVA,Avocado,0,component,0.184669654341177,no clear source,0,0,0.02727267,no clear source,0
+CAVA,Tzatziki,0,component,0.1317933849953118,no clear source,0,0,0.018475592,no clear source,0
+CAVA,Hummus,0,component,0.151571153593833,no clear source,0,0,0.046119746,no clear source,0
+CAVA,Roasted Eggplant,0,component,0.3022190605871553,no clear source,1,0,0.10613343,no clear source,0
+CAVA,Crazy Feta®,0,component,0.3901185354550688,no clear source,1,0,0.25441632,no clear source,1
+CAVA,Harissa,0,component,0.11622409325197436,no clear source,0,0,0.1989965,no clear source,1
+CAVA,Red Pepper Hummus,0,component,0.18751562021702872,no clear source,0,0,0.10230471,no clear source,0
+CAVA,Greek Goddess,0,component,0.2407034082023739,no clear source,1,0,0.072243,no clear source,0
+CAVA,Balsamic Date Vinaigrette,0,component,0.02148942731992931,no clear source,0,0,0.02132808,no clear source,0
+CAVA,Yogurt Dill,0,component,0.15635186918195942,no clear source,0,0,0.019382192,no clear source,0
+CAVA,Lemon Herb Tahini,0,component,0.09848614609896389,no clear source,0,0,0.045777276,no clear source,0
+CAVA,Greek Vinaigrette,0,component,0.08393106675384021,no clear source,0,0,0.027480692,no clear source,0
+CAVA,Skhug,0,component,0.286864763431552,no clear source,1,0,0.41389167,pasta and noodles,1
+CAVA,Hot Harissa Vinaigrette,0,component,0.05880948414947462,no clear source,0,0,0.057705317,no clear source,0
+CAVA,Garlic Dressing,0,component,0.10838655535209718,no clear source,0,0,0.11299101,no clear source,0
+CAVA,Side Pita,1,component,0.980340394912117,bread and buns,1,1,0.96405166,bread and buns,1
+CAVA,Pita Chips,1,component,0.9959450056372487,bread and buns,1,1,0.95735765,bread and buns,1
+CAVA,Harissa BBQ Pita Chips,1,component,0.9724617690213727,bread and buns,1,1,0.9562273,bread and buns,1
+CAVA,Greyston Chocolate Chip Blondie,1,dish,0.7959600851312316,wheat flour,1,0,0.9736447,wheat flour,1
+CAVA,Greyston Brownie,1,dish,0.7077923641704604,wheat flour,1,0,0.87966454,wheat flour,1
+CAVA,Whisked! Apricot Honey (DMV),1,dish,0.22925564320670078,no clear source,1,0,0.01627746,no clear source,0
+CAVA,Whisked! Salted Dark Chocolate Oat Cookie,1,dish,0.7170494208312834,wheat flour,1,1,0.66093874,wheat flour,1
+CAVA,Classic Lemonade,0,drink,0.14280437763762033,no clear source,0,0,0.014899643,no clear source,0
+CAVA,Classic Lemonade (CA),0,drink,0.13584631278738524,no clear source,0,0,0.016403032,no clear source,0
+CAVA,Pomegranate Apple,0,drink,0.16098194415960565,no clear source,0,0,0.022586042,no clear source,0
+CAVA,Unsweetened Black Tea,0,drink,0.1579548663535426,no clear source,0,0,0.015365342,no clear source,0
+CAVA,Sweet Tea,0,drink,0.0732641152631881,no clear source,0,0,0.016529556,no clear source,0
+CAVA,Jasmine Green Tea,0,drink,0.17391611254923933,no clear source,0,0,0.014063628,no clear source,0
+CAVA,Cucumber Mint Lime,0,drink,0.0765224522946526,no clear source,0,0,0.014899643,no clear source,0
+CAVA,Blueberry Lavender,0,drink,0.4365173505545302,wheat flour,1,0,0.016152835,no clear source,0
+CAVA,Maine Root Soda (Fountain),0,drink,0.17152561557601043,no clear source,0,0,0.024750972,no clear source,0
+CAVA,Maine Root Soda (Bottled),0,drink,0.15767929239181877,no clear source,0,0,0.023021258,no clear source,0
+CAVA,Spindrift Grapefruit,0,drink,0.1386486569251444,no clear source,0,0,0.07779745,no clear source,0
+CAVA,Spindrift Raspberry Lime,0,drink,0.24156570387888976,no clear source,1,0,0.030559866,no clear source,0
+CAVA,Spindrift Lemon,0,drink,0.41928486485119765,wheat flour,1,0,0.3572311,no clear source,1
+CAVA,Spindrift Half Tea + Half Lemon,0,drink,0.20209860400053536,no clear source,1,0,0.03676947,no clear source,0
+CAVA,Chocolate Milk,0,drink,0.11413706355568987,no clear source,0,0,0.022802636,no clear source,0
+CAVA,1% Milk,0,drink,0.18194688219939203,no clear source,0,0,0.019946935,no clear source,0
+CAVA,Honest Apple Juice,0,drink,0.09153839947580777,no clear source,0,0,0.019419348,no clear source,0
+Au Bon Pain,Asiago Cheese Bagel,1,dish,0.905596343953763,bread and buns,1,1,0.95846003,bread and buns,1
+Au Bon Pain,Cinnamon Raisin Bagel,1,dish,0.9626281905126933,bread and buns,1,1,0.97262347,bread and buns,1
+Au Bon Pain,Everything Bagel,1,dish,0.867039723278687,bread and buns,1,1,0.95945925,bread and buns,1
+Au Bon Pain,French Toast Bagel,1,dish,0.9999221692359594,bread and buns,1,1,0.9695556,bread and buns,1
+Au Bon Pain,Honey Sprouted Grain Bagel,1,dish,0.8251298465517114,bread and buns,1,1,0.9797453,bread and buns,1
+Au Bon Pain,Jalapeno Cheddar Bagel,1,dish,0.8395906692010422,bread and buns,1,1,0.96232057,bread and buns,1
+Au Bon Pain,Plain Bagel,1,dish,0.9769749886258999,bread and buns,1,1,0.9788344,wheat flour,1
+Au Bon Pain,Sesame Seed Bagel,1,dish,0.8934602510086773,bread and buns,1,1,0.9784259,bread and buns,1
+Au Bon Pain,Whole Wheat Skinny Bagel,1,dish,0.9987960937004532,wheat flour,1,1,0.98544043,wheat flour,1
+Au Bon Pain,Brownie Bites,1,dish,0.8876090768379468,wheat flour,1,0,0.8620035,wheat flour,1
+Au Bon Pain,Chewy Marshmallow Bar,0,dish,0.48126741973907516,wheat flour,1,0,0.52670795,wheat flour,1
+Au Bon Pain,Chocolate and Crème Torsade,1,dish,0.484386327763357,wheat flour,1,0,0.5663184,wheat flour,1
+Au Bon Pain,Chocolate Chip Brownie,1,dish,0.6557788732057894,wheat flour,1,0,0.88100195,wheat flour,1
+Au Bon Pain,Chocolate Chip Cookie,1,dish,0.8575115404831124,wheat flour,1,1,0.98282325,wheat flour,1
+Au Bon Pain,Chocolate Dipped Cranberry Almond Coconut Macaroon,1,dish,0.46958798049765105,wheat flour,1,0,0.13443464,no clear source,1
+Au Bon Pain,Chunky Peanut Butter Cookie,1,dish,0.6720636253575591,wheat flour,1,1,0.93891287,wheat flour,1
+Au Bon Pain,Cinnamon Swirl Roll,1,dish,0.7677968521870463,wheat flour,1,0,0.91259205,wheat flour,1
+Au Bon Pain,Classic Oatmeal Raisin Cookie,1,dish,0.780399619221722,wheat flour,1,1,0.9753431,wheat flour,1
+Au Bon Pain,Double Chocolate Cupcake,1,dish,0.8325300797603724,wheat flour,1,1,0.9657707,wheat flour,1
+Au Bon Pain,Double Chocolate Mudslide Cookie,1,dish,0.6424166004049221,wheat flour,1,1,0.9659639,wheat flour,1
+Au Bon Pain,Energy Cookie,1,dish,0.7278016968381361,wheat flour,1,1,0.7759446,wheat flour,1
+Au Bon Pain,English Toffee Cookie,1,dish,0.5218000186172365,wheat flour,1,1,0.9737447,wheat flour,1
+Au Bon Pain,Gingerbread Cookie,1,dish,0.8223792784698327,wheat flour,1,1,0.98761624,wheat flour,1
+Au Bon Pain,Gluten Free Chocolate Chip Brownie,0,dish,0.06212915797510332,no clear source,0,0,0.097734325,no clear source,0
+Au Bon Pain,Iced Lemon Pound Cake,1,dish,0.747941247992405,wheat flour,1,1,0.98481095,wheat flour,1
+Au Bon Pain,Marble Pound Cake,1,dish,0.8262187743979053,wheat flour,1,1,0.98892784,wheat flour,1
+Au Bon Pain,Mini Chocolate Chip Cookies,1,dish,0.8915255457981036,wheat flour,1,1,0.9863631,wheat flour,1
+Au Bon Pain,Palmier,1,dish,0.286864763431552,no clear source,1,0,0.11299101,no clear source,0
+Au Bon Pain,Pecan Meltaway,1,dish,0.6298797743220692,wheat flour,1,0,0.8822251,bread and buns,1
+Au Bon Pain,Pecan Roll,1,dish,0.6038827319006368,"cookies, crackers and cake",1,0,0.35835305,wheat flour,1
+Au Bon Pain,Raspberry Filled Shortbread Cookie,1,dish,0.8838414220447011,wheat flour,1,1,0.98662347,wheat flour,1
+Au Bon Pain,Red Velvet Cookie,1,dish,0.9323233342634836,wheat flour,1,1,0.98378503,wheat flour,1
+Au Bon Pain,Red Velvet Cupcake,1,dish,0.8254362658327866,wheat flour,1,1,0.9786719,wheat flour,1
+Au Bon Pain,Shortbread Tree Cookie,1,dish,0.9971634493381522,wheat flour,1,1,0.987375,wheat flour,1
+Au Bon Pain,White Chocolate Macadamia Cookie,1,dish,0.8278338887961417,wheat flour,1,1,0.96814114,wheat flour,1
+Au Bon Pain,Almond Croissant,1,dish,0.9212165638218626,bread and buns,1,1,0.92590266,bread and buns,1
+Au Bon Pain,Apple and Cinnamon Croissant,1,dish,0.7686474714872851,bread and buns,1,1,0.9531007,bread and buns,1
+Au Bon Pain,Bacon & Cheddar Kolache,1,dish,0.8007245778979049,wheat flour,1,0,0.9737945,wheat flour,1
+Au Bon Pain,Chocolate Croissant,1,dish,0.7093005896707276,bread and buns,1,1,0.9014011,bread and buns,1
+Au Bon Pain,Ham and Cheese Croissant,1,dish,0.806915721584783,bread and buns,1,1,0.9410069,bread and buns,1
+Au Bon Pain,Plain Croissant,1,dish,0.9197136414557878,bread and buns,1,1,0.9370958,bread and buns,1
+Au Bon Pain,Raspberry Cheese Croissant,1,dish,0.6306148724201543,bread and buns,1,1,0.9339146,bread and buns,1
+Au Bon Pain,Spinach and Cheese Croissant,1,dish,0.8109708113701202,bread and buns,1,1,0.95257413,bread and buns,1
+Au Bon Pain,Sweet Cheese CroisBun,1,dish,0.4876065524347719,wheat flour,1,0,0.81946033,bread and buns,1
+Au Bon Pain,Sweet Cheese Croissant,1,dish,0.7383539823290353,bread and buns,1,1,0.92892635,bread and buns,1
+Au Bon Pain,Apple Danish,1,dish,0.5940523819103369,wheat flour,1,0,0.8499712,wheat flour,1
+Au Bon Pain,Mixed Berry Strudel,1,dish,0.9230828337129244,pastry and dough,1,0,0.95775455,pastry and dough,1
+Au Bon Pain,Sweet Cheese Danish,1,dish,0.3062940430376099,no clear source,1,0,0.19713514,no clear source,1
+Au Bon Pain,Blueberry Muffin,1,dish,0.7454858953237727,wheat flour,1,0,0.98173577,wheat flour,1
+Au Bon Pain,Corn Muffin,1,dish,0.3422032593133083,wheat flour,1,0,0.79390603,wheat flour,1
+Au Bon Pain,Cranberry Orange Muffin,1,dish,0.5557054895214635,wheat flour,1,0,0.97482115,wheat flour,1
+Au Bon Pain,Double Chocolate Chunk Muffin,1,dish,0.8416584804015967,wheat flour,1,0,0.96795994,wheat flour,1
+Au Bon Pain,Raisin Bran Muffin,1,dish,0.871208598574954,wheat flour,1,0,0.98065484,wheat flour,1
+Au Bon Pain,Berry Pomegranate Smoothie,0,drink,0.03701500687877379,no clear source,0,0,0.01685008,no clear source,0
+Au Bon Pain,Berry Sensation Yogurt Smoothie,0,drink,0.0679498515453536,no clear source,0,0,0.01802074,no clear source,0
+Au Bon Pain,"Fresh Fruit Smoothie with Bananas, Pineapple and",0,drink,0.08526558757405167,no clear source,0,0,0.018869255,no clear source,0
+Au Bon Pain,"Fresh Fruit Smoothie with Bananas, Watermelon and",0,drink,0.056246565136723436,no clear source,0,0,0.017917344,no clear source,0
+Au Bon Pain,Fresh Fruit Smoothie with Mixed Fruit,0,drink,0.07477354480693188,no clear source,0,0,0.01990879,no clear source,0
+Au Bon Pain,Frozen Caramel Latte,0,drink,0.2502366688231099,no clear source,1,0,0.0153063545,no clear source,0
+Au Bon Pain,Frozen Mocha Latte,0,drink,0.23313824109452885,no clear source,1,0,0.015906392,no clear source,0
+Au Bon Pain,Mango Smoothie,0,drink,0.02351581363718591,no clear source,0,0,0.01665704,no clear source,0
+Au Bon Pain,Mango Wave Fresh Fruit Smoothie,0,drink,0.047019994857912195,no clear source,0,0,0.016152835,no clear source,0
+Au Bon Pain,South Beach Yogurt Smoothie,0,drink,0.03294736585643443,no clear source,0,0,0.017644465,no clear source,0
+Au Bon Pain,Strawberry Banana Yogurt Smoothie,0,drink,0.040997938873824635,no clear source,0,0,0.015543648,no clear source,0
+Au Bon Pain,Strawberry Passion Fresh Fruit Smoothie,0,drink,0.04894467221776444,no clear source,0,0,0.01711089,no clear source,0
+Au Bon Pain,Strawberry Smoothie,0,drink,0.019658375559159613,no clear source,0,0,0.01858215,no clear source,0
+Au Bon Pain,Butter Pecan Latte,0,drink,0.2511561220859442,no clear source,1,0,0.019681409,no clear source,0
+Au Bon Pain,Caffe Americano,0,drink,0.15862825126626778,no clear source,0,0,0.24617071,no clear source,1
+Au Bon Pain,Caffe Latte,0,drink,0.10682802957760518,no clear source,0,0,0.0190509,no clear source,0
+Au Bon Pain,Caffe Milano,0,drink,0.23348357870475478,no clear source,1,0,0.33220208,no clear source,1
+Au Bon Pain,Cappuccino,0,drink,0.1800003111631543,no clear source,0,0,0.015014749,no clear source,0
+Au Bon Pain,Caramel Macchiato,0,drink,0.3964004642942004,"cookies, crackers and cake",1,0,0.12231338,no clear source,0
+Au Bon Pain,Chai Latte,0,drink,0.09850651933980692,no clear source,0,0,0.01815951,no clear source,0
+Au Bon Pain,Espresso - Double Shot,0,drink,0.12952855632091442,no clear source,0,0,0.028436033,no clear source,0
+Au Bon Pain,Hot Chocolate,0,drink,0.05500786857276463,no clear source,0,0,0.01665704,no clear source,0
+Au Bon Pain,Iced Butter Pecan Latte,0,drink,0.2622593503875965,no clear source,1,0,0.018299334,no clear source,0
+Au Bon Pain,Iced Caffe Americano,0,drink,0.12418423070247342,no clear source,0,0,0.42811382,wheat flour,1
+Au Bon Pain,Iced Caffe Latte,0,drink,0.09970652680393555,no clear source,0,0,0.021822827,no clear source,0
+Au Bon Pain,Iced Caffe Milano,0,drink,0.17775317028833781,no clear source,0,0,0.63793355,wheat flour,1
+Au Bon Pain,Iced Caramel Macchiato,0,drink,0.3984037255577718,"cookies, crackers and cake",1,0,0.047602657,no clear source,0
+Au Bon Pain,Iced Chai Latte,0,drink,0.10152141608815346,no clear source,0,0,0.018511046,no clear source,0
+Au Bon Pain,Iced Decaf French Roast Coffee,0,drink,0.10321053326864571,no clear source,0,0,0.02068546,no clear source,0
+Au Bon Pain,Iced French Roast Coffee,0,drink,0.10321053326864571,no clear source,0,0,0.018055335,no clear source,0
+Au Bon Pain,Iced French Vanilla Coffee,0,drink,0.17451163755126686,no clear source,0,0,0.015130728,no clear source,0
+Au Bon Pain,Iced Mocha Latte,0,drink,0.12987063637493879,no clear source,0,0,0.015967654,no clear source,0
+Au Bon Pain,Iced Vanilla Latte,0,drink,0.17058541623604195,no clear source,0,0,0.016593177,no clear source,0
+Au Bon Pain,Mocha Latte,0,drink,0.17236307733249356,no clear source,0,0,0.016215032,no clear source,0
+Au Bon Pain,Vanilla Latte,0,drink,0.1578597574991184,no clear source,0,0,0.017045317,no clear source,0
+Au Bon Pain,Vanilla Latte with Sugar Free Syrup,0,drink,0.15378571519832118,no clear source,0,0,0.01883313,no clear source,0
+Au Bon Pain,Whipped Cream Topping,0,component,0.15284523889484602,no clear source,0,0,0.23651622,wheat flour,1
+Au Bon Pain,Caffeine Free Diet Coke,0,drink,0.12862666063866657,no clear source,0,0,0.059319146,no clear source,0
+Au Bon Pain,Coke,0,drink,0.21446305491407225,no clear source,1,0,0.019419348,no clear source,0
+Au Bon Pain,Coke Zero,0,drink,0.14916104580932632,no clear source,0,0,0.041307304,no clear source,0
+Au Bon Pain,Diet Coke,0,drink,0.1680893720368789,no clear source,0,0,0.030733928,no clear source,0
+Au Bon Pain,FUZE Raspberry Iced Tea,0,drink,0.042159289642833775,no clear source,0,0,0.01384861,no clear source,0
+Au Bon Pain,Homestyle Lemonade,0,drink,0.1568796614000526,no clear source,0,0,0.015603535,no clear source,0
+Au Bon Pain,Iced Black Tea,0,drink,0.1270839237070377,no clear source,0,0,0.014899643,no clear source,0
+Au Bon Pain,Orange Juice,0,drink,0.17962842547629032,no clear source,0,0,0.01627746,no clear source,0
+Au Bon Pain,Peach Iced Tea,0,drink,0.03719350915761821,no clear source,0,0,0.014281935,no clear source,0
+Au Bon Pain,PowerAde Mountain Blast,0,drink,0.3865390594811501,wheat flour,1,0,0.20323272,no clear source,1
+Au Bon Pain,Sprite,0,drink,0.25449563510963,no clear source,1,0,0.27855107,no clear source,1
+Au Bon Pain,Sprite Zero,0,drink,0.1882043961311275,no clear source,0,0,0.11736965,no clear source,0
+Au Bon Pain,Strawberry Lemonade,0,drink,0.10325977862239166,no clear source,0,0,0.016593177,no clear source,0
+Au Bon Pain,Sweet Tea,0,drink,0.0732641152631881,no clear source,0,0,0.016529556,no clear source,0
+Au Bon Pain,Tropical Green Iced Tea,0,drink,0.04103563125955845,no clear source,0,0,0.014063628,no clear source,0
+Au Bon Pain,Vitamin Water Zero - Squeezed,0,drink,0.14293438882177356,no clear source,0,0,0.017176708,no clear source,0
+Au Bon Pain,Vitamin Water Zero - XXX,0,drink,0.14918841452620757,no clear source,0,0,0.022074386,no clear source,0
+Au Bon Pain,Asiago Breadstick,1,component,0.30953556713424024,no clear source,1,0,0.619759,wheat flour,1
+Au Bon Pain,Ciabatta,1,component,0.9951846065660205,bread and buns,1,1,0.961171,bread and buns,1
+Au Bon Pain,Country White Bread,1,component,0.9621860597149408,wheat flour,1,1,0.98625773,wheat flour,1
+Au Bon Pain,Everything Breadstick,1,component,0.29882232390686847,no clear source,1,0,0.81946033,wheat flour,1
+Au Bon Pain,Multigrain Baguette,1,component,0.9876362752662199,bread and buns,1,1,0.9694979,bread and buns,1
+Au Bon Pain,Rustic Baguette,1,component,0.957240519496793,bread and buns,1,1,0.96753323,bread and buns,1
+Au Bon Pain,Semolina,1,component,0.9978473869836034,wheat flour,1,1,0.9498557,wheat flour,1
+Au Bon Pain,Sprouted Grain Roll,1,component,0.6185904847722707,wheat flour,1,0,0.94407386,wheat flour,1
+Au Bon Pain,Tortilla Wrap,1,component,0.9968841022962599,bread and buns,1,1,0.9092645,bread and buns,1
+Au Bon Pain,Whole Wheat Tortilla Wrap,1,component,0.999947308545392,wheat flour,1,1,0.96102494,wheat flour,1
+Au Bon Pain,Egg Whites and Cheddar on Skinny Wheat Bagel,1,dish,0.9778712705171916,bread and buns,1,1,0.98327893,wheat flour,1
+Au Bon Pain,"Egg Whites, Cheddar & Avocado on Skinny Wheat Bagel",1,dish,0.945101751764985,bread and buns,1,1,0.98054343,bread and buns,1
+Au Bon Pain,French Toast Omelet Sandwich,1,dish,0.9994603017421886,bread and buns,1,1,0.9395816,bread and buns,1
+Au Bon Pain,Signature Farmhouse Omelet,1,dish,0.20817759884084674,no clear source,1,0,0.113776386,no clear source,0
+Au Bon Pain,Smoked Salmon Wasabi,1,dish,0.47262641832538355,soy sauce and similar,1,0,0.45625833,soy sauce and similar,1
+Au Bon Pain,The Good Egg,1,dish,0.4232314875851404,bread and buns,1,0,0.36026394,bread and buns,1
+Au Bon Pain,Avocado BLT,1,dish,0.48882290014349505,bread and buns,1,0,0.86522406,bread and buns,1
+Au Bon Pain,Black Angus Roast Beef and Cheddar,1,dish,0.3920041270764171,wheat flour,1,0,0.490739,wheat flour,1
+Au Bon Pain,BLT,1,dish,0.7865056868643079,bread and buns,1,0,0.92093205,bread and buns,1
+Au Bon Pain,Herb Chicken Salad Sandwich,1,dish,0.8649326737543288,bread and buns,1,0,0.8929365,bread and buns,1
+Au Bon Pain,Tuna Salad Sandwich,1,dish,0.9538597781731657,bread and buns,1,0,0.9026096,bread and buns,1
+Au Bon Pain,Turkey and Swiss Sandwich,1,dish,0.8840976539757791,bread and buns,1,0,0.9436599,bread and buns,1
+Au Bon Pain,Black Angus Steak and Cheese,1,dish,0.4045105132594904,wheat flour,1,0,0.4553197,wheat flour,1
+Au Bon Pain,Chicken Margherita,1,dish,0.33036636952654597,no clear source,1,0,0.73659015,wheat flour,1
+Au Bon Pain,Classic Grilled Cheese,1,dish,0.9892714183190939,bread and buns,1,0,0.96995664,bread and buns,1
+Au Bon Pain,Country Grilled Cheese,1,dish,0.9857482943198814,bread and buns,1,0,0.9650533,bread and buns,1
+Au Bon Pain,Ham & 2 Cheese,1,dish,0.490063229087113,bread and buns,1,0,0.3982309,bread and buns,1
+Au Bon Pain,Mayan Chicken Harvest Hot Wrap,1,dish,0.9508085141035464,bread and buns,1,0,0.9073123,bread and buns,1
+Au Bon Pain,Newport Turkey Sandwich,1,dish,0.8701520073447166,bread and buns,1,0,0.91228,bread and buns,1
+Au Bon Pain,Roasted Vegetarian Harvest Hot Wrap,1,dish,0.9604228101066286,bread and buns,1,0,0.9254997,bread and buns,1
+Au Bon Pain,Teriyaki Steak Harvest Hot Wrap,1,dish,0.9951053810758891,soy sauce and similar,1,1,0.9572778,soy sauce and similar,1
+Au Bon Pain,The Holiday Gobbler,1,dish,0.34148120164698015,no clear source,1,0,0.66377795,wheat flour,1
+Au Bon Pain,Chipotle Black Bean Burger with Avocado Sandwich,1,dish,0.9896187495115488,bread and buns,1,0,0.9159594,bread and buns,1
+Au Bon Pain,Chipotle Turkey & Avocado,1,dish,0.4161756585378884,wheat flour,1,0,0.13398075,no clear source,1
+Au Bon Pain,Turkey Club,1,dish,0.6320718946100379,bread and buns,1,0,0.77407146,bread and buns,1
+Au Bon Pain,Two Tomato Caprese,1,dish,0.34323625739113006,no clear source,1,0,0.067423776,no clear source,0
+Au Bon Pain,Two Tomato Caprese with Chicken,1,dish,0.37731129197074775,no clear source,1,0,0.18068421,no clear source,1
+Au Bon Pain,Warm Chicken Avocado Sandwich,1,dish,0.9247181658616968,bread and buns,1,0,0.90000373,bread and buns,1
+Au Bon Pain,Chicken Caesar Wrap,1,dish,0.9862777450142743,bread and buns,1,0,0.9349913,bread and buns,1
+Au Bon Pain,Garden & Avocado Wrap,1,dish,0.8522195934579833,bread and buns,1,0,0.9114953,bread and buns,1
+Au Bon Pain,Harvest Turkey Wrap,1,dish,0.986219768940414,bread and buns,1,0,0.92482364,bread and buns,1
+Au Bon Pain,Napa Chicken with Avocado Wrap,1,dish,0.8315018648560633,bread and buns,1,0,0.8580062,bread and buns,1
+Au Bon Pain,Thai Peanut Chicken Wrap,1,dish,0.9828138330668805,bread and buns,1,0,0.9213576,soy sauce and similar,1
+Au Bon Pain,Veggie & Hummus Wrap,1,dish,0.8076008770853264,bread and buns,1,0,0.9084556,bread and buns,1
+Au Bon Pain,Mayan Chicken Harvest Hot Bowl,0,dish,0.39396609675263794,wheat flour,1,0,0.26607114,no clear source,1
+Au Bon Pain,Mediterranean Chicken Harvest Hot Bowl,0,dish,0.3001437677742882,no clear source,1,0,0.2944178,pasta and noodles,1
+Au Bon Pain,Roasted Vegetarian Harvest Hot Bowl,0,dish,0.3498499742534604,no clear source,1,0,0.19390947,no clear source,1
+Au Bon Pain,Teriyaki Steak Harvest Hot Bowl,1,dish,0.9912155185672521,soy sauce and similar,1,1,0.96405166,soy sauce and similar,1
+Au Bon Pain,Adobo Chicken,0,dish,0.5075075271683638,soy sauce and similar,1,0,0.7900447,soy sauce and similar,1
+Au Bon Pain,Asian Rice with Edamame & Carrots,0,dish,0.5917507447772578,soy sauce and similar,1,0,0.619241,soy sauce and similar,1
+Au Bon Pain,Beef & Broccoli,0,dish,0.7837770932284256,soy sauce and similar,1,0,0.8017807,soy sauce and similar,1
+Au Bon Pain,Black Beans & Rice,0,dish,0.0625619795748712,no clear source,0,0,0.03635666,no clear source,0
+Au Bon Pain,Broccoli Chicken Pasta Alfredo,1,dish,0.9927318260975372,pasta and noodles,1,1,0.9780936,pasta and noodles,1
+Au Bon Pain,Brown Rice,0,dish,0.11667216075386322,no clear source,0,0,0.055106897,no clear source,0
+Au Bon Pain,Bruschetta Wings,1,dish,0.82788149453862,bread and buns,1,0,0.5802926,bread and buns,1
+Au Bon Pain,Chicken Dumplings,1,dish,0.760389424700248,wheat flour,1,0,0.9032942,wheat flour,1
+Au Bon Pain,Chipotle Wings,1,dish,0.2646712423969184,no clear source,1,0,0.28417853,soy sauce and similar,1
+Au Bon Pain,Corn Bread,1,dish,0.7464080396391012,wheat flour,1,1,0.80332816,wheat flour,1
+Au Bon Pain,Garlic Bread,1,dish,0.9655098104030109,bread and buns,1,1,0.9272316,bread and buns,1
+Au Bon Pain,Honey & Herb Carrots,0,dish,0.09853782005798084,no clear source,0,0,0.041773878,no clear source,0
+Au Bon Pain,Meatballs in Marinara Sauce with Penne,1,dish,0.9840215547503124,pasta and noodles,1,1,0.96323055,pasta and noodles,1
+Au Bon Pain,Mediterranean Rice,0,dish,0.08140030541538967,no clear source,0,0,0.046119746,no clear source,0
+Au Bon Pain,Pork Carnitas,0,dish,0.32051816653273124,no clear source,1,0,0.286269,no clear source,1
+Au Bon Pain,Pulled BBQ Pork,0,dish,0.36491282305682315,bread and buns,1,0,0.28378138,no clear source,1
+Au Bon Pain,Red Beans & Rice,1,dish,0.03357978681355789,no clear source,0,0,0.026810197,no clear source,0
+Au Bon Pain,Roasted Corn & Jalapenos,0,dish,0.14594552225075996,no clear source,0,0,0.029090757,no clear source,0
+Au Bon Pain,Roasted Mediterranean Vegetables,0,dish,0.1261137751502297,no clear source,0,0,0.04822634,no clear source,0
+Au Bon Pain,Sesame Green Beans,0,dish,0.6680604216965311,soy sauce and similar,1,0,0.6226888,soy sauce and similar,1
+Au Bon Pain,Smothered Beans,0,dish,0.09036936768299997,no clear source,0,0,0.06267437,no clear source,0
+Au Bon Pain,Southwest Wings,1,dish,0.1829707185467716,no clear source,0,0,0.42435238,no clear source,1
+Au Bon Pain,Stuffing,1,dish,0.9986872261553319,bread and buns,1,1,0.96138906,bread and buns,1
+Au Bon Pain,Sweet & Sour Wings,1,dish,0.4341158586263415,soy sauce and similar,1,0,0.6467949,soy sauce and similar,1
+Au Bon Pain,Tomato Asiago Rice,0,dish,0.0818717710595317,no clear source,0,0,0.08166611,no clear source,0
+Au Bon Pain,Turkey & Gravy,1,dish,0.9547901871221052,wheat flour,1,0,0.83973396,wheat flour,1
+Au Bon Pain,Vegetable Lasagna,1,dish,0.9933996108579027,pasta and noodles,1,1,0.96411926,pasta and noodles,1
+Au Bon Pain,Roasted Potatoes,0,dish,0.019368910033167874,no clear source,0,0,0.021004366,no clear source,0
+Au Bon Pain,Sausage with Peppers and Onions,1,dish,0.2976968282926432,no clear source,1,0,0.16145241,no clear source,1
+Au Bon Pain,Scrambled Eggs,1,dish,0.21483591348237996,no clear source,1,0,0.1322902,no clear source,1
+Au Bon Pain,"Scrambled Eggs, Ham & Cheese",1,dish,0.37475465515558926,bread and buns,1,0,0.2507293,bread and buns,1
+Au Bon Pain,Warm Apple Bake,1,dish,0.7122775108290165,wheat flour,1,0,0.8062431,wheat flour,1
+Au Bon Pain,Classic Oatmeal,0,dish,0.44074134523987885,wheat flour,1,0,0.0355444,no clear source,0
+Au Bon Pain,Superfood Cranberry Almond Hot Cereal,0,dish,0.40587293670807856,wheat flour,1,0,0.39181313,wheat flour,1
+Au Bon Pain,Baked! Lay's ® Original Potato Crisps,0,component,0.3304236009323963,wheat flour,1,0,0.51965845,wheat flour,1
+Au Bon Pain,Bon To Go - Caprese Chicken,0,dish,0.4272243187687811,no clear source,1,0,0.29340446,no clear source,1
+Au Bon Pain,Bon To Go - Cheese & Fruit,1,dish,0.6216147039697018,"cookies, crackers and cake",1,0,0.36116472,no clear source,1
+Au Bon Pain,"Bon To Go - Egg, Veggie & Cheese",1,dish,0.45073920033045944,bread and buns,1,0,0.38491216,no clear source,1
+Au Bon Pain,"Bon To Go - Fruit, Eggs & Nuts",0,dish,0.2826037039557766,no clear source,1,0,0.22439517,no clear source,1
+Au Bon Pain,Bon To Go - Hard Boiled Eggs,0,dish,0.30897919069963864,no clear source,1,0,0.085709274,no clear source,0
+Au Bon Pain,Bon To Go - Herb Chicken Salad,1,dish,0.34633791499026356,no clear source,1,0,0.19329959,no clear source,1
+Au Bon Pain,Bon To Go - Hummus,1,dish,0.42889961485661177,no clear source,1,0,0.20593424,no clear source,1
+Au Bon Pain,"Bon To Go - Hummus, Veggie & Taboule",1,dish,0.5997126892877811,wheat flour,1,0,0.7771307,"barley, rye and bulgur",1
+Au Bon Pain,Bon To Go - Smoked Salmon,1,dish,0.5851071638390284,bread and buns,1,0,0.23828422,no clear source,1
+Au Bon Pain,Bon To Go - Southwest Chicken,1,dish,0.5163754049164363,wheat flour,1,0,0.42662016,soy sauce and similar,1
+Au Bon Pain,Bon To Go - Turkey & Swiss,1,dish,0.5943742003554899,wheat flour,1,0,0.6453435,bread and buns,1
+Au Bon Pain,Chocolate Covered Almonds,0,component,0.08921939263726264,no clear source,0,0,0.047780067,no clear source,0
+Au Bon Pain,Food Should Taste Good ® All Natural Multigrain Chips,0,component,0.5378232210308922,wheat flour,1,0,0.5681163,wheat flour,1
+Au Bon Pain,Fresh Grapes,0,dish,0.14688931349743561,no clear source,0,0,0.045692034,no clear source,0
+Au Bon Pain,Fresh Watermelon,0,dish,0.1243678981935108,no clear source,0,0,0.015014749,no clear source,0
+Au Bon Pain,Fruit Cup,0,dish,0.08890619142641232,no clear source,0,0,0.04733772,no clear source,0
+Au Bon Pain,Housemade Granola,0,dish,0.6498905118744442,wheat flour,1,0,0.46450678,wheat flour,1
+Au Bon Pain,Kettle Cooked BBQ Potato Chips,0,component,0.0874416741194477,no clear source,0,0,0.08344117,no clear source,0
+Au Bon Pain,Kettle Cooked Original Potato Chips,0,component,0.09229527389124192,no clear source,0,0,0.06198946,no clear source,0
+Au Bon Pain,Kettle Cooked Sea Salt & Vinegar Potato Chips,0,component,0.06144892826588344,no clear source,0,0,0.061649624,no clear source,0
+Au Bon Pain,Mixed Nuts,0,component,0.1749380491039525,no clear source,0,0,0.03191915,no clear source,0
+Au Bon Pain,Muesli,0,dish,0.3014030857197484,wheat flour,1,0,0.30964965,wheat flour,1
+Au Bon Pain,Skinny Pop® Popcorn,0,component,0.07104016751146214,no clear source,0,0,0.016593177,no clear source,0
+Au Bon Pain,Snyder’s of Hanover ® Mini Pretzels,1,component,0.7652054995999179,wheat flour,1,1,0.98913974,"cookies, crackers and cake",1
+Au Bon Pain,Blueberry Yogurt & Wild Blueberry Parfait,0,dish,0.3698477709708534,wheat flour,1,0,0.085251234,no clear source,0
+Au Bon Pain,Cranberry Crunch & Honey Parfait,0,dish,0.3404778846309814,wheat flour,1,0,0.26798248,"cookies, crackers and cake",1
+Au Bon Pain,Greek Vanilla Yogurt & Wild Blueberry Parfait,0,dish,0.18995767534775343,no clear source,0,0,0.04560694,no clear source,0
+Au Bon Pain,Caesar Asiago,1,dish,0.6194577889287955,bread and buns,1,0,0.8893368,bread and buns,1
+Au Bon Pain,Chicken Caesar Asiago,1,dish,0.6483187806533328,bread and buns,1,0,0.82233185,bread and buns,1
+Au Bon Pain,Chicken Cobb with Avocado,0,dish,0.47136808597274105,wheat flour,1,0,0.24816957,no clear source,1
+Au Bon Pain,Harvest Turkey,0,dish,0.5592188999330457,wheat flour,1,0,0.33372033,no clear source,1
+Au Bon Pain,Side Garden,0,dish,0.23096663144082474,no clear source,1,0,0.2193375,no clear source,1
+Au Bon Pain,Southwest Chicken,1,dish,0.3091165120796361,no clear source,1,0,0.38110438,wheat flour,1
+Au Bon Pain,Thai Peanut Chicken Salad,1,dish,0.8177096592581865,soy sauce and similar,1,0,0.64119774,soy sauce and similar,1
+Au Bon Pain,Vegetarian Deluxe,0,dish,0.6474566284277343,wheat flour,1,0,0.39905027,no clear source,1
+Au Bon Pain,ABP Croutons,1,component,0.9918193251257359,bread and buns,1,1,0.94427973,bread and buns,1
+Au Bon Pain,Avocado Greek Yogurt Dressing,0,component,0.11519539022602354,no clear source,0,0,0.024237635,no clear source,0
+Au Bon Pain,Balsamic Vinaigrette Dressing,0,component,0.062015663904944285,no clear source,0,0,0.06290424,no clear source,0
+Au Bon Pain,Bleu Cheese Dressing,0,component,0.06471790836023528,no clear source,0,0,0.04977345,no clear source,0
+Au Bon Pain,Caesar Dressing,0,component,0.1260218507716815,no clear source,0,0,0.02898063,no clear source,0
+Au Bon Pain,Lite Buttermilk Ranch Dressing,0,component,0.1028482055153006,no clear source,0,0,0.030502055,no clear source,0
+Au Bon Pain,Lite Citrus Lime Vinaigrette,0,component,0.07287023604663834,no clear source,0,0,0.017045317,no clear source,0
+Au Bon Pain,Lite Lemon Shallot Vinaigrette,0,component,0.10488050269771998,no clear source,0,0,0.015723992,no clear source,0
+Au Bon Pain,Lite Olive Oil Vinaigrette,0,component,0.10890664113234638,no clear source,0,0,0.017242778,no clear source,0
+Au Bon Pain,Southwest Vinaigrette,0,component,0.05299378358705098,no clear source,0,0,0.027480692,no clear source,0
+Au Bon Pain,Thai Peanut Dressing,1,component,0.8828599765714069,soy sauce and similar,1,0,0.7019174,soy sauce and similar,1
+Au Bon Pain,Asparagus & Pea Soup,1,dish,0.25131689590668094,no clear source,1,0,0.085251234,no clear source,0
+Au Bon Pain,Baked Stuffed Potato Soup,1,dish,0.17310058375994863,no clear source,0,0,0.3765085,wheat flour,1
+Au Bon Pain,Barley and Creamy Lentil Soup,1,dish,0.9939826725430853,"barley, rye and bulgur",1,1,0.9449947,"barley, rye and bulgur",1
+Au Bon Pain,Black Bean Soup,0,dish,0.11980736972919603,no clear source,0,0,0.101055905,no clear source,0
+Au Bon Pain,Broccoli Cheddar Soup,1,dish,0.5591643569766378,wheat flour,1,0,0.81242126,wheat flour,1
+Au Bon Pain,Butternut Squash & Apple,0,dish,0.36183133867282025,wheat flour,1,0,0.05033063,no clear source,0
+Au Bon Pain,Chicken and Dumpling Soup,1,dish,0.9103642341401863,wheat flour,1,0,0.9348725,wheat flour,1
+Au Bon Pain,Chicken Florentine Soup,1,dish,0.5269077622947008,pasta and noodles,1,0,0.63860995,wheat flour,1
+Au Bon Pain,Chicken Gumbo Soup,1,dish,0.2483586616051423,no clear source,1,0,0.64690644,wheat flour,1
+Au Bon Pain,Chicken Noodle Soup,1,dish,0.9920305992490995,pasta and noodles,1,1,0.93581736,pasta and noodles,1
+Au Bon Pain,Clam Chowder,1,dish,0.4677832454931332,wheat flour,1,0,0.3312279,wheat flour,1
+Au Bon Pain,Corn and Green Chili Bisque,1,dish,0.43243775463705403,wheat flour,1,0,0.34964374,wheat flour,1
+Au Bon Pain,Corn Chowder,1,dish,0.35598371493528236,wheat flour,1,0,0.35432136,wheat flour,1
+Au Bon Pain,Cream of Chicken and Wild Rice Soup,1,dish,0.7797418805574076,wheat flour,1,0,0.65544635,wheat flour,1
+Au Bon Pain,Curried Rice and Lentil Soup,0,dish,0.06254752268928598,no clear source,0,0,0.08632348,no clear source,0
+Au Bon Pain,Five Onion Soup,1,dish,0.43495973753148054,bread and buns,1,0,0.6662797,bread and buns,1
+Au Bon Pain,French Moroccan Tomato Lentil Soup,0,dish,0.17560827003574442,no clear source,0,0,0.12984344,no clear source,1
+Au Bon Pain,French Onion Soup,1,dish,0.9043425678206579,bread and buns,1,0,0.937669,bread and buns,1
+Au Bon Pain,Garden Vegetable Soup,0,dish,0.19777297920964343,no clear source,0,0,0.23283306,no clear source,1
+Au Bon Pain,Harvest Pumpkin Soup,1,dish,0.2131270803118338,no clear source,1,0,0.11476477,no clear source,0
+Au Bon Pain,Italian Wedding Soup,1,dish,0.8678759082451696,pasta and noodles,1,0,0.8071568,pasta and noodles,1
+Au Bon Pain,Lemon Orzo Chicken Soup,1,dish,0.9967778701898984,pasta and noodles,1,1,0.97458035,pasta and noodles,1
+Au Bon Pain,Lobster & Corn Bisque,1,dish,0.36411707990488507,wheat flour,1,0,0.4807224,wheat flour,1
+Au Bon Pain,Minestrone with Basil,1,dish,0.5537961114839254,pasta and noodles,1,0,0.7981868,pasta and noodles,1
+Au Bon Pain,Pasta e Fagioli Soup,1,dish,0.9951693664296076,pasta and noodles,1,1,0.9749169,pasta and noodles,1
+Au Bon Pain,Potato Leek Soup,1,dish,0.12978868823781398,no clear source,0,0,0.15687834,no clear source,1
+Au Bon Pain,"Red Beans, Italian Sausage and Rice Soup",1,dish,0.08046840392426091,no clear source,0,0,0.10951516,no clear source,0
+Au Bon Pain,Roasted Eggplant Soup,0,dish,0.20680133985223448,no clear source,1,0,0.17286891,no clear source,1
+Au Bon Pain,Roasted Red Pepper & Gouda Soup,1,dish,0.2245870328911006,no clear source,1,0,0.09842541,no clear source,0
+Au Bon Pain,Roasted Tomato & Fennel Soup,0,dish,0.15966927143344767,no clear source,0,0,0.110471144,no clear source,0
+Au Bon Pain,"Roasted Tomato, Chicken & Orzo",1,dish,0.9923475204316468,pasta and noodles,1,1,0.9829547,pasta and noodles,1
+Au Bon Pain,Slow Cooked Smokey Chicken & Sausage,1,dish,0.4442918743734826,pasta and noodles,1,0,0.21601155,no clear source,1
+Au Bon Pain,Southwest Tortilla Soup,0,dish,0.3029469949393119,no clear source,1,1,0.15987214,no clear source,1
+Au Bon Pain,Split Pea with Ham Soup,1,dish,0.10123635701743139,no clear source,0,0,0.08122776,no clear source,0
+Au Bon Pain,Swiss Chard and Three Bean Soup,0,dish,0.16259756832723038,no clear source,0,0,0.14080817,no clear source,1
+Au Bon Pain,Tomato Basil Bisque,1,dish,0.2033676848001431,no clear source,1,0,0.24490438,wheat flour,1
+Au Bon Pain,"Turkey, Kale & Wild Rice Soup",1,dish,0.2736159885331645,wheat flour,1,0,0.18126321,no clear source,1
+Au Bon Pain,Tuscan White Bean Soup,0,dish,0.16596622394971428,no clear source,0,0,0.1187934,no clear source,0
+Au Bon Pain,Vegetable Beef & Barley,1,dish,0.9943194621192076,"barley, rye and bulgur",1,1,0.9651191,"barley, rye and bulgur",1
+Au Bon Pain,Vegetarian Chili,0,dish,0.3949983614610918,no clear source,1,0,0.18111834,no clear source,1
+Au Bon Pain,Vegetarian Minestrone Soup,1,dish,0.6060113365420008,pasta and noodles,1,0,0.76524264,pasta and noodles,1
+Au Bon Pain,Wild Mushroom Bisque,1,dish,0.5237705357728105,wheat flour,1,0,0.48329782,wheat flour,1
+Au Bon Pain,Beef and Vegetable Stew,1,dish,0.4969840631220518,wheat flour,1,0,0.49485034,wheat flour,1
+Au Bon Pain,Chicken and Vegetable Stew,1,dish,0.50442101104726,wheat flour,1,0,0.3589146,wheat flour,1
+Au Bon Pain,Macaroni and Cheese,1,dish,0.9999195770140521,pasta and noodles,1,1,0.98840266,pasta and noodles,1
+Au Bon Pain,Roasted Poblano Chicken Stew,0,dish,0.2677047245490679,wheat flour,1,0,0.22901751,no clear source,1
+Au Bon Pain,Steak & Wild Rice Soup,0,dish,0.4305411241546129,wheat flour,1,0,0.30208215,wheat flour,1
+Au Bon Pain,Turkey Chili,1,dish,0.20540333764191154,no clear source,1,0,0.14402841,no clear source,1
+Tatte,Bread And Butter,1,dish,0.7836153404911008,bread and buns,1,1,0.85158294,bread and buns,1
+Tatte,Breakfast Sandwich,1,dish,0.9557084776509435,bread and buns,1,0,0.9116528,bread and buns,1
+Tatte,Croissant Sandwich,1,dish,0.9920347652425484,bread and buns,1,1,0.94844174,bread and buns,1
+Tatte,Croque Madame,1,dish,0.9742267731058346,bread and buns,1,0,0.9583822,bread and buns,1
+Tatte,Croque Monsieur,1,dish,0.9879969601614911,bread and buns,1,0,0.9628132,bread and buns,1
+Tatte,Halloumi & Sunny-Side Sandwich,1,dish,0.840470021119263,bread and buns,1,0,0.92121595,bread and buns,1
+Tatte,House Breakfast Plate,1,dish,0.4719969595457659,bread and buns,1,0,0.4353013,bread and buns,1
+Tatte,Lamb Hash,1,dish,0.0786781090363553,no clear source,0,0,0.069541745,no clear source,0
+Tatte,Muesli,0,dish,0.3014030857197484,wheat flour,1,0,0.30964965,wheat flour,1
+Tatte,Warm Oatmeal with Dried Fruits,0,dish,0.09364303557020959,no clear source,0,0,0.020371294,no clear source,0
+Tatte,Scrambled Egg Plate - Prosciutto,1,dish,0.31895405242792274,bread and buns,1,0,0.23881637,no clear source,1
+Tatte,Scrambled Egg Plate - Tomato & Goat Cheese,1,dish,0.4503393980687136,bread and buns,1,0,0.4326626,bread and buns,1
+Tatte,"Smoked Salmon, Avocado & Egg Sandwich",1,dish,0.8352463566266892,bread and buns,1,0,0.947186,bread and buns,1
+Tatte,Donut - Strawberry,1,dish,0.7674944039712785,"cookies, crackers and cake",1,1,0.20833994,no clear source,1
+Tatte,Donut - Vanilla Sugar,1,dish,0.44349128604135546,"cookies, crackers and cake",1,1,0.02898063,no clear source,0
+Tatte,French Toast - Savory,1,dish,0.9963345489530984,bread and buns,1,1,0.95945925,bread and buns,1
+Tatte,French Toast - Sweet,1,dish,0.9938902460547422,bread and buns,1,1,0.95806944,bread and buns,1
+Tatte,Greek Style Pancakes,1,dish,0.5970927490992468,wheat flour,1,1,0.9615338,wheat flour,1
+Tatte,Meze Breakfast,1,dish,0.5592777076310328,bread and buns,1,0,0.49692732,bread and buns,1
+Tatte,Avocado,1,dish,0.184669654341177,no clear source,0,0,0.02732453,no clear source,0
+Tatte,Smoked Salmon Avocado,1,dish,0.3074022606883934,no clear source,1,0,0.06632687,no clear source,0
+Tatte,"Potato, Mushroom & Bacon Shakshuka",1,dish,0.3149898603413892,bread and buns,1,0,0.23528403,no clear source,1
+Tatte,Meatball,1,dish,0.9895769047059462,breadcrumbs,1,0,0.8106289,bread and buns,1
+Tatte,Traditional,1,dish,0.4081420140590206,wheat flour,1,0,0.28846887,no clear source,1
+Tatte,Hummus,1,dish,0.151571153593833,no clear source,0,0,0.046119746,no clear source,0
+Tatte,"Fresh Corn, Avocado & Farro",1,dish,0.9686450694176155,wheat flour,1,1,0.9730877,wheat flour,1
+Tatte,Maple Aleppo Chicken,0,dish,0.3537410935251748,wheat flour,1,0,0.6159545,soy sauce and similar,1
+Tatte,"Quiche - Leek, Potato & Spinach & Salad",1,dish,0.05124188762802129,no clear source,0,0,0.5726033,pastry and dough,1
+Tatte,Roasted Salmon & Winter Vegetable Rice,0,dish,0.13262494578254425,no clear source,0,0,0.103748634,no clear source,0
+Tatte,Harissa Roasted Salmon & Rice,0,dish,0.0570541287803944,no clear source,0,0,0.07935289,no clear source,0
+Tatte,Tomato Mozzarella Flatbread Slice,1,dish,0.9520837531042767,wheat flour,1,1,0.9034647,bread and buns,1
+Tatte,BLAT,1,dish,0.286864763431552,no clear source,1,0,0.48288628,wheat flour,1
+Tatte,Broccolini & Squash Hummus Pita,1,dish,0.8975333914313213,bread and buns,1,1,0.9717254,bread and buns,1
+Tatte,Chicken Pita,1,dish,0.9890161951082105,bread and buns,1,1,0.9622497,bread and buns,1
+Tatte,Chicken Salad,1,dish,0.22010513873633342,no clear source,1,0,0.14116298,no clear source,1
+Tatte,Fresh Mozzarella,1,dish,0.2923715027108664,no clear source,1,0,0.355663,bread and buns,1
+Tatte,Grilled Cheese,1,dish,0.9947596833457766,bread and buns,1,0,0.96391606,bread and buns,1
+Tatte,Kids Sandwich,1,dish,0.9831700706713392,bread and buns,1,0,0.8933094,bread and buns,1
+Tatte,Lamb Kebab Pita,1,dish,0.9746801742907807,bread and buns,1,1,0.9622497,bread and buns,1
+Tatte,Prosciutto & Fig Panini,1,dish,0.7949493649146187,bread and buns,1,0,0.95159405,bread and buns,1
+Tatte,Roasted Cauliflower,1,dish,0.12695345502311195,no clear source,0,0,0.034036152,no clear source,0
+Tatte,Roasted Salmon,1,dish,0.1656355787085807,no clear source,0,0,0.11716747,no clear source,0
+Tatte,Short Rib Grilled Cheese,1,dish,0.9191053997955787,bread and buns,1,0,0.9647889,bread and buns,1
+Tatte,Tuna,1,dish,0.6903401407537371,pasta and noodles,1,0,0.45640978,no clear source,1
+Tatte,Turkey Avocado,1,dish,0.4482513074677267,wheat flour,1,0,0.12570794,no clear source,1
+Tatte,Turkey BLAT,1,dish,0.6485803198521933,bread and buns,1,0,0.80730873,bread and buns,1
+Tatte,Tahini Caesar Salad,1,dish,0.7800873419727604,bread and buns,1,0,0.8881781,bread and buns,1
+Tatte,Crunchy Halloumi,1,dish,0.5544457534184766,wheat flour,1,0,0.29767406,no clear source,1
+Tatte,Fattoush,1,dish,0.9799299123010715,bread and buns,1,0,0.7268136,wheat flour,1
+Tatte,Green & Nutty,1,dish,0.24964123041738917,no clear source,1,0,0.15623358,no clear source,1
+Tatte,"Maple, Squash & Chicken Salad",1,dish,0.16533744010924578,no clear source,0,0,0.11797801,no clear source,0
+Tatte,Chicken Vegetable,1,dish,0.35388335011065686,no clear source,1,0,0.15443976,no clear source,1
+Tatte,Red Lentil Soup,1,dish,0.1659128555531938,no clear source,0,0,0.08977328,no clear source,0
+Tatte,Tomato Basil,1,dish,0.25158594315944993,no clear source,1,0,0.04426588,no clear source,0
+Tatte,Bagged Salad Rolls,1,component,0.39319500840105237,wheat flour,1,0,0.24077459,no clear source,1
+Tatte,Berries & Grapes,0,dish,0.13027525993055455,no clear source,0,0,0.047691282,no clear source,0
+Tatte,Cashew Pepper Spread,0,component,0.17411961702912315,no clear source,0,0,0.09947021,no clear source,0
+Tatte,Labneh,0,component,0.19752957341905675,no clear source,0,0,0.6831025,wheat flour,1
+Tatte,Mediterranean Farro Salad,1,dish,0.9977265304297315,wheat flour,1,1,0.97887486,wheat flour,1
+Tatte,G&G Overnight Oats with Dried Fruits,0,dish,0.09498650157057031,no clear source,0,0,0.02479816,no clear source,0
+Tatte,Tomato Basil Soup,1,dish,0.1465720778425541,no clear source,0,0,0.17161581,no clear source,1
+Tatte,Tuna Salad,0,dish,0.35055878270436513,pasta and noodles,1,0,0.2607658,pasta and noodles,1
+Tatte,"Boureka, Cheese",1,dish,0.57645808677382,wheat flour,1,0,0.53041893,wheat flour,1
+Tatte,Croissant - Almond,1,dish,0.9212165638218626,bread and buns,1,1,0.92762595,bread and buns,1
+Tatte,Croissant - Chocolate,1,dish,0.8821323934839835,bread and buns,1,1,0.91212356,bread and buns,1
+Tatte,Croissant - Ham & Cheese,1,dish,0.9636327944298249,bread and buns,1,1,0.93868846,bread and buns,1
+Tatte,Croissant - Pistachio,1,dish,0.9156551487229537,bread and buns,1,1,0.9390248,bread and buns,1
+Tatte,Croissant - Plain,1,dish,0.9197136414557878,bread and buns,1,1,0.93318766,bread and buns,1
+Tatte,Danish - Sour Cherry Cream Cheese,1,dish,0.4665030497224315,wheat flour,1,0,0.08079154,no clear source,0
+Tatte,Jerusalem Bagel,1,dish,0.9179997686345163,bread and buns,1,1,0.966347,bread and buns,1
+Tatte,Kouign Amann,1,dish,0.286864763431552,no clear source,1,0,0.3983479,wheat flour,1
+Tatte,Morning Bun,1,dish,0.5558294948226211,bread and buns,1,1,0.7392342,bread and buns,1
+Tatte,Monkey bread,1,dish,0.8737965936287728,"cookies, crackers and cake",1,1,0.9587699,"cookies, crackers and cake",1
+Tatte,Muffin - Blueberry Olive Oil,1,dish,0.6942381997245604,wheat flour,1,0,0.5500636,wheat flour,1
+Tatte,Rose - Chocolate,1,dish,0.26262695356938204,wheat flour,1,0,0.06267437,no clear source,0
+Tatte,Rose - Cinnamon Pecan,1,dish,0.5419396520348989,wheat flour,1,0,0.023419945,no clear source,0
+Tatte,Turnover - Apple,1,dish,0.6066724416286982,wheat flour,1,0,0.7762839,pastry and dough,1
+Tatte,Scone - Cherry Almond Scone,1,dish,0.9245187608931386,wheat flour,1,0,0.9846347,wheat flour,1
+Tatte,Gingerbread Tile,1,dish,0.9710784549329604,wheat flour,1,1,0.9333094,wheat flour,1
+Tatte,Butter Nutella Cookie,1,dish,0.6053499925119743,"cookies, crackers and cake",1,1,0.9727791,wheat flour,1
+Tatte,Chocolate Sandwich Cookie,1,dish,0.6016180191896915,"cookies, crackers and cake",1,1,0.9305845,wheat flour,1
+Tatte,Cranberry Pistachio Cookie,1,dish,0.6911558579274979,wheat flour,1,1,0.97151,wheat flour,1
+Tatte,Halva Chocolate Chunk Cookie,1,dish,0.8653772619381792,wheat flour,1,1,0.97029626,wheat flour,1
+Tatte,Linzer Cookie,1,dish,0.9788762681307241,wheat flour,1,1,0.98155975,wheat flour,1
+Tatte,Plain Butter,1,dish,0.3187158395635531,wheat flour,1,0,0.044183318,no clear source,0
+Tatte,Apricot Plum Galette,1,dish,0.9495730065590589,wheat flour,1,0,0.9455002,wheat flour,1
+Tatte,Almond Tart - Long,1,dish,0.8820425387816019,wheat flour,1,0,0.87705624,wheat flour,1
+Tatte,Apple Pie,1,dish,0.878927762814313,wheat flour,1,0,0.8789391,wheat flour,1
+Tatte,Cheesecake - Blue,1,dish,0.9624258344523361,"cookies, crackers and cake",1,0,0.8623516,"cookies, crackers and cake",1
+Tatte,Cheesecake - Crumbs,1,dish,0.9494072167933452,"cookies, crackers and cake",1,0,0.8868131,wheat flour,1
+Tatte,Cheesecake - Red,1,dish,0.966907396144725,"cookies, crackers and cake",1,0,0.8217605,"cookies, crackers and cake",1
+Tatte,Coffee Cake,1,dish,0.9141748584526277,wheat flour,1,0,0.96777767,wheat flour,1
+Tatte,Fruit Box - Mixed Berry,1,catering or retail pack,0.5101818640060353,"cookies, crackers and cake",1,0,0.27435136,wheat flour,1
+Tatte,Honey Apple Cake,1,dish,0.8667003708265125,wheat flour,1,0,0.984516,wheat flour,1
+Tatte,Honey Carrot Cake,1,dish,0.8945916912698892,wheat flour,1,0,0.98184055,wheat flour,1
+Tatte,Krembo - Passion Fruit,0,dish,0.20936664023767437,no clear source,1,0,0.24908175,no clear source,1
+Tatte,Krembo - Vanilla Lime,0,dish,0.2559715710353816,no clear source,1,0,0.17009404,no clear source,1
+Tatte,Lemon Mint Tart,1,dish,0.4646380507555373,wheat flour,1,0,0.8330532,wheat flour,1
+Tatte,Lemon Poppy Pound Cake,1,dish,0.907040584733713,wheat flour,1,1,0.98403233,"cookies, crackers and cake",1
+Tatte,Maple Pecan Pie,1,dish,0.2993165702771453,no clear source,1,0,0.37708178,wheat flour,1
+Tatte,Mixed Nut Box,1,catering or retail pack,0.38829148437774186,wheat flour,1,0,0.6159545,wheat flour,1
+Tatte,Mixed Tart - Long,1,dish,0.7621527255385356,wheat flour,1,0,0.88483775,wheat flour,1
+Tatte,Pear Tart,1,dish,0.9376844439091374,wheat flour,1,0,0.88059187,wheat flour,1
+Tatte,Pecan Tart - Long,1,dish,0.8700075390835624,wheat flour,1,0,0.86993575,wheat flour,1
+Tatte,Pineapple Passionfruit Matcha Bombe,1,dish,0.2588154798518689,no clear source,1,0,0.4361417,"cookies, crackers and cake",1
+Tatte,Pistachio Cherry Tart,1,dish,0.8462715526793039,wheat flour,1,0,0.85158294,wheat flour,1
+Tatte,Pistachio Crush,0,dish,0.17811571079707356,no clear source,0,0,0.020332353,no clear source,0
+Tatte,Strawberry Rhubarb Pie,1,dish,0.6921215610331487,wheat flour,1,0,0.7648916,wheat flour,1
+Tatte,Tiramisu,1,dish,0.9788885870181273,"cookies, crackers and cake",1,0,0.9252299,"cookies, crackers and cake",1
+Tatte,Baguette,1,component,0.978581186665877,bread and buns,1,1,0.9596866,bread and buns,1
+Tatte,Challah/Rolls,1,component,0.9962224956275357,wheat flour,1,1,0.97608364,wheat flour,1
+Tatte,Ciabatta,1,component,0.9951846065660205,bread and buns,1,1,0.961171,bread and buns,1
+Tatte,Focaccia,1,component,0.9894726059156111,wheat flour,1,1,0.9748691,wheat flour,1
+Tatte,Multigrain,1,component,0.9540665785574394,wheat flour,1,0,0.7999117,wheat flour,1
+Tatte,Sourdough,1,component,0.9988777216622425,bread and buns,1,1,0.947186,bread and buns,1
+Tatte,Cookie Assortment Gift Box - Large,1,catering or retail pack,0.9553340625182739,wheat flour,1,1,0.9656413,wheat flour,1
+Tatte,Cookie Assortment Gift Box - Small,1,catering or retail pack,0.9508262028309103,wheat flour,1,1,0.96405166,wheat flour,1
+Tatte,Royal Icing Egg Cookie,1,catering or retail pack,0.3109675322362666,wheat flour,1,1,0.979784,wheat flour,1
+Tatte,Hot Cross Buns,1,catering or retail pack,0.9514908545648899,wheat flour,1,1,0.98498523,wheat flour,1
+Tatte,Coconut Macaroons,0,catering or retail pack,0.5349320026225219,wheat flour,1,0,0.23792988,wheat flour,1
+Tatte,Chocolate Covered Matzo Bark,1,catering or retail pack,0.7087688494505868,wheat flour,1,1,0.96820134,wheat flour,1
+Tatte,Pride Cake,0,catering or retail pack,0.7602379147956819,wheat flour,1,0,0.971564,wheat flour,1
+Tatte,Breakfast Sandwich Assortment (serves 10),1,catering or retail pack,0.9164754151372728,bread and buns,1,0,0.9046505,bread and buns,1
+Tatte,Avocado Breakfast Sandwich,1,dish,0.9221594660730713,bread and buns,1,0,0.9116528,bread and buns,1
+Tatte,Savory Pastry Assortment (serves 10–12),1,catering or retail pack,0.5625048113034987,wheat flour,1,0,0.8949732,pastry and dough,1
+Tatte,Cheese Boureka,1,dish,0.57645808677382,wheat flour,1,0,0.8118252,wheat flour,1
+Tatte,Spinach Labneh Pita,1,dish,0.9661594298381679,bread and buns,1,1,0.96879715,bread and buns,1
+Tatte,Ham & Cheese Croissant,1,dish,0.8577298685872703,bread and buns,1,1,0.9403531,bread and buns,1
+Tatte,Sweet Pastry Assortment (serves 10–12),1,catering or retail pack,0.5327976875311522,wheat flour,1,0,0.93379396,wheat flour,1
+Tatte,Plain Croissant,1,dish,0.9197136414557878,bread and buns,1,1,0.9370958,bread and buns,1
+Tatte,Pain Au Chocolat,1,dish,0.7765443585278088,wheat flour,1,0,0.68246794,wheat flour,1
+Tatte,Apple Turnover,1,dish,0.6074155980002423,wheat flour,1,0,0.8539127,pastry and dough,1
+Tatte,Chocolate Muffin,1,dish,0.7996736316203661,wheat flour,1,0,0.9678385,wheat flour,1
+Tatte,Blueberry Muffin,1,dish,0.7454858953237727,wheat flour,1,0,0.98173577,wheat flour,1
+Tatte,Mixed Berry Muesli Cups (serves 10),0,catering or retail pack,0.3987511733551826,wheat flour,1,0,0.14426936,no clear source,1
+Tatte,Overnight Oats with Dried Fruits (10 CT),0,catering or retail pack,0.12348316697487616,no clear source,0,0,0.021368887,no clear source,0
+Tatte,Catering - Overnight Oats with Dried Fruits 1 CT,0,catering or retail pack,0.09900833250823404,no clear source,0,0,0.13409412,no clear source,1
+Tatte,Fruit Platter (serves 20),0,catering or retail pack,0.272030736968382,no clear source,1,0,0.052134257,no clear source,0
+Tatte,Berries & Grapes Fruit Cups (10),0,catering or retail pack,0.1434993825832459,no clear source,0,0,0.06816437,no clear source,0
+Tatte,Box of Hot Coffee (serves 8–10),0,drink,0.47249439770139123,"cookies, crackers and cake",1,0,0.023509452,no clear source,0
+Tatte,Breakfast Box (varies),0,catering or retail pack,0.6979272511200165,"cookies, crackers and cake",1,0,0.6459021,bread and buns,1
+Tatte,Halloumi Breakfast Sandwich,1,dish,0.9141128693419758,bread and buns,1,0,0.9032942,bread and buns,1
+Tatte,"Smoked Salmon, Avocado, & Egg Sandwich*",1,dish,0.8352463566266892,bread and buns,1,0,0.9434519,bread and buns,1
+Tatte,Avocado Tartine,1,dish,0.9585997349355256,bread and buns,1,0,0.9347534,bread and buns,1
+Tatte,Smoked Salmon & Avocado Tartine*,1,dish,0.8797620060212624,bread and buns,1,0,0.9468921,bread and buns,1
+Tatte,Tatte Sandwich Assortment (serves 10),1,catering or retail pack,0.9383257504626653,bread and buns,1,0,0.6018861,bread and buns,1
+Tatte,Mixed Greens Salad & Tatte Cookie Box (serves 10),1,catering or retail pack,0.27636229697599557,no clear source,1,1,0.95759624,wheat flour,1
+Tatte,Lunch Box No. 1 (varies),0,catering or retail pack,0.5262810169728069,wheat flour,1,0,0.81888163,bread and buns,1
+Tatte,Lunch Box No. 2 (varies),0,catering or retail pack,0.5262810169728069,wheat flour,1,0,0.8247444,bread and buns,1
+Tatte,B.L.A.T.,1,dish,0.286864763431552,no clear source,1,0,0.81047887,bread and buns,1
+Tatte,Turkey B.L.A.T.,1,dish,0.6485803198521933,bread and buns,1,0,0.7498207,bread and buns,1
+Tatte,Chilled Salmon,1,dish,0.341845282095145,soy sauce and similar,1,0,0.2816031,soy sauce and similar,1
+Tatte,Sundried Tomato & Eggplant,1,dish,0.3579889579515654,no clear source,1,0,0.36772427,no clear source,1
+Tatte,Roasted Cauliflower Pita,1,dish,0.85248966065883,bread and buns,1,1,0.9664738,bread and buns,1
+Tatte,"Choose Your Favorites: Maple, Squash & Chicken",1,catering or retail pack,0.42782612827206545,wheat flour,1,0,0.2842779,no clear source,1
+Tatte,Dessert Assortment,1,catering or retail pack,0.8886093084734037,"cookies, crackers and cake",1,0,0.5632578,"cookies, crackers and cake",1
+Tatte,Tatte Cookie Box,1,catering or retail pack,0.9771464563392922,"cookies, crackers and cake",1,1,0.9761292,wheat flour,1
+Tatte,Signature Assortment,1,catering or retail pack,0.36292426207733464,wheat flour,1,0,0.33545968,no clear source,1
+Tatte,Brownie Finger Box,0,catering or retail pack,0.4986322198355424,wheat flour,1,0,0.58823884,wheat flour,1
+Tatte,Fresh Berries Cheesecake,1,dish,0.5605430704578773,"cookies, crackers and cake",1,0,0.7818308,"cookies, crackers and cake",1
+Tatte,Cinnamon Walnut Coffeecake,1,dish,0.7262304083308013,wheat flour,1,0,0.9694401,wheat flour,1
+Tatte,Halva Chocolate Chunk,1,dish,0.7292295368433739,wheat flour,1,0,0.16000336,no clear source,1
+Tatte,Linzer,1,dish,0.8684683431053889,wheat flour,1,0,0.17981844,no clear source,1
+Tatte,Chocolate Sandwich,1,dish,0.6855900679427116,bread and buns,1,0,0.8949732,bread and buns,1
+Tatte,Butter Cookie Tube,1,catering or retail pack,0.7599251139215337,wheat flour,1,1,0.9697854,wheat flour,1
+Tatte,Nutella Cookie Tube,1,catering or retail pack,0.7178574614461612,wheat flour,1,1,0.97023994,wheat flour,1
+Tatte,Fresh Berries Cheesecake Cup,1,dish,0.5147383359958151,"cookies, crackers and cake",1,0,0.6802417,"cookies, crackers and cake",1
+Tatte,Charcuterie Platter (serves 8–10),1,catering or retail pack,0.6715447536365258,bread and buns,1,0,0.12538631,no clear source,1
+Tatte,Seasonal Vegetable Platter (serves 8–10),0,catering or retail pack,0.35436771673006473,no clear source,1,0,0.10123348,no clear source,0
+Tatte,Mezze Platter (serves 10),1,catering or retail pack,0.512476275694098,bread and buns,1,0,0.5034732,wheat flour,1
+Tatte,"Quiche: Leek, Potato & Spinach (each serves 8–10)",1,catering or retail pack,0.22189046786029376,no clear source,1,0,0.5348555,pastry and dough,1
+Tatte,Pita Assortments (Large serves 12–14 / Small serves 6–8),1,catering or retail pack,0.8698172966832501,bread and buns,1,1,0.9621787,bread and buns,1
+Sweetgreen,Umami Grain Bowl,1,dish,0.7612515447004662,"barley, rye and bulgur",1,0,0.91655886,wheat flour,1
+Sweetgreen,Not So Nicoise,0,dish,0.40067224985973704,no clear source,1,0,0.026455775,no clear source,0
+Sweetgreen,Beets Don't Kale My Vibe,0,dish,0.15286520058104813,no clear source,0,0,0.046551272,no clear source,0
+Sweetgreen,Kale Caesar,0,dish,0.45004633280810624,bread and buns,1,0,0.90632194,bread and buns,1
+Sweetgreen,Hummus Tahina,1,dish,0.22041349092289864,no clear source,1,0,0.090253234,no clear source,0
+Sweetgreen,Avocobbo,0,dish,0.286864763431552,no clear source,1,0,0.06941547,no clear source,0
+Sweetgreen,Earth Bowl,1,dish,0.2787888641580786,no clear source,1,0,0.109134786,no clear source,0
+Sweetgreen,Blue Cheese Dressing,0,component,0.0821589578279277,no clear source,0,0,0.034880884,no clear source,0
+Sweetgreen,Caesar Dressing,0,component,0.1260218507716815,no clear source,0,0,0.02898063,no clear source,0
+Sweetgreen,Cucumber Tahini Yogurt Dressing,0,component,0.06711893724644669,no clear source,0,0,0.057705317,no clear source,0
+Sweetgreen,Lime Cilantro Jalapeno Vinaigrette,0,component,0.07497703954268609,no clear source,0,0,0.015424552,no clear source,0
+Sweetgreen,Bread,1,component,0.9998219732615107,wheat flour,1,1,0.9761746,wheat flour,1
+Sweetgreen,Quinoa + Farro,1,component,0.9982368531943788,wheat flour,1,1,0.9183339,wheat flour,1
+Sweetgreen,Local Goat Cheese,0,component,0.37681097556757814,no clear source,1,0,0.1664043,no clear source,1
+Sweetgreen,Local Feta Cheese,0,component,0.27296398399123845,no clear source,1,0,0.13637818,no clear source,1
+Sweetgreen,Organic White Cheddar,0,component,0.5217369930103972,wheat flour,1,0,0.4195885,wheat flour,1
+Sweetgreen,Shaved Parmesan,0,component,0.32591212348463794,no clear source,1,0,0.36886027,bread and buns,1
+Sweetgreen,Parmesan Crisp,0,component,0.708128423685745,wheat flour,1,0,0.8492225,wheat flour,1
+Sweetgreen,Hardboiled Eggs,0,component,0.4378892252212101,bread and buns,1,0,0.13557506,no clear source,1
+Sweetgreen,Citrus Shrimp,0,component,0.21665875292773762,no clear source,1,0,0.21535076,no clear source,1
+Sweetgreen,Baked Falafel,1,component,0.6012616696779466,bread and buns,1,0,0.88263035,bread and buns,1
+Sweetgreen,Hummus,0,component,0.151571153593833,no clear source,0,0,0.046119746,no clear source,0
+Sweetgreen,Pita Chips,1,component,0.9959450056372487,bread and buns,1,1,0.95735765,bread and buns,1
+Sweetgreen,Pecans,0,component,0.03299920083038066,no clear source,0,0,0.025516605,no clear source,0
+Sweetgreen,Chocolate Chips,0,component,0.48965528860453844,wheat flour,1,0,0.9652504,wheat flour,1
+Sweetgreen,Organic Granola,1,component,0.4268005038550653,wheat flour,1,0,0.45365515,wheat flour,1
+Chipotle (UK),Soft Flour Tortilla (Burrito & Taco),1,component,0.9952179018874431,wheat flour,1,1,0.8663589,wheat flour,1
+Chipotle (UK),Hard Shell Taco (Crispy Corn Taco),0,component,0.3573698294161558,wheat flour,1,0,0.21354114,no clear source,1
+Chipotle (UK),Coriander-Lime Rice (White),0,component,0.060733729599989905,no clear source,0,0,0.021409769,no clear source,0
+Chipotle (UK),Coriander-Lime Rice (Brown),0,component,0.10893991072209597,no clear source,0,0,0.022158869,no clear source,0
+Chipotle (UK),Beans (Black),0,component,0.10282687020975412,no clear source,0,0,0.023197625,no clear source,0
+Chipotle (UK),Beans (Pinto),0,component,0.04692473573028577,no clear source,0,0,0.03352616,no clear source,0
+Chipotle (UK),Fajita Vegetables,0,component,0.22153062287293857,no clear source,1,0,0.15077753,no clear source,1
+Chipotle (UK),Barbacoa,0,component,0.12569322272880767,no clear source,0,0,0.05572029,no clear source,0
+Chipotle (UK),Carnitas,0,component,0.31875119495304016,no clear source,1,0,0.118385084,no clear source,0
+Chipotle (UK),Steak,0,component,0.6746596592749224,soy sauce and similar,1,0,0.5441656,soy sauce and similar,1
+Chipotle (UK),Sofritas (braised tofu),0,component,0.45928370497915627,soy sauce and similar,1,0,0.35510373,soy sauce and similar,1
+Chipotle (UK),Fresh Tomato Salsa,0,component,0.08634960012645632,no clear source,0,0,0.018511046,no clear source,0
+Chipotle (UK),Chilli-Corn Salsa,0,component,0.027182592164238906,no clear source,0,0,0.015365342,no clear source,0
+Chipotle (UK),Roasted Tomato Green-Chilli Salsa,0,component,0.1009055208953844,no clear source,0,0,0.016914913,no clear source,0
+Chipotle (UK),Roasted Tomato Red-Chilli Salsa,0,component,0.07404895024567992,no clear source,0,0,0.01665704,no clear source,0
+Chipotle (UK),Monterey Jack Cheese,0,component,0.29131735196636577,no clear source,1,0,0.22473529,no clear source,1
+Chipotle (UK),Sour Cream,0,component,0.3695034223789917,wheat flour,1,0,0.068662286,no clear source,0
+Chipotle (UK),Guacamole,0,component,0.034535857343583776,no clear source,0,0,0.014728614,no clear source,0
+Chipotle (UK),Romaine Lettuce,0,component,0.1647669043253781,no clear source,0,0,0.049865905,no clear source,0
+Chipotle (UK),Tortilla Chips,0,component,0.666545121035371,wheat flour,1,0,0.72311395,bread and buns,1
+Chipotle (UK),Chipotle Honey Vinaigrette,0,component,0.09257955329504819,no clear source,0,0,0.02727267,no clear source,0
+Chipotle (UK),Tabasco®,0,component,0.23697525668013097,no clear source,1,0,0.13939638,no clear source,1

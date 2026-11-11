@@ -1,0 +1,45 @@
+restaurant,item,score,result,Model
+Au Bon Pain,Roasted Potatoes,0.019368910033167874,not marked wheat,Simple text model
+Au Bon Pain,Red Beans & Rice,0.03357978681355789,CONTAINS WHEAT,Simple text model
+Au Bon Pain,Gluten Free Chocolate Chip Brownie,0.06212915797510332,not marked wheat,Simple text model
+Boudin,"Chicken, Apple, Walnut Salad",0.07568926113874108,not marked wheat,Simple text model
+Boudin,Mixed Greens (Side Salad),0.0876994108488407,CONTAINS WHEAT,Simple text model
+Boudin,Fruit Cup,0.08890619142641232,not marked wheat,Simple text model
+CAVA,Harissa Avocado Bowl,0.13668160376723792,not marked wheat,Simple text model
+CAVA,Salmon + Yogurt Dill Bowl,0.15878836643104555,not marked wheat,Simple text model
+Cosi,Fruit Cup,0.08890619142641232,not marked wheat,Simple text model
+Cosi,Hard Boiled Eggs,0.15500749293752392,not marked wheat,Simple text model
+Cosi,Kids Grape Cup,0.19452538990400958,not marked wheat,Simple text model
+Panera,Steel Cut Oatmeal with Strawberries & Pecans,0.03726592223426983,not marked wheat,Simple text model
+Panera,Steel Cut Oatmeal with Strawberries - Without Pecans,0.04381780076162489,not marked wheat,Simple text model
+Panera,Fruit Cup,0.08890619142641232,not marked wheat,Simple text model
+Pret,"Chicken, Elote Corn & Avocado Salad with Herb Yogurt Dressing",0.044178027900482864,not marked wheat,Simple text model
+Pret,"Chicken, Elote Corn & Avocado Salad without Dressing",0.05152668931075732,not marked wheat,Simple text model
+Pret,Pesto Marinated White Bean & Avocado Salad with Pret's Simple,0.06379116016410546,not marked wheat,Simple text model
+Sweetgreen,Beets Don't Kale My Vibe,0.15286520058104813,not marked wheat,Simple text model
+Tatte,"Quiche - Leek, Potato & Spinach & Salad",0.05124188762802129,CONTAINS WHEAT,Simple text model
+Tatte,Harissa Roasted Salmon & Rice,0.0570541287803944,not marked wheat,Simple text model
+Tatte,Lamb Hash,0.0786781090363553,CONTAINS WHEAT,Simple text model
+Au Bon Pain,Fresh Watermelon,0.015014749020338058,not marked wheat,Fine-tuned language model
+Au Bon Pain,Roasted Potatoes,0.021004365757107735,not marked wheat,Fine-tuned language model
+Au Bon Pain,Red Beans & Rice,0.02681019715964794,CONTAINS WHEAT,Fine-tuned language model
+Boudin,Mixed Greens (Side Salad),0.025371311232447624,CONTAINS WHEAT,Fine-tuned language model
+Boudin,Butternut Squash,0.032466813921928406,not marked wheat,Fine-tuned language model
+Boudin,Caprese (Vegetarian),0.03608394414186478,CONTAINS WHEAT,Fine-tuned language model
+CAVA,Whisked! Apricot Honey (DMV),0.016277460381388664,CONTAINS WHEAT,Fine-tuned language model
+CAVA,Greek Salad Bowl,0.09122006595134735,not marked wheat,Fine-tuned language model
+Cosi,Fire Roasted Vegetable,0.03371654078364372,not marked wheat,Fine-tuned language model
+Cosi,Tomato Basil,0.044265881180763245,not marked wheat,Fine-tuned language model
+Cosi,Kids Grape Cup,0.046638038009405136,not marked wheat,Fine-tuned language model
+Panera,Steel Cut Oatmeal with Strawberries - Without Pecans,0.021165618672966957,not marked wheat,Fine-tuned language model
+Panera,Steel Cut Oatmeal with Strawberries & Pecans,0.02157406695187092,not marked wheat,Fine-tuned language model
+Panera,Parfait- Greek Yogurt with Berries,0.02876158617436886,not marked wheat,Fine-tuned language model
+Pret,Lemon Arugula Side Salad with Pret's Simple Vinaigrette,0.020606474950909615,not marked wheat,Fine-tuned language model
+Pret,Strawberry Yogurt Pot,0.024750972166657448,not marked wheat,Fine-tuned language model
+Pret,Lemon Arugula Side Salad without Dressing,0.026405517011880875,not marked wheat,Fine-tuned language model
+Sweetgreen,Not So Nicoise,0.026455774903297424,not marked wheat,Fine-tuned language model
+Sweetgreen,Beets Don't Kale My Vibe,0.04655127227306366,not marked wheat,Fine-tuned language model
+Sweetgreen,Avocobbo,0.06941547244787216,not marked wheat,Fine-tuned language model
+Tatte,Pistachio Crush,0.020332353189587593,not marked wheat,Fine-tuned language model
+Tatte,Warm Oatmeal with Dried Fruits,0.020371293649077415,not marked wheat,Fine-tuned language model
+Tatte,Rose - Cinnamon Pecan,0.023419944569468498,CONTAINS WHEAT,Fine-tuned language model

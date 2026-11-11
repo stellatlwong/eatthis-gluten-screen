@@ -1,0 +1,198 @@
+restaurant,item,change,reason
+Au Bon Pain,"Bagel CONTAINS: EGGS, MILK, SOY, WHEAT.",dropped,not a menu item
+Au Bon Pain,"Egg Whites, Cheddar & Avocado on Skinny Wheat","corrected to 'Egg Whites, Cheddar & Avocado on Skinny Wheat Bagel', wheat=1",name wrapped over two lines in the guide
+Au Bon Pain,Black Angus Roast Beef and Cheddar (Whole,"corrected to 'Black Angus Roast Beef and Cheddar (Whole Sandwich)', wheat=1",name wrapped over two lines in the guide
+Au Bon Pain,Chipotle Black Bean Burger with Avocado Sandwich,"corrected to 'Chipotle Black Bean Burger with Avocado Sandwich', wheat=1",name wrapped over two lines in the guide
+Au Bon Pain,Chocolate Dipped Cranberry Almond,"corrected to 'Chocolate Dipped Cranberry Almond Coconut Macaroon', wheat=1",name wrapped over two lines in the guide
+Au Bon Pain,Caffeine Free Diet Coke (Medium),dish -> drink,soft drink
+Au Bon Pain,Caffeine Free Diet Coke (Large),dish -> drink,soft drink
+Au Bon Pain,Coke (Medium),dish -> drink,soft drink
+Au Bon Pain,Coke (Large),dish -> drink,soft drink
+Au Bon Pain,Coke Zero (Medium),dish -> drink,soft drink
+Au Bon Pain,Coke Zero (Large),dish -> drink,soft drink
+Au Bon Pain,Diet Coke (Medium),dish -> drink,soft drink
+Au Bon Pain,Diet Coke (Large),dish -> drink,soft drink
+Au Bon Pain,PowerAde Mountain Blast (Medium),dish -> drink,soft drink
+Au Bon Pain,PowerAde Mountain Blast (Large),dish -> drink,soft drink
+Au Bon Pain,Sprite (Medium),dish -> drink,soft drink
+Au Bon Pain,Sprite (Large),dish -> drink,soft drink
+Au Bon Pain,Sprite Zero (Medium),dish -> drink,soft drink
+Au Bon Pain,Sprite Zero (Large),dish -> drink,soft drink
+Au Bon Pain,Asiago Breadstick,dish -> component,plain bread
+Au Bon Pain,Ciabatta (Small),dish -> component,plain bread
+Au Bon Pain,Ciabatta (Large),dish -> component,plain bread
+Au Bon Pain,Country White Bread,dish -> component,plain bread
+Au Bon Pain,Everything Breadstick,dish -> component,plain bread
+Au Bon Pain,Multigrain Baguette (Soup Size),dish -> component,plain bread
+Au Bon Pain,Multigrain Baguette (Sandwich Size),dish -> component,plain bread
+Au Bon Pain,Rustic Baguette (Sandwich Size),dish -> component,plain bread
+Au Bon Pain,Rustic Baguette (Soup Size),dish -> component,plain bread
+Au Bon Pain,Semolina (Soup Size),dish -> component,plain bread
+Au Bon Pain,Semolina (Sandwich Size),dish -> component,plain bread
+Au Bon Pain,Sprouted Grain Roll,dish -> component,plain bread
+Au Bon Pain,Tortilla Wrap,dish -> component,plain bread
+Au Bon Pain,Whole Wheat Tortilla Wrap,dish -> component,plain bread
+Au Bon Pain,Baked! Lay's ® Original Potato Crisps,dish -> component,packaged snack
+Au Bon Pain,Chocolate Covered Almonds,dish -> component,packaged snack
+Au Bon Pain,Mixed Nuts,dish -> component,packaged snack
+Au Bon Pain,Skinny Pop® Popcorn,dish -> component,packaged snack
+Au Bon Pain,Snyder’s of Hanover ® Mini Pretzels,dish -> component,packaged snack
+Au Bon Pain,Meatballs in Marinara Sauce with Penne,component -> dish,"a meal, wrongly caught by the word 'sauce'"
+Boudin,Deluxe French Dip,component -> dish,"a sandwich, wrongly caught by the word 'dip'"
+Boudin,Sourdough French Dip,component -> dish,"a sandwich, wrongly caught by the word 'dip'"
+Boudin,House Fries,component -> dish,a side eaten on its own
+Boudin,Spicy Buttermilk Ranch Fries,component -> dish,a side eaten on its own
+Boudin,Fruit Cup,component -> dish,a side eaten on its own
+Boudin,Asiago Cheese,dish -> component,plain bread
+Boudin,Brioche (Buns & Rolls),dish -> component,plain bread
+Boudin,Cinnamon Raisin,dish -> component,plain bread
+Boudin,Corn Rye,dish -> component,plain bread
+Boudin,English Muffins,dish -> component,plain bread
+Boudin,Schiacciata Flatbread,dish -> component,plain bread
+Boudin,"Sourdough (Loaves, Rolls, Baguettes, Lunch Boxes, Critters & Seasonal Shapes)",dish -> component,plain bread
+Boudin,Sweet Cinnamon Delight,dish -> component,plain bread
+Boudin,Multigrain (Loaves & Lunch Boxes),dish -> component,plain bread
+Boudin,Pinsa Crust - 4 Pack,dish -> catering or retail pack,retail pack
+Boudin,Calabrian Chili Hot Honey,dish -> component,condiment
+Boudin,Dijon Mustard,dish -> component,condiment
+Boudin,Honey Mustard,dish -> component,condiment
+Boudin,Horseradish Mayo,dish -> component,condiment
+Boudin,Mayo,dish -> component,condiment
+Boudin,Pesto Mayo,dish -> component,condiment
+Boudin,Spicy Crema,dish -> component,condiment
+CAVA,Pomegranate Apple,dish -> drink,juice
+CAVA,Cucumber Mint Lime,dish -> drink,juice
+CAVA,Blueberry Lavender,dish -> drink,juice
+CAVA,Braised Lamb,dish -> component,"a protein chosen for a bowl, not a dish"
+CAVA,Grilled Chicken,dish -> component,"a protein chosen for a bowl, not a dish"
+CAVA,Falafel,dish -> component,"a protein chosen for a bowl, not a dish"
+CAVA,Grilled Steak,dish -> component,"a protein chosen for a bowl, not a dish"
+CAVA,Harissa Honey Chicken,dish -> component,"a protein chosen for a bowl, not a dish"
+CAVA,Roasted Vegetables,dish -> component,"a protein chosen for a bowl, not a dish"
+CAVA,Spicy Lamb Meatballs,dish -> component,"a protein chosen for a bowl, not a dish"
+CAVA,Glazed Salmon,dish -> component,"a protein chosen for a bowl, not a dish"
+CAVA,Kids Saffron Basmati Rice,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Brown Rice,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Black Lentils,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Chicken,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Harissa Honey Chicken,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Falafel,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Spicy Lamb Meatballs,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Roasted Vegetables,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Braised Lamb,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Grilled Steak,dish -> component,"part of a kids meal, not a dish"
+CAVA,Kids Pita Chips,dish -> component,"part of a kids meal, not a dish"
+CAVA,Greyston Chocolate Chip Blondie,component -> dish,individual dessert
+CAVA,Greyston Brownie,component -> dish,individual dessert
+CAVA,Whisked! Apricot Honey (DMV),component -> dish,individual dessert
+CAVA,Whisked! Salted Dark Chocolate Oat Cookie,component -> dish,individual dessert
+Cosi,"""Così"", ""(Sun and Moon Design)"" and related marks are",dropped,not a menu item
+Cosi,*Disclaimer: Manufacturers of our baked products cannot,dropped,not a menu item
+Cosi,Breakfast & Snacks & Tofu,dropped,not a menu item
+Cosi,Flatbread Pizza,dropped,not a menu item
+Cosi,Protein Add-Ons,dropped,not a menu item
+Cosi,Sandwiches & Melts,dropped,not a menu item
+Cosi,3.2 oz 1 220 9 2.5g,dropped,not a menu item
+Cosi,3.2 oz 1 260 9 5g,dropped,not a menu item
+Cosi,"Croissant, Butter 3 oz 1 330 140 15g Crumb Cake, Classic 2.75 oz 2 320 140 15g Loaf, Lemon Pound Cake 4.5 oz 1 470 190 21g Loaf, Marble Pound Cake 4 oz 1 450 210 24g Muffin, Blueberry 4 oz 1 400 _ 19g Muffin, Lemon Cranberry 4 oz 1 380 _ 17g Muffin, Double Chocolate Chunk 4 oz 1 400 _ 19g Muffin, Apple Cinnamon 4 oz 1 410 _ 18g Scone, Blueberry 2.5 oz 2 371 170 19g Scone, Cranberry Orange 2.9 oz 2 310 150 16g Bagel, Asiago (Just Bagel) 4 oz. 1 300 25 2.5g Bagel, Cinnamon Raisin (Just Bagel) 4 oz. 1 300 10 1g Bagel, Everything (Just Bagel) 4 oz. 1 290 10 1g Bagel, Jalepeno (Just Bagel) 4 oz. 1 290 15 1.5g Bagel, Multigrain (Just Bagel) 4 oz. 1 290 30 3g Bagel, Plain (Just Bagel) 4 oz. 1 290 10 1g Bagel, Sesame (Just Bagel) 4 oz. 1 290 10 1g",dropped,not a menu item
+Cosi,Turkey Chili (Bowl) 15 oz 1 360 60 7g Turkey Chili (Cup) 8 oz 1 240 45 5g,dropped,not a menu item
+Cosi,Tomato Basil (Bowl) 15 oz 1 600 420 47g,dropped,not a menu item
+Cosi,Tomato Basil (Cup) 8 oz 1 400 280 31g,dropped,not a menu item
+Cosi,"""Così"", ""(Sun and Moon Design)"" and related",dropped,not a menu item
+Cosi,"Bread Slice, Original (Corporate)",dropped,repeat from the nutrition table with no allergen column
+Cosi,Bread Slice Multigrain (Corporate),dropped,repeat from the nutrition table with no allergen column
+Cosi,Shot in the Dark,dish -> drink,coffee drink
+Cosi,"Bread Slice, Original* (Corporate)",dish -> component,plain bread or spread
+Cosi,"Bread Slice, Multi Grain* (Corporate)",dish -> component,plain bread or spread
+Cosi,"Bread Slice, Original* (Franchisee)",dish -> component,plain bread or spread
+Cosi,"Bread Slice, Multi Grain* (Franchisee)",dish -> component,plain bread or spread
+Cosi,"Cream Cheese, Low-fat",dish -> component,plain bread or spread
+Cosi,"Cream Cheese, Plain",dish -> component,plain bread or spread
+Cosi,"Cream Cheese, Veggie",dish -> component,plain bread or spread
+Cosi,Salad Dressing (Portion Only),dish -> component,plain bread or spread
+Cosi,Roasted Chicken,dish -> component,protein add-on
+Cosi,Turkey,dish -> component,protein add-on
+Cosi,Tofu,dish -> component,protein add-on
+Cosi,Tuna Salad,dish -> component,protein add-on
+Panera,•Scroll down,dropped,not a menu item
+Panera,"NOTE: Menu items that do ""NOT""",dropped,not a menu item
+Panera,NOTE: Many of our,dropped,not a menu item
+Panera,NOTE: * Highly refined oil from,dropped,not a menu item
+Panera,Product,dropped,not a menu item
+Panera,"Breakfast- Egg Sandwiches, Souffles, Parfait, Fruit & Oatmeal Asiago Bagel Stack - Sausage & Egg",dropped,not a menu item
+Panera,Sandwiches- Information is provided with default bread choice. If bread choice is Asiago Bagel Stack - Chicken Roma,dropped,not a menu item
+Panera,"Dressings, Sauces, Spreads & Soup Dipper Sauce - Apple Cider BBQ",dropped,not a menu item
+Panera,Bagels & Spreads Asiago Cheese,"corrected to 'Asiago Cheese', wheat=None",a section heading had run into the item name
+Panera,Breads Artisan Ciabatta- Loaf,"corrected to 'Artisan Ciabatta- Loaf', wheat=None",a section heading had run into the item name
+Panera,Baked Goods Brownie,"corrected to 'Brownie', wheat=None",a section heading had run into the item name
+Panera,Salads & Stuffers Asian Sesame with & without Chicken,"corrected to 'Asian Sesame with & without Chicken', wheat=None",a section heading had run into the item name
+Panera,Market Bowls All-In Veggie,"corrected to 'All-In Veggie', wheat=None",a section heading had run into the item name
+Panera,Non-traditional Grab N Go Chicken Caesar Wrap,"corrected to 'Grab N Go Chicken Caesar Wrap', wheat=None",a section heading had run into the item name
+Panera,Soups & Mac Bistro French Onion with Cheese & Croissant Croutons,"corrected to 'Bistro French Onion with Cheese & Croissant Croutons', wheat=None",a section heading had run into the item name
+Panera,Drinks Additional Pump of Caramel Syrup,"corrected to 'Additional Pump of Caramel Syrup', wheat=None",a section heading had run into the item name
+Panera,Bistro French Onion with Cheese & Croissant Croutons,component -> dish,"a soup, wrongly caught by the word 'croutons'"
+Panera,Creamy Tomato with Croissant Croutons - Vegetarian,component -> dish,"a soup, wrongly caught by the word 'croutons'"
+Panera,Artisan Ciabatta- Loaf,dish -> component,plain bread
+Panera,Black Pepper Focaccia - Round Loaf,dish -> component,plain bread
+Panera,Classic White - Loaf,dish -> component,plain bread
+Panera,Country Rustic Sourdough - XL Loaf,dish -> component,plain bread
+Panera,French Baguette,dish -> component,plain bread
+Panera,Sourdough Bread Bowl,dish -> component,plain bread
+Panera,Tomato Basil - Miche,dish -> component,plain bread
+Panera,Whole Grain Lahvash Wrap,dish -> component,plain bread
+Panera,Italian Stuffer Roll - Retail whole,dish -> component,plain bread
+Panera,Egg Styles - Scrambled Egg or Egg White,dish -> component,"add-on or portion, not a dish"
+Panera,Pickle Spear for cold sandwiches,dish -> component,"add-on or portion, not a dish"
+Panera,Dipper - Creamy Tomato - Dipper Portion,dish -> component,"add-on or portion, not a dish"
+Panera,Dipper - Bistro French Onion - Dipper Portion,dish -> component,"add-on or portion, not a dish"
+Panera,Sweet Cream Cold Foam,dish -> component,"add-on or portion, not a dish"
+Panera,Cafe Frozen Java,dish -> drink,drink
+Panera,Cherry Lime Fresca,dish -> drink,drink
+Panera,Pumpkin Spice Frozen Java,dish -> drink,drink
+Pret,Baguettes,dropped,section heading or text fragment
+Pret,Sandwiches,dropped,section heading or text fragment
+Pret,Rolls,dropped,section heading or text fragment
+Pret,Hot Melts,dropped,section heading or text fragment
+Pret,Wraps,dropped,section heading or text fragment
+Pret,Hot Wraps,dropped,section heading or text fragment
+Pret,Hot Food,dropped,section heading or text fragment
+Pret,Soup,dropped,section heading or text fragment
+Pret,Salad,dropped,section heading or text fragment
+Pret,Salad Dressing,dropped,section heading or text fragment
+Pret,Sandwiches. Rolls and Wraps,dropped,section heading or text fragment
+Pret,Porridge,dropped,section heading or text fragment
+Pret,Fruit,dropped,section heading or text fragment
+Pret,Pots,dropped,section heading or text fragment
+Pret,Croissanterie,dropped,section heading or text fragment
+Pret,Sweet Treats,dropped,section heading or text fragment
+Pret,F riendy,dropped,section heading or text fragment
+Pret,Other Hot Drinks,dropped,section heading or text fragment
+Pret,Other Iced Drinks,dropped,section heading or text fragment
+Pret,Other Iced Drinks (Cont.),dropped,section heading or text fragment
+Pret,Syrups & Toppings,dropped,section heading or text fragment
+Pret,Seasonal Drinks,dropped,section heading or text fragment
+Pret,Half),dropped,section heading or text fragment
+Pret,Chobani Yogurt Drinks,dropped,section heading or text fragment
+Pret,"Trial Items- WTC, 179 Broadway, USQ, Fulton, Broadway and Thomas",dropped,section heading or text fragment
+Pret,Iced Chocolate (Half & Half),dish -> drink,drink
+Pret,Bread Roll,dish -> component,"add-on, topping or plain bread"
+Pret,Chili Yogurt & Herbs Soup Topper,dish -> component,"add-on, topping or plain bread"
+Pret,Apple Cranberry Crunch Porridge Topper,dish -> component,"add-on, topping or plain bread"
+Pret,Coconut Banana Blueberry Porridge Topper,dish -> component,"add-on, topping or plain bread"
+Pret,Classic Whipped Cream,dish -> component,"add-on, topping or plain bread"
+Pret,Half & Half,dish -> component,"add-on, topping or plain bread"
+Pret,Chocolate Covered Almonds,dish -> component,packaged snack
+Pret,Omega-3 Mix,dish -> component,packaged snack
+Pret,Raw Almonds,dish -> component,packaged snack
+Pret,Vinaigrette Pesto Marinated White Bean & Avocado Salad without Dressing,"corrected to 'Pesto Marinated White Bean & Avocado Salad without Dressing', wheat=None",name wrapped over two lines in the guide
+Tatte,Salad - Ind,dropped,size line from the catering table
+Tatte,Salad - LG,dropped,size line from the catering table
+Tatte,Bagged Salad Rolls,dish -> component,plain bread
+Tatte,Baguette,dish -> component,plain bread
+Tatte,Challah/Rolls,dish -> component,plain bread
+Tatte,Ciabatta,dish -> component,plain bread
+Tatte,Focaccia,dish -> component,plain bread
+Tatte,Multigrain,dish -> component,plain bread
+Tatte,Sourdough,dish -> component,plain bread
+Tatte,Labneh,dish -> component,spread
+Tatte,"Choose Your Favorites: Maple, Squash & Chicken",dish -> catering or retail pack,catering
