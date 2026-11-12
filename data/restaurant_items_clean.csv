@@ -1,0 +1,1348 @@
+restaurant,item,wheat,type
+Au Bon Pain,Asiago Cheese Bagel,1,dish
+Au Bon Pain,Cinnamon Raisin Bagel,1,dish
+Au Bon Pain,Everything Bagel,1,dish
+Au Bon Pain,French Toast Bagel,1,dish
+Au Bon Pain,Honey Sprouted Grain Bagel,1,dish
+Au Bon Pain,Jalapeno Cheddar Bagel,1,dish
+Au Bon Pain,Plain Bagel,1,dish
+Au Bon Pain,Sesame Seed Bagel,1,dish
+Au Bon Pain,Whole Wheat Skinny Bagel,1,dish
+Au Bon Pain,Brownie Bites,1,dish
+Au Bon Pain,Chewy Marshmallow Bar,0,dish
+Au Bon Pain,Chocolate and Crème Torsade,1,dish
+Au Bon Pain,Chocolate Chip Brownie,1,dish
+Au Bon Pain,Chocolate Chip Cookie,1,dish
+Au Bon Pain,Chocolate Dipped Cranberry Almond Coconut Macaroon,1,dish
+Au Bon Pain,Chunky Peanut Butter Cookie,1,dish
+Au Bon Pain,Cinnamon Swirl Roll,1,dish
+Au Bon Pain,Classic Oatmeal Raisin Cookie,1,dish
+Au Bon Pain,Double Chocolate Cupcake,1,dish
+Au Bon Pain,Double Chocolate Mudslide Cookie,1,dish
+Au Bon Pain,Energy Cookie,1,dish
+Au Bon Pain,English Toffee Cookie,1,dish
+Au Bon Pain,Gingerbread Cookie,1,dish
+Au Bon Pain,Gluten Free Chocolate Chip Brownie,0,dish
+Au Bon Pain,Iced Lemon Pound Cake,1,dish
+Au Bon Pain,Marble Pound Cake,1,dish
+Au Bon Pain,Mini Chocolate Chip Cookies,1,dish
+Au Bon Pain,Palmier,1,dish
+Au Bon Pain,Pecan Meltaway,1,dish
+Au Bon Pain,Pecan Roll,1,dish
+Au Bon Pain,Raspberry Filled Shortbread Cookie,1,dish
+Au Bon Pain,Red Velvet Cookie,1,dish
+Au Bon Pain,Red Velvet Cupcake,1,dish
+Au Bon Pain,Shortbread Tree Cookie,1,dish
+Au Bon Pain,White Chocolate Macadamia Cookie,1,dish
+Au Bon Pain,Almond Croissant,1,dish
+Au Bon Pain,Apple and Cinnamon Croissant,1,dish
+Au Bon Pain,Bacon & Cheddar Kolache,1,dish
+Au Bon Pain,Chocolate Croissant,1,dish
+Au Bon Pain,Ham and Cheese Croissant,1,dish
+Au Bon Pain,Plain Croissant,1,dish
+Au Bon Pain,Raspberry Cheese Croissant,1,dish
+Au Bon Pain,Spinach and Cheese Croissant,1,dish
+Au Bon Pain,Sweet Cheese CroisBun,1,dish
+Au Bon Pain,Sweet Cheese Croissant,1,dish
+Au Bon Pain,Apple Danish,1,dish
+Au Bon Pain,Mixed Berry Strudel,1,dish
+Au Bon Pain,Sweet Cheese Danish,1,dish
+Au Bon Pain,Blueberry Muffin,1,dish
+Au Bon Pain,Corn Muffin,1,dish
+Au Bon Pain,Cranberry Orange Muffin,1,dish
+Au Bon Pain,Double Chocolate Chunk Muffin,1,dish
+Au Bon Pain,Raisin Bran Muffin,1,dish
+Au Bon Pain,Berry Pomegranate Smoothie,0,drink
+Au Bon Pain,Berry Sensation Yogurt Smoothie,0,drink
+Au Bon Pain,"Fresh Fruit Smoothie with Bananas, Pineapple and",0,drink
+Au Bon Pain,"Fresh Fruit Smoothie with Bananas, Watermelon and",0,drink
+Au Bon Pain,Fresh Fruit Smoothie with Mixed Fruit,0,drink
+Au Bon Pain,Frozen Caramel Latte,0,drink
+Au Bon Pain,Frozen Mocha Latte,0,drink
+Au Bon Pain,Mango Smoothie,0,drink
+Au Bon Pain,Mango Wave Fresh Fruit Smoothie,0,drink
+Au Bon Pain,South Beach Yogurt Smoothie,0,drink
+Au Bon Pain,Strawberry Banana Yogurt Smoothie,0,drink
+Au Bon Pain,Strawberry Passion Fresh Fruit Smoothie,0,drink
+Au Bon Pain,Strawberry Smoothie,0,drink
+Au Bon Pain,Butter Pecan Latte,0,drink
+Au Bon Pain,Caffe Americano,0,drink
+Au Bon Pain,Caffe Latte,0,drink
+Au Bon Pain,Caffe Milano,0,drink
+Au Bon Pain,Cappuccino,0,drink
+Au Bon Pain,Caramel Macchiato,0,drink
+Au Bon Pain,Chai Latte,0,drink
+Au Bon Pain,Espresso - Double Shot,0,drink
+Au Bon Pain,Hot Chocolate,0,drink
+Au Bon Pain,Iced Butter Pecan Latte,0,drink
+Au Bon Pain,Iced Caffe Americano,0,drink
+Au Bon Pain,Iced Caffe Latte,0,drink
+Au Bon Pain,Iced Caffe Milano,0,drink
+Au Bon Pain,Iced Caramel Macchiato,0,drink
+Au Bon Pain,Iced Chai Latte,0,drink
+Au Bon Pain,Iced Decaf French Roast Coffee,0,drink
+Au Bon Pain,Iced French Roast Coffee,0,drink
+Au Bon Pain,Iced French Vanilla Coffee,0,drink
+Au Bon Pain,Iced Mocha Latte,0,drink
+Au Bon Pain,Iced Vanilla Latte,0,drink
+Au Bon Pain,Mocha Latte,0,drink
+Au Bon Pain,Vanilla Latte,0,drink
+Au Bon Pain,Vanilla Latte with Sugar Free Syrup,0,drink
+Au Bon Pain,Whipped Cream Topping,0,component
+Au Bon Pain,Caffeine Free Diet Coke,0,drink
+Au Bon Pain,Coke,0,drink
+Au Bon Pain,Coke Zero,0,drink
+Au Bon Pain,Diet Coke,0,drink
+Au Bon Pain,FUZE Raspberry Iced Tea,0,drink
+Au Bon Pain,Homestyle Lemonade,0,drink
+Au Bon Pain,Iced Black Tea,0,drink
+Au Bon Pain,Orange Juice,0,drink
+Au Bon Pain,Peach Iced Tea,0,drink
+Au Bon Pain,PowerAde Mountain Blast,0,drink
+Au Bon Pain,Sprite,0,drink
+Au Bon Pain,Sprite Zero,0,drink
+Au Bon Pain,Strawberry Lemonade,0,drink
+Au Bon Pain,Sweet Tea,0,drink
+Au Bon Pain,Tropical Green Iced Tea,0,drink
+Au Bon Pain,Vitamin Water Zero - Squeezed,0,drink
+Au Bon Pain,Vitamin Water Zero - XXX,0,drink
+Au Bon Pain,Asiago Breadstick,1,component
+Au Bon Pain,Ciabatta,1,component
+Au Bon Pain,Country White Bread,1,component
+Au Bon Pain,Everything Breadstick,1,component
+Au Bon Pain,Multigrain Baguette,1,component
+Au Bon Pain,Rustic Baguette,1,component
+Au Bon Pain,Semolina,1,component
+Au Bon Pain,Sprouted Grain Roll,1,component
+Au Bon Pain,Tortilla Wrap,1,component
+Au Bon Pain,Whole Wheat Tortilla Wrap,1,component
+Au Bon Pain,Egg Whites and Cheddar on Skinny Wheat Bagel,1,dish
+Au Bon Pain,"Egg Whites, Cheddar & Avocado on Skinny Wheat Bagel",1,dish
+Au Bon Pain,French Toast Omelet Sandwich,1,dish
+Au Bon Pain,Signature Farmhouse Omelet,1,dish
+Au Bon Pain,Smoked Salmon Wasabi,1,dish
+Au Bon Pain,The Good Egg,1,dish
+Au Bon Pain,Avocado BLT,1,dish
+Au Bon Pain,Black Angus Roast Beef and Cheddar,1,dish
+Au Bon Pain,BLT,1,dish
+Au Bon Pain,Herb Chicken Salad Sandwich,1,dish
+Au Bon Pain,Tuna Salad Sandwich,1,dish
+Au Bon Pain,Turkey and Swiss Sandwich,1,dish
+Au Bon Pain,Black Angus Steak and Cheese,1,dish
+Au Bon Pain,Chicken Margherita,1,dish
+Au Bon Pain,Classic Grilled Cheese,1,dish
+Au Bon Pain,Country Grilled Cheese,1,dish
+Au Bon Pain,Ham & 2 Cheese,1,dish
+Au Bon Pain,Mayan Chicken Harvest Hot Wrap,1,dish
+Au Bon Pain,Newport Turkey Sandwich,1,dish
+Au Bon Pain,Roasted Vegetarian Harvest Hot Wrap,1,dish
+Au Bon Pain,Teriyaki Steak Harvest Hot Wrap,1,dish
+Au Bon Pain,The Holiday Gobbler,1,dish
+Au Bon Pain,Chipotle Black Bean Burger with Avocado Sandwich,1,dish
+Au Bon Pain,Chipotle Turkey & Avocado,1,dish
+Au Bon Pain,Turkey Club,1,dish
+Au Bon Pain,Two Tomato Caprese,1,dish
+Au Bon Pain,Two Tomato Caprese with Chicken,1,dish
+Au Bon Pain,Warm Chicken Avocado Sandwich,1,dish
+Au Bon Pain,Chicken Caesar Wrap,1,dish
+Au Bon Pain,Garden & Avocado Wrap,1,dish
+Au Bon Pain,Harvest Turkey Wrap,1,dish
+Au Bon Pain,Napa Chicken with Avocado Wrap,1,dish
+Au Bon Pain,Thai Peanut Chicken Wrap,1,dish
+Au Bon Pain,Veggie & Hummus Wrap,1,dish
+Au Bon Pain,Mayan Chicken Harvest Hot Bowl,0,dish
+Au Bon Pain,Mediterranean Chicken Harvest Hot Bowl,0,dish
+Au Bon Pain,Roasted Vegetarian Harvest Hot Bowl,0,dish
+Au Bon Pain,Teriyaki Steak Harvest Hot Bowl,1,dish
+Au Bon Pain,Adobo Chicken,0,dish
+Au Bon Pain,Asian Rice with Edamame & Carrots,0,dish
+Au Bon Pain,Beef & Broccoli,0,dish
+Au Bon Pain,Black Beans & Rice,0,dish
+Au Bon Pain,Broccoli Chicken Pasta Alfredo,1,dish
+Au Bon Pain,Brown Rice,0,dish
+Au Bon Pain,Bruschetta Wings,1,dish
+Au Bon Pain,Chicken Dumplings,1,dish
+Au Bon Pain,Chipotle Wings,1,dish
+Au Bon Pain,Corn Bread,1,dish
+Au Bon Pain,Garlic Bread,1,dish
+Au Bon Pain,Honey & Herb Carrots,0,dish
+Au Bon Pain,Meatballs in Marinara Sauce with Penne,1,dish
+Au Bon Pain,Mediterranean Rice,0,dish
+Au Bon Pain,Pork Carnitas,0,dish
+Au Bon Pain,Pulled BBQ Pork,0,dish
+Au Bon Pain,Red Beans & Rice,1,dish
+Au Bon Pain,Roasted Corn & Jalapenos,0,dish
+Au Bon Pain,Roasted Mediterranean Vegetables,0,dish
+Au Bon Pain,Sesame Green Beans,0,dish
+Au Bon Pain,Smothered Beans,0,dish
+Au Bon Pain,Southwest Wings,1,dish
+Au Bon Pain,Stuffing,1,dish
+Au Bon Pain,Sweet & Sour Wings,1,dish
+Au Bon Pain,Tomato Asiago Rice,0,dish
+Au Bon Pain,Turkey & Gravy,1,dish
+Au Bon Pain,Vegetable Lasagna,1,dish
+Au Bon Pain,Roasted Potatoes,0,dish
+Au Bon Pain,Sausage with Peppers and Onions,1,dish
+Au Bon Pain,Scrambled Eggs,1,dish
+Au Bon Pain,"Scrambled Eggs, Ham & Cheese",1,dish
+Au Bon Pain,Warm Apple Bake,1,dish
+Au Bon Pain,Classic Oatmeal,0,dish
+Au Bon Pain,Superfood Cranberry Almond Hot Cereal,0,dish
+Au Bon Pain,Baked! Lay's ® Original Potato Crisps,0,component
+Au Bon Pain,Bon To Go - Caprese Chicken,0,dish
+Au Bon Pain,Bon To Go - Cheese & Fruit,1,dish
+Au Bon Pain,"Bon To Go - Egg, Veggie & Cheese",1,dish
+Au Bon Pain,"Bon To Go - Fruit, Eggs & Nuts",0,dish
+Au Bon Pain,Bon To Go - Hard Boiled Eggs,0,dish
+Au Bon Pain,Bon To Go - Herb Chicken Salad,1,dish
+Au Bon Pain,Bon To Go - Hummus,1,dish
+Au Bon Pain,"Bon To Go - Hummus, Veggie & Taboule",1,dish
+Au Bon Pain,Bon To Go - Smoked Salmon,1,dish
+Au Bon Pain,Bon To Go - Southwest Chicken,1,dish
+Au Bon Pain,Bon To Go - Turkey & Swiss,1,dish
+Au Bon Pain,Chocolate Covered Almonds,0,component
+Au Bon Pain,Food Should Taste Good ® All Natural Multigrain Chips,0,component
+Au Bon Pain,Fresh Grapes,0,dish
+Au Bon Pain,Fresh Watermelon,0,dish
+Au Bon Pain,Fruit Cup,0,dish
+Au Bon Pain,Housemade Granola,0,dish
+Au Bon Pain,Kettle Cooked BBQ Potato Chips,0,component
+Au Bon Pain,Kettle Cooked Original Potato Chips,0,component
+Au Bon Pain,Kettle Cooked Sea Salt & Vinegar Potato Chips,0,component
+Au Bon Pain,Mixed Nuts,0,component
+Au Bon Pain,Muesli,0,dish
+Au Bon Pain,Skinny Pop® Popcorn,0,component
+Au Bon Pain,Snyder’s of Hanover ® Mini Pretzels,1,component
+Au Bon Pain,Blueberry Yogurt & Wild Blueberry Parfait,0,dish
+Au Bon Pain,Cranberry Crunch & Honey Parfait,0,dish
+Au Bon Pain,Greek Vanilla Yogurt & Wild Blueberry Parfait,0,dish
+Au Bon Pain,Caesar Asiago,1,dish
+Au Bon Pain,Chicken Caesar Asiago,1,dish
+Au Bon Pain,Chicken Cobb with Avocado,0,dish
+Au Bon Pain,Harvest Turkey,0,dish
+Au Bon Pain,Side Garden,0,dish
+Au Bon Pain,Southwest Chicken,1,dish
+Au Bon Pain,Thai Peanut Chicken Salad,1,dish
+Au Bon Pain,Vegetarian Deluxe,0,dish
+Au Bon Pain,ABP Croutons,1,component
+Au Bon Pain,Avocado Greek Yogurt Dressing,0,component
+Au Bon Pain,Balsamic Vinaigrette Dressing,0,component
+Au Bon Pain,Bleu Cheese Dressing,0,component
+Au Bon Pain,Caesar Dressing,0,component
+Au Bon Pain,Lite Buttermilk Ranch Dressing,0,component
+Au Bon Pain,Lite Citrus Lime Vinaigrette,0,component
+Au Bon Pain,Lite Lemon Shallot Vinaigrette,0,component
+Au Bon Pain,Lite Olive Oil Vinaigrette,0,component
+Au Bon Pain,Southwest Vinaigrette,0,component
+Au Bon Pain,Thai Peanut Dressing,1,component
+Au Bon Pain,Asparagus & Pea Soup,1,dish
+Au Bon Pain,Baked Stuffed Potato Soup,1,dish
+Au Bon Pain,Barley and Creamy Lentil Soup,1,dish
+Au Bon Pain,Black Bean Soup,0,dish
+Au Bon Pain,Broccoli Cheddar Soup,1,dish
+Au Bon Pain,Butternut Squash & Apple,0,dish
+Au Bon Pain,Chicken and Dumpling Soup,1,dish
+Au Bon Pain,Chicken Florentine Soup,1,dish
+Au Bon Pain,Chicken Gumbo Soup,1,dish
+Au Bon Pain,Chicken Noodle Soup,1,dish
+Au Bon Pain,Clam Chowder,1,dish
+Au Bon Pain,Corn and Green Chili Bisque,1,dish
+Au Bon Pain,Corn Chowder,1,dish
+Au Bon Pain,Cream of Chicken and Wild Rice Soup,1,dish
+Au Bon Pain,Curried Rice and Lentil Soup,0,dish
+Au Bon Pain,Five Onion Soup,1,dish
+Au Bon Pain,French Moroccan Tomato Lentil Soup,0,dish
+Au Bon Pain,French Onion Soup,1,dish
+Au Bon Pain,Garden Vegetable Soup,0,dish
+Au Bon Pain,Harvest Pumpkin Soup,1,dish
+Au Bon Pain,Italian Wedding Soup,1,dish
+Au Bon Pain,Lemon Orzo Chicken Soup,1,dish
+Au Bon Pain,Lobster & Corn Bisque,1,dish
+Au Bon Pain,Minestrone with Basil,1,dish
+Au Bon Pain,Pasta e Fagioli Soup,1,dish
+Au Bon Pain,Potato Leek Soup,1,dish
+Au Bon Pain,"Red Beans, Italian Sausage and Rice Soup",1,dish
+Au Bon Pain,Roasted Eggplant Soup,0,dish
+Au Bon Pain,Roasted Red Pepper & Gouda Soup,1,dish
+Au Bon Pain,Roasted Tomato & Fennel Soup,0,dish
+Au Bon Pain,"Roasted Tomato, Chicken & Orzo",1,dish
+Au Bon Pain,Slow Cooked Smokey Chicken & Sausage,1,dish
+Au Bon Pain,Southwest Tortilla Soup,0,dish
+Au Bon Pain,Split Pea with Ham Soup,1,dish
+Au Bon Pain,Swiss Chard and Three Bean Soup,0,dish
+Au Bon Pain,Tomato Basil Bisque,1,dish
+Au Bon Pain,"Turkey, Kale & Wild Rice Soup",1,dish
+Au Bon Pain,Tuscan White Bean Soup,0,dish
+Au Bon Pain,Vegetable Beef & Barley,1,dish
+Au Bon Pain,Vegetarian Chili,0,dish
+Au Bon Pain,Vegetarian Minestrone Soup,1,dish
+Au Bon Pain,Wild Mushroom Bisque,1,dish
+Au Bon Pain,Beef and Vegetable Stew,1,dish
+Au Bon Pain,Chicken and Vegetable Stew,1,dish
+Au Bon Pain,Macaroni and Cheese,1,dish
+Au Bon Pain,Roasted Poblano Chicken Stew,0,dish
+Au Bon Pain,Steak & Wild Rice Soup,0,dish
+Au Bon Pain,Turkey Chili,1,dish
+Boudin,BLTA,1,dish
+Boudin,California Veggie,1,dish
+Boudin,Caprese (Vegetarian),1,dish
+Boudin,Catalan (Vegan),1,dish
+Boudin,Catalan (Vegetarian),1,dish
+Boudin,Chicken Salad,1,dish
+Boudin,Crispy Chicken Caesar Wrap,1,dish
+Boudin,Crispy Chicken Parm,1,dish
+Boudin,Deluxe French Dip,1,dish
+Boudin,Grilled Brie with Apples & Fig Jam,1,dish
+Boudin,Hot Chicken Pesto Sandwich,1,dish
+Boudin,Italian Classic,1,dish
+Boudin,Prosciutto & Pestos Sandwich,1,dish
+Boudin,Sourdough French Dip,1,dish
+Boudin,The Great Grilled Cheese,1,dish
+Boudin,The Great with Bacon,1,dish
+Boudin,Toasted Chicken Club,1,dish
+Boudin,Tuna Salad,1,dish
+Boudin,Tuna Melt,1,dish
+Boudin,Turkey and Havarti,1,dish
+Boudin,Turkey Avocado,1,dish
+Boudin,Turkey Cranberry,1,dish
+Boudin,The Classic Ribeye Cheesesteak,1,dish
+Boudin,The Bold Ribeye Cheesesteak,1,dish
+Boudin,Rustic Stuffing Turkey Cranberry,1,dish
+Boudin,Thanksgiving Turkey Melt on Rustic Stuffing Bread,1,dish
+Boudin,Asian Citrus Chicken Salad,1,dish
+Boudin,"Chicken, Apple, Walnut Salad",0,dish
+Boudin,Crispy Chicken Avo Salad,1,dish
+Boudin,Little Gem Cobb Salad,1,dish
+Boudin,Mixed Greens (Side Salad),1,dish
+Boudin,"Mixed Greens (Side Salad, No Croutons)",0,dish
+Boudin,Traditional Caesar Salad,1,dish
+Boudin,Add On Grilled All-Natural Chicken Breast,0,component
+Boudin,Add On Crispy Fried Chicken Breast,1,component
+Boudin,Green Goddess Chicken With Avocado Protein Bowl,0,dish
+Boudin,Harvest Chicken Protein Bowl,0,dish
+Boudin,Mediterranean Chicken W/ Lemon Hummus Protein Bowl,0,dish
+Boudin,Broccoli Cheddar,0,dish
+Boudin,Butternut Squash,0,dish
+Boudin,Chili,0,dish
+Boudin,Clam Chowder,0,dish
+Boudin,Rustic Tomato,1,dish
+Boudin,Cheese Pizza,1,dish
+Boudin,Chicken Fingers & French Fries,1,dish
+Boudin,Grilled Cheese,1,dish
+Boudin,Mac & Cheese,1,dish
+Boudin,Turkey Sandwich,1,dish
+Boudin,All Meat,1,dish
+Boudin,Cheesy Garlic Bread,1,dish
+Boudin,Classic Pepperoni,1,dish
+Boudin,Crowd Pleaser (50/50),1,dish
+Boudin,Four Cheese,1,dish
+Boudin,Hawaiian Pizza,1,dish
+Boudin,Papa Steve's Original Style Pizza Bread,1,dish
+Boudin,Sausage & Pepperoni,1,dish
+Boudin,Four Cheese Pinsa Romana,1,dish
+Boudin,Pepperoni Pinsa Romana,1,dish
+Boudin,Prosciutto Bianca Pinsa Romana,1,dish
+Boudin,Sausage & Pepperoni Hot Honey Pinsa Romana,1,dish
+Boudin,Cookies & Cream,1,drink
+Boudin,Dark Chocolate,0,drink
+Boudin,Sea Salt Caramel,0,drink
+Boudin,Strawberry,0,drink
+Boudin,*Seasonal* - Pumpkin Spice,0,drink
+Boudin,Asiago Cheese,1,component
+Boudin,Brioche (Buns & Rolls),1,component
+Boudin,Cinnamon Raisin,1,component
+Boudin,Corn Rye,1,component
+Boudin,English Muffins,1,component
+Boudin,Pinsa Crust - 4 Pack,1,catering or retail pack
+Boudin,Schiacciata Flatbread,1,component
+Boudin,"Sourdough (Loaves, Rolls, Baguettes, Lunch Boxes, Critters & Seasonal Shapes)",1,component
+Boudin,Sweet Cinnamon Delight,1,component
+Boudin,Multigrain (Loaves & Lunch Boxes),1,component
+Boudin,House Fries,0,dish
+Boudin,Spicy Buttermilk Ranch Fries,0,dish
+Boudin,Balsamic Dressing,0,component
+Boudin,Basil Pesto Sauce,0,component
+Boudin,Caesar Dressing,0,component
+Boudin,Calabrian Chili Hot Honey,0,component
+Boudin,"Citrus, Garlic, & Herb Caesar Dressing",0,component
+Boudin,Dijon Mustard,0,component
+Boudin,Garlic Aioli Spread,0,component
+Boudin,Honey Mustard,0,component
+Boudin,Horseradish Mayo,0,component
+Boudin,Lemon Hummus Dressing,0,component
+Boudin,Lemon Vinaigrette Dressing,0,component
+Boudin,Mayo,0,component
+Boudin,Pesto Balsamic Dressing,0,component
+Boudin,Pesto Mayo,0,component
+Boudin,Ranch Dressing,0,component
+Boudin,Romesco Sauce,0,component
+Boudin,Spicy Asian Dressing,1,component
+Boudin,Spicy Crema,0,component
+Boudin,Sundried Tomato Spread,0,component
+Boudin,Bacon & Cheddar on English Muffin,1,dish
+Boudin,Cali-Style Bacon Breakfast Burrito,1,dish
+Boudin,Cali-Style Veggie Breakfast Burrito,1,dish
+Boudin,Granola & Greek Yogurt Parfait,0,dish
+Boudin,Ham & Swiss on Croissant,1,dish
+Boudin,Bacon,0,component
+Boudin,Fruit Cup,0,dish
+Boudin,Sourdough Toast,1,component
+Boudin,English Muffin,1,component
+Boudin,Multigrain Toast,1,component
+Boudin,Traditional Deli Feast,1,catering or retail pack
+Boudin,Ultimate Deli Feast,1,catering or retail pack
+Boudin,Duo Salad,1,catering or retail pack
+Boudin,Sausage Frittata Tray,0,catering or retail pack
+Boudin,Vegetarian Frittata Tray,0,catering or retail pack
+Boudin,Vegetarian Frittata Breakfast Sandwich,1,catering or retail pack
+Boudin,Vegan Breakfast Burrito,1,catering or retail pack
+Boudin,Ham & Swiss Breakfast Sandwich on English Muffin,1,catering or retail pack
+Boudin,Egg & Cheddar Breakfast Sandwich on English Muffin,1,catering or retail pack
+Boudin,Chicken & Waffle Breakfast Sandwich,1,catering or retail pack
+Boudin,Oatmeal (Includes condiments),0,catering or retail pack
+Boudin,Simple Seasoned Eggs,0,catering or retail pack
+Boudin,Avocado Toast Tray,1,catering or retail pack
+Boudin,Bagel - Blueberry,1,dish
+Boudin,Bagel - Cinnamon Raisin,1,dish
+Boudin,Bagel - Onion,1,dish
+Boudin,Bagel - Plain,1,dish
+Boudin,Bagel - Sesame,1,dish
+Boudin,Bar - Cookies & Cream,1,dish
+Boudin,Bar - Double Fudge Brownie,1,dish
+Boudin,"Bar - ""Gluten Friendly"" Raspberry Almond Shortbread",0,dish
+Boudin,Bar - Peanut Butter Crunch,1,dish
+Boudin,Bar - Salted Caramel Pretzel Brownie,1,dish
+Boudin,Chocolate Chip Banana Bread - Loaf & Mini,1,dish
+Boudin,Cookie - Oatmeal Raisin Spice,1,dish
+Boudin,Cookie - Peanut Butter,1,dish
+Boudin,Cookie - Semi-Sweet Chocolate Chip,1,dish
+Boudin,Cookie - Snickerdoodle,1,dish
+Boudin,Cookie - The Royale,0,dish
+Boudin,Cookie - White Chocolate Macadamia Nut,1,dish
+Boudin,Croissant - Almond Lg. & Mini (NorCal & SoCal),1,dish
+Boudin,Croissant - Butter Lg. & Mini (NorCal & SoCal),1,dish
+Boudin,Croissant - Chocolate Lg. & Mini (NorCal & SoCal),1,dish
+Boudin,Loaf - Banana Pecan,1,dish
+Boudin,Loaf - Marble Chocolate Chip,1,dish
+Boudin,Loaf - Seasonal Pumpkin Swirl,1,dish
+Boudin,Mini Coffee Cake,1,dish
+Boudin,Morning Bun Lg. & Mini,1,dish
+Boudin,Muffin - Banana Walnut,1,dish
+Boudin,Muffin - Blueberry,1,dish
+Boudin,Muffin - Iced Lemon Poppyseed,1,dish
+Boudin,Scone - Artisan Blueberry,1,dish
+Boudin,Scone - Artisan Cinnamon,1,dish
+Boudin,Fruits & Cheese Tray,1,catering or retail pack
+Boudin,California Vegetable Tray,0,catering or retail pack
+Boudin,Antipasti,1,dish
+Boudin,Ham & Swiss,1,catering or retail pack
+Boudin,Pesto Roast Beef,1,catering or retail pack
+Boudin,Roast Beef & Cheddar,1,catering or retail pack
+Boudin,Catering Pesto Chicken,1,catering or retail pack
+Boudin,*Sandwiches Prepared on Gluten Free Bread,0,catering or retail pack
+Boudin,Mini California Veggie,1,catering or retail pack
+Boudin,Mini Chicken Salad,1,catering or retail pack
+Boudin,Mini Ham & Swiss,1,catering or retail pack
+Boudin,Mini Italiano,1,catering or retail pack
+Boudin,Mini Roast Beef & Cheddar,1,catering or retail pack
+Boudin,Mini Turkey Havarti,1,catering or retail pack
+CAVA,Greek Goddess Steak Salad,0,dish
+CAVA,Greek Goddess Salmon Bowl,0,dish
+CAVA,Spicy Lamb + Avocado Bowl,0,dish
+CAVA,Steak + Harissa Bowl,0,dish
+CAVA,Harissa Avocado Bowl,0,dish
+CAVA,Chicken + Rice Bowl,0,dish
+CAVA,Greek Salad Bowl,0,dish
+CAVA,Falafel Crunch Bowl,1,dish
+CAVA,Salmon + Yogurt Dill Bowl,0,dish
+CAVA,Pomegranate Glazed Salmon Bowl,0,dish
+CAVA,Spicy Chicken + Avocado Pita,1,dish
+CAVA,Steak + Feta Pita,1,dish
+CAVA,Greek Chicken Pita,1,dish
+CAVA,Brown Rice,0,component
+CAVA,Saffron Basmati Rice,0,component
+CAVA,Black Lentils,0,component
+CAVA,Super Greens,0,component
+CAVA,Arugula,0,component
+CAVA,Baby Spinach,0,component
+CAVA,Romaine,0,component
+CAVA,Power Greens,0,component
+CAVA,Braised Lamb,0,component
+CAVA,Grilled Chicken,0,component
+CAVA,Falafel,1,component
+CAVA,Grilled Steak,0,component
+CAVA,Harissa Honey Chicken,0,component
+CAVA,Roasted Vegetables,0,component
+CAVA,Spicy Lamb Meatballs,0,component
+CAVA,Glazed Salmon,0,component
+CAVA,Kids Saffron Basmati Rice,0,component
+CAVA,Kids Brown Rice,0,component
+CAVA,Kids Black Lentils,0,component
+CAVA,Kids Chicken,0,component
+CAVA,Kids Harissa Honey Chicken,0,component
+CAVA,Kids Falafel,1,component
+CAVA,Kids Spicy Lamb Meatballs,0,component
+CAVA,Kids Roasted Vegetables,0,component
+CAVA,Kids Braised Lamb,0,component
+CAVA,Kids Grilled Steak,0,component
+CAVA,Kids Pita Chips,1,component
+CAVA,Shredded Romaine,0,component
+CAVA,Pita Crisps,1,component
+CAVA,Sumac Cabbage Slaw,0,component
+CAVA,Tomato + Onion,0,component
+CAVA,Persian Cucumber,0,component
+CAVA,Tomato + Cucumber,0,component
+CAVA,Kalamata Olives,0,component
+CAVA,Fiery Broccoli,0,component
+CAVA,Pickled Onions,0,component
+CAVA,Salt-Brined Pickles,0,component
+CAVA,Crumbled Feta,0,component
+CAVA,Fire-Roasted Corn,0,component
+CAVA,Avocado,0,component
+CAVA,Tzatziki,0,component
+CAVA,Hummus,0,component
+CAVA,Roasted Eggplant,0,component
+CAVA,Crazy Feta®,0,component
+CAVA,Harissa,0,component
+CAVA,Red Pepper Hummus,0,component
+CAVA,Greek Goddess,0,component
+CAVA,Balsamic Date Vinaigrette,0,component
+CAVA,Yogurt Dill,0,component
+CAVA,Lemon Herb Tahini,0,component
+CAVA,Greek Vinaigrette,0,component
+CAVA,Skhug,0,component
+CAVA,Hot Harissa Vinaigrette,0,component
+CAVA,Garlic Dressing,0,component
+CAVA,Side Pita,1,component
+CAVA,Pita Chips,1,component
+CAVA,Harissa BBQ Pita Chips,1,component
+CAVA,Greyston Chocolate Chip Blondie,1,dish
+CAVA,Greyston Brownie,1,dish
+CAVA,Whisked! Apricot Honey (DMV),1,dish
+CAVA,Whisked! Salted Dark Chocolate Oat Cookie,1,dish
+CAVA,Classic Lemonade,0,drink
+CAVA,Classic Lemonade (CA),0,drink
+CAVA,Pomegranate Apple,0,drink
+CAVA,Unsweetened Black Tea,0,drink
+CAVA,Sweet Tea,0,drink
+CAVA,Jasmine Green Tea,0,drink
+CAVA,Cucumber Mint Lime,0,drink
+CAVA,Blueberry Lavender,0,drink
+CAVA,Maine Root Soda (Fountain),0,drink
+CAVA,Maine Root Soda (Bottled),0,drink
+CAVA,Spindrift Grapefruit,0,drink
+CAVA,Spindrift Raspberry Lime,0,drink
+CAVA,Spindrift Lemon,0,drink
+CAVA,Spindrift Half Tea + Half Lemon,0,drink
+CAVA,Chocolate Milk,0,drink
+CAVA,1% Milk,0,drink
+CAVA,Honest Apple Juice,0,drink
+Chipotle (UK),Soft Flour Tortilla (Burrito & Taco),1,component
+Chipotle (UK),Hard Shell Taco (Crispy Corn Taco),0,component
+Chipotle (UK),Coriander-Lime Rice (White),0,component
+Chipotle (UK),Coriander-Lime Rice (Brown),0,component
+Chipotle (UK),Beans (Black),0,component
+Chipotle (UK),Beans (Pinto),0,component
+Chipotle (UK),Fajita Vegetables,0,component
+Chipotle (UK),Barbacoa,0,component
+Chipotle (UK),Carnitas,0,component
+Chipotle (UK),Steak,0,component
+Chipotle (UK),Sofritas (braised tofu),0,component
+Chipotle (UK),Fresh Tomato Salsa,0,component
+Chipotle (UK),Chilli-Corn Salsa,0,component
+Chipotle (UK),Roasted Tomato Green-Chilli Salsa,0,component
+Chipotle (UK),Roasted Tomato Red-Chilli Salsa,0,component
+Chipotle (UK),Monterey Jack Cheese,0,component
+Chipotle (UK),Sour Cream,0,component
+Chipotle (UK),Guacamole,0,component
+Chipotle (UK),Romaine Lettuce,0,component
+Chipotle (UK),Tortilla Chips,0,component
+Chipotle (UK),Chipotle Honey Vinaigrette,0,component
+Chipotle (UK),Tabasco®,0,component
+Cosi,"Bowl, Adobo Chicken with Avocado",0,dish
+Cosi,"Bowl, Spicy Meatless Chorizo",1,dish
+Cosi,"Bowl, Shanghai Chicken",1,dish
+Cosi,"Bowl, Falafel & Harissa Hummus",1,dish
+Cosi,"Orange Juice, Large",0,drink
+Cosi,Hard Boiled Eggs,0,dish
+Cosi,Fruit Cup,0,dish
+Cosi,"Bagel, Asiago (Just Bagels)",1,dish
+Cosi,"Bagel, Jalepeno (Just Bagels)",1,dish
+Cosi,"Bagel, Multi-Grain (Just Bagels)",1,dish
+Cosi,"Bagel, Plain (Just Bagels)",1,dish
+Cosi,"Bagel, Cinnamon Raisin (Just Bagels)",1,dish
+Cosi,"Bagel, Seasame (Just Bagels)",1,dish
+Cosi,"Bagel, Everything (Just Bagels)",1,dish
+Cosi,"Bagel, Poppy (Just Bagels)",1,dish
+Cosi,"Bread Slice, Original* (Corporate)",1,component
+Cosi,"Bread Slice, Multi Grain* (Corporate)",1,component
+Cosi,"Bread Slice, Original* (Franchisee)",1,component
+Cosi,"Bread Slice, Multi Grain* (Franchisee)",1,component
+Cosi,"Croissant, Butter*",1,dish
+Cosi,"Crumb Cake, Butter*",1,dish
+Cosi,"Loaf, Lemon Pound Cake*",1,dish
+Cosi,"Loaf, Marble Pound Cake*",1,dish
+Cosi,"Muffin, Blueberry",1,dish
+Cosi,"Muffin, Lemon Cranberry",1,dish
+Cosi,"Muffin, Double Chocolate Chip",1,dish
+Cosi,"Muffin, Apple Cinnamon",1,dish
+Cosi,"Scone, Blueberry*",1,dish
+Cosi,"Scone, Orange Cranberry*",1,dish
+Cosi,"Cream Cheese, Low-fat",0,component
+Cosi,"Cream Cheese, Plain",0,component
+Cosi,"Cream Cheese, Veggie",0,component
+Cosi,"Brownie Bites, Blondie",1,dish
+Cosi,"Brownie Bites, Chocolate Chunk*",1,dish
+Cosi,"Brownie, Blondie*",1,dish
+Cosi,"Brownie, Chocolate Chunk*",1,dish
+Cosi,"Cookie, Chocolate Chip*",1,dish
+Cosi,Blueberry Smash Lemonade,0,drink
+Cosi,Iced Tea,0,drink
+Cosi,"Iced Tea, Raspberry",0,drink
+Cosi,Lemonade,0,drink
+Cosi,Mojito Lemonade,0,drink
+Cosi,Café Americano,0,drink
+Cosi,Cappuccino,0,drink
+Cosi,Caramel Latte,0,drink
+Cosi,Chai Tea Latte,0,drink
+Cosi,Coffee,0,drink
+Cosi,Espresso,0,drink
+Cosi,Hot Chocolate,0,drink
+Cosi,Latte,0,drink
+Cosi,Mocha,0,drink
+Cosi,Shot in the Dark,0,drink
+Cosi,White Hot Chocolate,0,drink
+Cosi,Cheese,1,dish
+Cosi,Margherita Chicken,1,dish
+Cosi,Margherita,1,dish
+Cosi,Pepperoni,1,dish
+Cosi,Kids Flatbread Cheese Pizza,1,dish
+Cosi,Kids Flatbread Pepperoni Pizza,1,dish
+Cosi,Kids Grape Cup,0,dish
+Cosi,Kids Grilled Cheese,1,dish
+Cosi,Kids Ham & Cheese,1,dish
+Cosi,Kids Mac & Cheese,1,dish
+Cosi,Kids Peanut Butter & Jelly,1,dish
+Cosi,Kids Turkey Sandwich,1,dish
+Cosi,Roasted Chicken,0,component
+Cosi,Turkey,0,component
+Cosi,Tofu,0,component
+Cosi,Tuna Salad,0,component
+Cosi,Southwest Adobo Chicken,0,dish
+Cosi,Caesar,1,dish
+Cosi,Caesar - Chicken,1,dish
+Cosi,Cobb,0,dish
+Cosi,Mediterranean Salad,0,dish
+Cosi,Mandarin Chicken,1,dish
+Cosi,Signature,0,dish
+Cosi,Salad Dressing (Portion Only),0,component
+Cosi,Dressing - Adobo Vinaigrette,0,component
+Cosi,Dressing - Caesar,0,component
+Cosi,Dressing - Ginger Sesame,1,component
+Cosi,Dressing - Cosi® Vinaigrette (Balsamic Vinaigrette),0,component
+Cosi,Dressing - Green Goddess,0,component
+Cosi,Dressing - Sherry Shallot,0,component
+Cosi,Bacon Turkey Cheddar,1,dish
+Cosi,Pesto Chicken Melt,1,dish
+Cosi,Fiery Chipotle Chicken Melt,1,dish
+Cosi,Buffalo Chicken,1,dish
+Cosi,Old World Italiano,1,dish
+Cosi,Chicken Noodle,1,dish
+Cosi,Fire Roasted Vegetable,0,dish
+Cosi,French Onion Soup,1,dish
+Cosi,Italian Wedding Soup,1,dish
+Cosi,Macaroni & Cheese,1,dish
+Cosi,Mediterranean Lentil,0,dish
+Cosi,New England Clam Chowder,0,dish
+Cosi,Turkey Chili,1,dish
+Cosi,Tomato Basil,0,dish
+Cosi,Chicken & Dumpling,1,dish
+Panera,Asiago Cheese,1,dish
+Panera,Asiago Everything,1,dish
+Panera,Blueberry,1,dish
+Panera,Chocolate Chip,1,dish
+Panera,Cinnamon Crunch,1,dish
+Panera,Cinnamon Swirl & Raisin,1,dish
+Panera,Everything,1,dish
+Panera,Multigrain Bagel Flat,1,dish
+Panera,Plain,1,dish
+Panera,Sesame,1,dish
+Panera,Plain Cream Cheese Spread,0,component
+Panera,Honey Walnut Cream Cheese Spread,0,component
+Panera,Honey Pecan Cream Cheese Spread,0,component
+Panera,Artisan Ciabatta- Loaf,1,component
+Panera,Black Pepper Focaccia - Round Loaf,1,component
+Panera,Classic White - Loaf,1,component
+Panera,Country Rustic Sourdough - XL Loaf,1,component
+Panera,Croissant,1,dish
+Panera,French Baguette,1,component
+Panera,Sourdough Bread Bowl,1,component
+Panera,Tomato Basil - Miche,1,component
+Panera,Whole Grain Lahvash Wrap,1,component
+Panera,Italian Stuffer Roll - Retail whole,1,component
+Panera,Brownie,1,dish
+Panera,Cookie- Candy,1,dish
+Panera,Cookie- Chocolate Chipper (Large & Petites),1,dish
+Panera,Cookie - Chocolate Coconut Macaroon,1,dish
+Panera,Cookie - Coconut Macaroon,1,dish
+Panera,Cookie - Dubai Style Chocolate Pistachio,1,dish
+Panera,Cookie- Iced Shaped Shortbread- Pumpkin & Mitten,1,dish
+Panera,Cookie- Kitchen Sink,1,dish
+Panera,Cookie- Oatmeal Raisin with Berries,1,dish
+Panera,Pastry - Cranberry Orange Loaf Slice - Naturally Flavored,1,dish
+Panera,Muffin- Blueberry,1,dish
+Panera,Muffie- Chocolate Chip,1,dish
+Panera,Pastry - Almond,1,dish
+Panera,Pastry - Asiago Croissant Twists,1,dish
+Panera,Pastry - Cherry,1,dish
+Panera,Pastry- Chocolate Croissant,1,dish
+Panera,Pastry- Cinnamon Roll,1,dish
+Panera,Pastry - Pumpkin Spice Cinnamon Roll,1,dish
+Panera,Pastry- Pecan Braid,1,dish
+Panera,Scone- Orange (Large & Mini),1,dish
+Panera,Cookie - PB & J,1,dish
+Panera,Pastry - Cinnamon Croissant Bites with White Icing,1,dish
+Panera,Add on - White Icing Portion Cup,0,component
+Panera,Pastry - Cocoa Marshmallow Flavored Cake Slice,1,dish
+Panera,Asiago Everything Bagel Stack - Wake-up BLT,1,dish
+Panera,Asiago Bagel Stack - Farmhouse Duo,1,dish
+Panera,"Bacon, Egg & Cheese on Artisan Ciabatta",1,dish
+Panera,"Bacon, Egg & Cheese on Croissant",1,dish
+Panera,Bacon Double Take on Black Pepper Focaccia,1,dish
+Panera,"Chipotle Chicken, Egg & Avo on Artisan Ciabatta",1,dish
+Panera,Egg & Cheese on Artisan Ciabatta,1,dish
+Panera,Egg & Cheese on Croissant,1,dish
+Panera,Egg Styles - Scrambled Egg or Egg White,0,component
+Panera,Garden Avo & Egg White on Multigrain Bagel Flat,1,dish
+Panera,Ham Croissant Benny,1,dish
+Panera,"Ham, Egg & Cheese on Artisan Ciabatta",1,dish
+Panera,"Sausage, Egg & Cheese on Artisan Ciabatta",1,dish
+Panera,"Sausage, Egg & Cheese on Croissant",1,dish
+Panera,Steak & Wake on Artisan Ciabatta,1,dish
+Panera,Four Cheese Souffle,1,dish
+Panera,Spinach & Bacon Souffle,1,dish
+Panera,Fruit Cup,0,dish
+Panera,Hard Boiled Eggs,0,dish
+Panera,Parfait- Greek Yogurt with Berries,0,dish
+Panera,Steel Cut Oatmeal with Strawberries & Pecans,0,dish
+Panera,Steel Cut Oatmeal with Strawberries - Without Pecans,0,dish
+Panera,Asian Sesame with & without Chicken,1,dish
+Panera,Stuffer - Asian Sesame with & without Chicken,1,dish
+Panera,Asian Sesame with & without Chicken - Without Almonds,1,dish
+Panera,Stuffer - Asian Sesame with & without Chicken - without Almonds,1,dish
+Panera,Caesar with & without Chicken,1,dish
+Panera,Stuffer - Caesar with & without Chicken,1,dish
+Panera,Stuffer - Farmhouse Crunch,1,dish
+Panera,Farmhouse Crunch Salad - without almonds,0,dish
+Panera,Stuffer - Farmhouse Crunch - without almonds,1,dish
+Panera,Fuji Apple with & without Chicken,0,dish
+Panera,Stuffer - Fuji Apple with & without Chicken,1,dish
+Panera,Fuji Apple with & without Chicken - Without Pecans,0,dish
+Panera,Stuffer - Fuji Apple with & without Chicken - without Pecans,1,dish
+Panera,Greek with & without Chicken,0,dish
+Panera,Stuffer - Greek with & without Chicken,1,dish
+Panera,Green Goddess Cobb with Chicken,0,dish
+Panera,Stuffer - Green Goddess Cobb with Chicken,1,dish
+Panera,Ranch Parm BLT,1,dish
+Panera,Stuffer - Ranch Parm BLT,1,dish
+Panera,Southwest Chicken Ranch,0,dish
+Panera,Stuffer - Southwest Chicken Ranch,1,dish
+Panera,Ultimate Garden Steak Salad,1,dish
+Panera,Stuffer - Ultimate Garden Steak,1,dish
+Panera,Harvest Medley with and without Chicken,1,dish
+Panera,Stuffer- Harvest Medley with and without Chicken,1,dish
+Panera,Harvest Medley with and without Chicken - No Pecans,1,dish
+Panera,Stuffer- Harvest Medley with and without Chicken - No Pecans,1,dish
+Panera,All-In Veggie,1,dish
+Panera,Sesame Ginger Chicken,1,dish
+Panera,Sesame Ginger Chicken - No Almonds,1,dish
+Panera,Carnitas Elote,0,dish
+Panera,Asiago Bagel Stack - Spicy Steak,1,dish
+Panera,Bacon Turkey Bravo on Tomato Basil,1,dish
+Panera,Chicken Bacon Rancher on Black Pepper Focaccia,1,dish
+Panera,Chipotle Chicken Avo Melt on Round Black Pepper Focaccia,1,dish
+Panera,Ciabatta Cheesesteak,1,dish
+Panera,Cranberry Walnut Chicken Salad on Country Rustic,1,dish
+Panera,Grilled Cheese on Classic White Loaf,1,dish
+Panera,Grilled Chicken & Avo BLT on Country Rustic Sourdough,1,dish
+Panera,Mediterranean Veggie on Tomato Basil,1,dish
+Panera,Pickle Spear for cold sandwiches,0,component
+Panera,Smokehouse BBQ Chicken on Artisan Ciabatta,1,dish
+Panera,Toasted Frontega Chicken on Black Pepper Focaccia,1,dish
+Panera,Toasted Italiano on Baguette,1,dish
+Panera,Tomato Basil BLT on Tomato Basil Miche,1,dish
+Panera,Toasted Caprese Focaccia,1,dish
+Panera,Tuna Salad on Country Rustic Sourdough,1,dish
+Panera,Turkey & Cheddar on Country Rustic Sourdough,1,dish
+Panera,Spicy Fiesta Chicken on Ciabatta,1,dish
+Panera,Catering- Ham & Cheddar on Country Rustic,1,catering or retail pack
+Panera,Ciabatta Dipper - French,1,dish
+Panera,Ciabatta Dipper - Chicken Pesto,1,dish
+Panera,Dressing - Asian Sesame vinaigrette,0,component
+Panera,Sauce - Balsamic Glaze,0,component
+Panera,Sauce - Balsamic Vinaigrette,0,component
+Panera,Sauce - Bravo Signature,0,component
+Panera,Dressing - Caesar,0,component
+Panera,Sauce - Cheese Hollandaise,0,component
+Panera,Sauce - Chipotle Aioli,0,component
+Panera,Dressing - Creamy Garden Herb,0,component
+Panera,Sauce - Creamy Basil Pesto,0,component
+Panera,Dressing - Farmhouse Ranch,0,component
+Panera,Sauce - Garlic Aioli,0,component
+Panera,Dressing - Greek,0,component
+Panera,Sauce - Green Chile Salsa Verde,0,component
+Panera,Dressing - Green Goddess,0,component
+Panera,Spread- Hummus,0,component
+Panera,Sauce - Mayonnaise,0,component
+Panera,Dressing - Sesame Ginger,1,component
+Panera,Dressing - White Balsamic Apple Flavored Vinaigrette,0,component
+Panera,Dressing - Zesty Smoky Lemon Vinaigrette,1,component
+Panera,Dipper - Creamy Tomato - Dipper Portion,0,component
+Panera,Dipper - Bistro French Onion - Dipper Portion,1,component
+Panera,Additional Pump of Caramel Syrup,0,component
+Panera,Additional Pump of Chocolate Sauce,0,component
+Panera,Additional Pump of Chocolatey Hazelnut Flavored Syrup,0,component
+Panera,Additional Pump of Madagascar Vanilla Syrup or Cane Sugar Syrup,0,component
+Panera,Additional Shot of Pumpkin Spice Sauce,0,component
+Panera,Additional Pump of Snickerdoodle Syrup,0,component
+Panera,Additional Pump of White Chocolate and Peppermint Flavored Sauce,0,component
+Panera,Additional Pump of White Chocolate and Pistachio Flavored Sauce,0,component
+Panera,Agave Lemonade,0,drink
+Panera,Americano,0,drink
+Panera,Blackberry Hibiscus Iced Tea - Naturally Flavored Herbal Tea,0,drink
+Panera,Cafe Frozen Java,0,drink
+Panera,Caffe Latte (espresso - Hot or Iced),0,drink
+Panera,Cappuccino (espresso),0,drink
+Panera,Caramel Latte (espresso - Hot or Iced),0,drink
+Panera,Chai Tea Latte (Hot or Iced),0,drink
+Panera,Cherry Lime Fresca,0,drink
+Panera,Coffee/Decaf Coffee (Hot or Iced),0,drink
+Panera,Dragonfruit Sunset Energy Refresher - Naturally Flavored,0,drink
+Panera,Hot Tea Bags,0,drink
+Panera,Iced Teas - Unsweetened / Sweetened / Passion Papaya Naturally Flavored Green Tea,0,drink
+Panera,Island Mango Energy Refresher - Naturally Flavored - With Dragon Fruit,0,drink
+Panera,Island Mango Energy Refresher - Naturally Flavored - With Pineapple,0,drink
+Panera,Madagascar Vanilla Latte (espresso - Hot or Iced),0,drink
+Panera,Mango Smoothie with Greek Yogurt (Frozen),0,drink
+Panera,Mocha Latte (espresso - Hot or Iced),0,drink
+Panera,Passionfruit Paradise Energy Refresher - Naturally Flavored,0,drink
+Panera,Pumpkin Spice Frozen Java,0,drink
+Panera,Pumpkin Spice Iced Coffee,0,drink
+Panera,Pumpkin Spice Latte - (Hot or Iced),0,drink
+Panera,Pistachio White Mocha Frozen Java,0,drink
+Panera,Pistachio White Mocha Latte,0,drink
+Panera,Pistachio White Mocha Iced Latte,0,drink
+Panera,Pistachio White Mocha Iced Coffee,0,drink
+Panera,Signature Hot Chocolate - (Hot or Frozen),0,drink
+Panera,Strawberry Banana Smoothie with Greek Yogurt (Frozen),0,drink
+Panera,Strawberry Basil Lemonade Fresca,0,drink
+Panera,Strawberry Smoothie with Greek Yogurt (Frozen),0,drink
+Panera,Sweet Cream Cold Foam,0,component
+Panera,Tropical Green Smoothie (Frozen),0,drink
+Panera,Kids Broccoli Cheddar Soup,1,dish
+Panera,Kids Ham & American Cheese on Classic White Loaf,1,dish
+Panera,Kids Turkey & American Cheese on Classic White Loaf,1,dish
+Panera,Mac & Cheese,1,dish
+Panera,Bistro French Onion with Cheese & Croissant Croutons,1,dish
+Panera,Broccoli Cheddar,1,dish
+Panera,Cream of Chicken & Wild Rice,1,dish
+Panera,Homestyle Chicken Noodle,1,dish
+Panera,Creamy Tomato with Croissant Croutons - Vegetarian,1,dish
+Panera,Bacon Mac & Cheese,1,dish
+Panera,Rustic Baked Potato,0,dish
+Panera,Three Cheese Lasagna,1,dish
+Panera,Autumn Squash - Vegetarian,0,dish
+Panera,Grab N Go Chicken Caesar Wrap,1,dish
+Panera,Frontega Chicken Wrap,1,dish
+Panera,Green Goddess Chicken Wrap,1,dish
+Panera,Turkey & Cheddar Wrap,1,dish
+Pret,Pesto Caprese Baguette,1,dish
+Pret,Pret's Chicken Bánh Mi,1,dish
+Pret,Pret’s Famous Ham & Cheese Baguette,1,dish
+Pret,Pret's Tuna & Cucumber Baguette,1,dish
+Pret,Romesco Chicken & Mozzarella Baguette,1,dish
+Pret,Cheddar & Tomato Sandwich,1,dish
+Pret,Chicken & Bacon Sandwich,1,dish
+Pret,Pret's Chicken Salad & Avo Sandwich,1,dish
+Pret,Pret's Egg Salad & Arugula Sandwich,1,dish
+Pret,Pret's Tuna & Cucumber Sandwich,1,dish
+Pret,Rainbow Veggie Sandwich,1,dish
+Pret,Turkey & Cheddar Sandwich,1,dish
+Pret,Kid's Ham & Cheddar Sandwich,1,dish
+Pret,Kid's Cheddar & Mayo Sandwich,1,dish
+Pret,Avocado Veggie Sandwich,1,dish
+Pret,Pret’s Italian Turkey Club Sandwich,1,dish
+Pret,BBQ Pulled Pork Melt,1,dish
+Pret,Buffalo Chicken Melt,1,dish
+Pret,Roasted Mushroom & Swiss Melt,1,dish
+Pret,Bang Bang Chicken Wrap,1,dish
+Pret,Crunchy Chipotle Chicken & Avo Wrap,1,dish
+Pret,Crunchy Miso Mushroom Wrap,1,dish
+Pret,Falafel & Hummus Wrap,1,dish
+Pret,Spicy Chicken Caesar Wrap,1,dish
+Pret,Pret’s Chicken Parm Wrap,1,dish
+Pret,Pret's Pulled Pork Burrito,1,dish
+Pret,Spiced Lentil & Chickpea Hot Wrap,1,dish
+Pret,Chicken Burrito Wrap,1,dish
+Pret,Ham & Cheddar Croissant,1,dish
+Pret,Turkey & Swiss Croissant,1,dish
+Pret,Broccoli Cheddar & Chive Quiche,1,dish
+Pret,Spinach & Fontina Quiche,1,dish
+Pret,Bread Roll,1,component
+Pret,Chili Yogurt & Herbs Soup Topper,1,component
+Pret,"Croutons, Lemon & Herbs Soup Topper",1,component
+Pret,Moroccan Lentil Soup,0,dish
+Pret,Roasted Veggie Harvest Soup,0,dish
+Pret,Super Greens Soup,0,dish
+Pret,Tomato & Feta Soup,0,dish
+Pret,Turmeric Chicken & Farro Soup,1,dish
+Pret,White Chicken Chili,0,dish
+Pret,Classic Mac and Cheese,1,dish
+Pret,Spinach & Tomato Mac and Cheese,1,dish
+Pret,Pumpkin Bisque,0,dish
+Pret,"Blackened Salmon, Avo & Quinoa Salad with Pret's Simple",0,dish
+Pret,Vinaigrette,0,component
+Pret,"Blackened Salmon, Avo & Quinoa Salad without Dressing",0,dish
+Pret,Chicken Avocado Salad with Pret's Simple Vinaigrette,0,dish
+Pret,Chicken Avocado Salad without Dressing,0,dish
+Pret,Chicken Caesar Salad with Caesar Dressing,1,dish
+Pret,Chicken Caesar Salad without Dressing,1,dish
+Pret,"Chicken, Elote Corn & Avocado Salad with Herb Yogurt Dressing",0,dish
+Pret,Elote Chicken salad with Pret's Simple Vinaigrette (LAX),0,dish
+Pret,"Chicken, Elote Corn & Avocado Salad without Dressing",0,dish
+Pret,Chicken & Strawberry Salad with Pret's Simple Vinaigrette,0,dish
+Pret,Chicken & Strawberry Salad without Dressing,0,dish
+Pret,Mediterranean Mezze Salad with Pret's Simple Vinaigrette,0,dish
+Pret,Mediterranean Mezze Salad without Dressing,0,dish
+Pret,Pesto Marinated White Bean & Avocado Salad with Pret's Simple,0,dish
+Pret,Pesto Marinated White Bean & Avocado Salad without Dressing,0,dish
+Pret,Caesar Side Salad with Caesar Dressing,1,dish
+Pret,Caesar Side Salad without Dressing,1,dish
+Pret,Pret's Greek Side Salad with Herb Yogurt Dressing,1,dish
+Pret,Pret's Greek Side Salad without Dressing,1,dish
+Pret,Lemon Arugula Side Salad with Pret's Simple Vinaigrette,0,dish
+Pret,Lemon Arugula Side Salad without Dressing,0,dish
+Pret,Caesar Dressing,1,component
+Pret,Herb Yogurt Dressing,0,component
+Pret,Pret's Simple Vinaigrette,0,component
+Pret,Egg Salad & Avocado Breakfast Baguette,1,dish
+Pret,"Bacon, Egg & Cheddar Roll",1,dish
+Pret,Egg & Cheddar Roll,1,dish
+Pret,Southwestern Breakfast Wrap,1,dish
+Pret,Southwestern Breakfast Wrap with bacon,1,dish
+Pret,Apple Cranberry Crunch Porridge Topper,0,component
+Pret,Coconut Banana Blueberry Porridge Topper,0,component
+Pret,Oatm*lk Porridge,0,dish
+Pret,Egg White Greek Frittata,0,dish
+Pret,Power Breakfast Frittata,0,dish
+Pret,Dragon Fruit Yogurt Protein Pot,0,dish
+Pret,Egg Salad & Bacon Sourdough Breakfast Baguette,1,dish
+Pret,Egg & Cheddar Sourdough Breakfast Half Baguette,1,dish
+Pret,Roasted Tomato & Mozzarella Croissant,1,dish
+Pret,Apple Cinnamon Oatm*lk Porridge,1,dish
+Pret,Brown Sugar & Banana Oatm*lk Porridge,1,dish
+Pret,Banana,0,dish
+Pret,Cantaloupe & Blueberry Pot,0,dish
+Pret,Pineapple & Lime Pot,0,dish
+Pret,Strawberry & Blueberry Pot,0,dish
+Pret,Banana & Honey Yogurt Pot (LAX Only),0,dish
+Pret,Berry Yogurt Parfait Pot (LAX ONLY),0,dish
+Pret,Bircher Muesli,0,dish
+Pret,Blueberry & Granola Pot,0,dish
+Pret,Blueberry Yogurt Pot,0,dish
+Pret,Dragon Fruit Coconut Chia Bowl,0,dish
+Pret,Egg & Spinach Pot,0,dish
+Pret,Guava Coconut Chia Pot,0,dish
+Pret,Hummus Pot,0,dish
+Pret,Little Cup of Goodness,0,dish
+Pret,Strawberry Yogurt Pot,0,dish
+Pret,Chobani Strawberry Yogurt Protein Pot,0,dish
+Pret,Sunshine Bowl,0,dish
+Pret,Kid's Honey Banana Yogurt Pot (NYC Only),0,dish
+Pret,Pumpkin Spice Yogurt Pot,0,dish
+Pret,Almond Croissant,1,dish
+Pret,Chocolate Croissant,1,dish
+Pret,Plain Croissant,1,dish
+Pret,Blueberry Muffin,1,dish
+Pret,"Cinnamon Kouign Amann (""queen a-mahn"")",1,dish
+Pret,Everything Cream Cheese Swirl,1,dish
+Pret,Chocolate Chunk Cookie,1,dish
+Pret,Chocolate Brownie Cookie,1,dish
+Pret,Double Chocolate Pecan Cookie,1,dish
+Pret,Harvest Cookie,1,dish
+Pret,Pumpkin Cheese Danish,1,dish
+Pret,Brownie Bite,1,dish
+Pret,Key Lime Cheesecake,1,dish
+Pret,Raspberry Cheesecake,1,dish
+Pret,Tiramisu Cheesecake,1,dish
+Pret,Chocolate Covered Almonds,0,component
+Pret,Omega-3 Mix,0,component
+Pret,Raw Almonds,0,component
+Pret,Coffee,0,drink
+Pret,Americano Black,0,drink
+Pret,Cappuccino (Almond Milk),0,drink
+Pret,Cappuccino (Oat Milk),0,drink
+Pret,Cappuccino (Half and Half),0,drink
+Pret,Cappuccino (Skim Milk),0,drink
+Pret,Cappuccino (Whole Milk),0,drink
+Pret,Espresso,0,drink
+Pret,Macchiato (Almond Milk),0,drink
+Pret,Macchiato (Oat Milk),0,drink
+Pret,Macchiato (Half and Half),0,drink
+Pret,Macchiato (Skim Milk),0,drink
+Pret,Macchiato (Whole Milk),0,drink
+Pret,Flat White (Almond Milk),0,drink
+Pret,Flat White (Oat Milk),0,drink
+Pret,Flat White (Half and Half),0,drink
+Pret,Flat White (Skim Milk),0,drink
+Pret,Flat White (Whole Milk),0,drink
+Pret,Coffee (Cont.),0,drink
+Pret,Mocha (Almond Milk),0,drink
+Pret,Mocha (Oat Milk),0,drink
+Pret,Mocha (Half & Half),0,drink
+Pret,Mocha (Skim Milk),0,drink
+Pret,Mocha (Whole Milk),0,drink
+Pret,Latte (Almond Milk),0,drink
+Pret,Latte (Oat Milk),0,drink
+Pret,Latte (Half & Half),0,drink
+Pret,Latte (Skim Milk),0,drink
+Pret,Latte (Whole Milk),0,drink
+Pret,Pret's Organic Single Origin Coffee Black,0,drink
+Pret,Pret's Organic Classic Blend Coffee Black,0,drink
+Pret,Chai Latte (Almond Milk),0,drink
+Pret,Chai Latte (Oat Milk),0,drink
+Pret,Chai Latte (Half & Half),0,drink
+Pret,Chai Latte (Skim Milk),0,drink
+Pret,Chai Latte (Whole Milk),0,drink
+Pret,Matcha Chai Latte (Almond Milk),0,drink
+Pret,Matcha Chai Latte (Oat Milk),0,drink
+Pret,Matcha Chai Latte (Half & Half Milk),0,drink
+Pret,Matcha Chai Latte (Skim Milk),0,drink
+Pret,Matcha Chai Latte (Whole Milk),0,drink
+Pret,Matcha Latte (Almond milk),0,drink
+Pret,Matcha Latte (Oat milk),0,drink
+Pret,Matcha Latte (Half & Half),0,drink
+Pret,Matcha Latte (Skim Milk),0,drink
+Pret,Matcha Latte (Whole Milk),0,drink
+Pret,Hot Chocolate (Almond Milk),0,drink
+Pret,Hot Chocolate (Oat Milk),0,drink
+Pret,Hot Chocolate (Half & Half),0,drink
+Pret,Hot Chocolate (Skim Milk),0,drink
+Pret,Hot Chocolate (Whole Milk),0,drink
+Pret,Iced Coffee,0,drink
+Pret,Cold Brew (Black),0,drink
+Pret,Iced Americano (Black),0,drink
+Pret,Iced Coffee (Black),0,drink
+Pret,Iced Espresso (Black),0,drink
+Pret,Iced Mocha (Almond Milk),0,drink
+Pret,Iced Mocha (Oat Milk),0,drink
+Pret,Iced Mocha (Half & Half),0,drink
+Pret,Iced Mocha (Skim Milk),0,drink
+Pret,Iced Mocha (Whole Milk),0,drink
+Pret,Iced Latte (Almond Milk),0,drink
+Pret,Iced Latte (Oat Milk),0,drink
+Pret,Iced Latte (Half & Half),0,drink
+Pret,Iced Latte (Skim Milk),0,drink
+Pret,Iced Latte (Whole Milk),0,drink
+Pret,Iced Chai Latte (Almond Milk),0,drink
+Pret,Iced Chai Latte (Oat Milk),0,drink
+Pret,Iced Chai Latte (Half & Half),0,drink
+Pret,Iced Chai Latte (Skim Milk),0,drink
+Pret,Iced Chai Latte (Whole Milk),0,drink
+Pret,Iced Chocolate (Almond Milk),0,drink
+Pret,Iced Chocolate (Oat Milk),0,drink
+Pret,Iced Chocolate (Half & Half),0,drink
+Pret,Iced Chocolate (Skim Milk),0,drink
+Pret,Iced Chocolate (Whole Milk),0,drink
+Pret,Iced Matcha (Almond Milk),0,drink
+Pret,Iced Matcha (Oat Milk),0,drink
+Pret,Iced Matcha (Half & Half),0,drink
+Pret,Iced Matcha (Skim Milk),0,drink
+Pret,Iced Matcha (Whole Milk),0,drink
+Pret,Pink Guava Matcha Iced Latte (Almond,0,drink
+Pret,Pink Guava Matcha Iced Latte (Oat Milk),0,drink
+Pret,Pink Guava Matcha Iced Latte (Half &Half),0,drink
+Pret,Pink Guava Matcha Iced Latte (Skim Milk),0,drink
+Pret,Pink Guava Matcha Iced Latte (Whole,0,drink
+Pret,"Iced Teas, Lemonade and Refreshers",0,drink
+Pret,Iced Black Tea,0,drink
+Pret,Iced Green Tea,0,drink
+Pret,Sunshine Black Tea,0,drink
+Pret,Sunshine Green Tea,0,drink
+Pret,Pink Guava Lemonade,0,drink
+Pret,Pink Guava Sunshine Black Tea,0,drink
+Pret,Pink Guava Sunshine Green Tea,0,drink
+Pret,Pink Guava Black Tea,0,drink
+Pret,Pink Guava Green Tea,0,drink
+Pret,Dragon Fruit Mango Black Tea,0,drink
+Pret,Dragon Fruit Mango Green Tea,0,drink
+Pret,Dragon Fruit Mango Lemonade,0,drink
+Pret,Dragon Fruit Mango Sunshine Black Tea,0,drink
+Pret,Dragon Fruit Mango Sunshine Green Tea,0,drink
+Pret,Lemonade,0,drink
+Pret,Matcha Lemonade,0,drink
+Pret,Cane Syrup,0,component
+Pret,Caramel Syrup,0,component
+Pret,Hazelnut Syrup,0,component
+Pret,Vanilla Syrup,0,component
+Pret,Classic Whipped Cream,0,component
+Pret,Almond Milk,0,drink
+Pret,Oat Milk,0,drink
+Pret,Half & Half,0,component
+Pret,Skim Milk,0,drink
+Pret,Whole Milk,0,drink
+Pret,Breakfast Tea,0,drink
+Pret,Earl Grey Tea,0,drink
+Pret,Peppermint Tea,0,drink
+Pret,Tropical Green Tea,0,drink
+Pret,Spiced Pumpkin Latte (Skim Milk),0,drink
+Pret,Spiced Pumpkin Latte (Whole Milk),0,drink
+Pret,Spiced Pumpkin Latte (Almond Milk),0,drink
+Pret,Spiced Pumpkin Latte (Oat Milk),0,drink
+Pret,Spiced Pumpkin Latte (Half & Half),0,drink
+Pret,Spiced Pumpkin Matcha Latte (Skim Milk),0,drink
+Pret,Iced Spiced Pumpkin Latte (Skim Milk),0,drink
+Pret,Iced Spiced Pumpkin Latte (Whole Milk),0,drink
+Pret,Iced Spiced Pumpkin Latte (Almond Milk),0,drink
+Pret,Iced Spiced Pumpkin Latte (Oat Milk),0,drink
+Pret,Iced Spiced Pumpkin Latte (Half & Half),0,drink
+Pret,Iced Spiced Pumpkin Matcha Latte (Skim,0,drink
+Pret,Ice Spiced Pumpkin Matcha Latte (Whole,0,drink
+Pret,Iced Spiced Pumpkin Matcha Latte,0,drink
+Pret,Iced Spiced Pumpkin Matcha Latte (Oat,0,drink
+Pret,Ice Spiced Pumpkin Matcha Latte (Half &,0,drink
+Pret,Spiced Pumpkin Matcha Latte (Whole,0,drink
+Pret,Spiced Pumpkin Matcha Latte (Almond,0,drink
+Pret,Spiced Pumpkin Matcha Latte (Oat Milk),0,drink
+Pret,Pumpkin Spice Sauce,0,component
+Pret,Daily Greens Cold Pressed Juice,0,drink
+Pret,Super Reds Cold Pressed Juice,0,drink
+Pret,Pink Grapefruit Juice,0,drink
+Pret,Orange Juice,0,drink
+Pret,Classic Lemonade,0,drink
+Pret,Strawberry Lemonade,0,drink
+Pret,"Bacon, Egg & Cheddar Omelette Sourdough Breakfast Half Baguette",1,dish
+Pret,Croque Monsieur Half Baguette,1,dish
+Pret,Salmon Dill-light Sourdough Half Baguette,1,dish
+Pret,"Maple, Almond Butter & Banana Overnight Oats",0,dish
+Pret,Mixed Berry Overnight Oats,0,dish
+Pret,Sunnyside Egg & Cheddar Sourdough Half Baguette,1,dish
+Pret,"Bacon, Sunnyside Egg & Cheddar Sourdough Half Baguette",1,dish
+Pret,"Turkey, Egg & Cheddar Protein Plate",0,dish
+Pret,Salmon & Dill Power Plate,0,dish
+Pret,Chocolate Chunk Soft Baked Cookie,1,dish
+Pret,Chocolate Brownie Soft Baked Cookie,1,dish
+Pret,Double Chocolate Pecan Soft Baked Cookie,1,dish
+Pret,Harvest Soft Baked Cookie,1,dish
+Sweetgreen,Caramelized Garlic Steak,0,dish
+Sweetgreen,Miso Glazed Salmon,1,dish
+Sweetgreen,Hot Honey Chicken,1,dish
+Sweetgreen,Steak Mezze,1,dish
+Sweetgreen,Classic Chicken Caesar,1,dish
+Sweetgreen,Cali Chicken Club,1,dish
+Sweetgreen,Chicken Jalapeño Ranch,1,dish
+Sweetgreen,Crispy Rice Bowl,0,dish
+Sweetgreen,Harvest Bowl,0,dish
+Sweetgreen,Chicken Pesto Parm,1,dish
+Sweetgreen,Steak Honey Crunch,1,dish
+Sweetgreen,Shroomami,0,dish
+Sweetgreen,Chicken Sesame Crunch Salad,1,dish
+Sweetgreen,Buffalo Chicken,1,dish
+Sweetgreen,Ranchy Chicken + Rice,0,dish
+Sweetgreen,Little Harvest,0,dish
+Sweetgreen,Honest Kids Apple Juice,0,drink
+Sweetgreen,Olive Oil Tortilla,1,component
+Sweetgreen,Rosemary Focaccia,1,component
+Sweetgreen,SG X Siete: Green Goddess Ranch Potato Chips,0,component
+Sweetgreen,Hummus + Focaccia,1,dish
+Sweetgreen,Siete Sea Salt Potato Chips,0,component
+Sweetgreen,Roasted Sweet Potatoes + Hot Honey Mustard,0,dish
+Sweetgreen,Roasted Sweet Potatoes + Green Goddess Ranch,0,dish
+Sweetgreen,Crispy Rice Treat,0,dish
+Sweetgreen,Hu Salty Dark Chocolate Bar,0,component
+Sweetgreen,Hu Cashews + Vanilla Bean Hunks,0,component
+Sweetgreen,Sweetgreen Lemonade,0,drink
+Sweetgreen,Hibiscus Berry Tea,0,drink
+Sweetgreen,Ginger Greens,0,drink
+Sweetgreen,Strawberry Mint,0,drink
+Sweetgreen,OLIPOP Lemon Lime Soda,0,drink
+Sweetgreen,Harney & Sons Organic Lemonade,0,drink
+Sweetgreen,Still Water,0,drink
+Sweetgreen,Spindrift Raspberry Lime,0,drink
+Sweetgreen,Health-Ade Kombucha Blueberry Pomegranate,0,drink
+Sweetgreen,OLIPOP Root Beer,0,drink
+Sweetgreen,Just Ice Tea Peach Oolong,0,drink
+Sweetgreen,Just Ice Tea Original Green,0,drink
+Sweetgreen,Spindrift Lemon,0,drink
+Tatte,Bread And Butter,1,dish
+Tatte,Breakfast Sandwich,1,dish
+Tatte,Croissant Sandwich,1,dish
+Tatte,Croque Madame,1,dish
+Tatte,Croque Monsieur,1,dish
+Tatte,Halloumi & Sunny-Side Sandwich,1,dish
+Tatte,House Breakfast Plate,1,dish
+Tatte,Lamb Hash,1,dish
+Tatte,Muesli,0,dish
+Tatte,Warm Oatmeal with Dried Fruits,0,dish
+Tatte,Scrambled Egg Plate - Prosciutto,1,dish
+Tatte,Scrambled Egg Plate - Tomato & Goat Cheese,1,dish
+Tatte,"Smoked Salmon, Avocado & Egg Sandwich",1,dish
+Tatte,Donut - Strawberry,1,dish
+Tatte,Donut - Vanilla Sugar,1,dish
+Tatte,French Toast - Savory,1,dish
+Tatte,French Toast - Sweet,1,dish
+Tatte,Greek Style Pancakes,1,dish
+Tatte,Meze Breakfast,1,dish
+Tatte,Avocado,1,dish
+Tatte,Smoked Salmon Avocado,1,dish
+Tatte,"Potato, Mushroom & Bacon Shakshuka",1,dish
+Tatte,Meatball,1,dish
+Tatte,Traditional,1,dish
+Tatte,Hummus,1,dish
+Tatte,"Fresh Corn, Avocado & Farro",1,dish
+Tatte,Maple Aleppo Chicken,0,dish
+Tatte,"Quiche - Leek, Potato & Spinach & Salad",1,dish
+Tatte,Roasted Salmon & Winter Vegetable Rice,0,dish
+Tatte,Harissa Roasted Salmon & Rice,0,dish
+Tatte,Tomato Mozzarella Flatbread Slice,1,dish
+Tatte,BLAT,1,dish
+Tatte,Broccolini & Squash Hummus Pita,1,dish
+Tatte,Chicken Pita,1,dish
+Tatte,Chicken Salad,1,dish
+Tatte,Fresh Mozzarella,1,dish
+Tatte,Grilled Cheese,1,dish
+Tatte,Kids Sandwich,1,dish
+Tatte,Lamb Kebab Pita,1,dish
+Tatte,Prosciutto & Fig Panini,1,dish
+Tatte,Roasted Cauliflower,1,dish
+Tatte,Roasted Salmon,1,dish
+Tatte,Short Rib Grilled Cheese,1,dish
+Tatte,Tuna,1,dish
+Tatte,Turkey Avocado,1,dish
+Tatte,Turkey BLAT,1,dish
+Tatte,Tahini Caesar Salad,1,dish
+Tatte,Crunchy Halloumi,1,dish
+Tatte,Fattoush,1,dish
+Tatte,Green & Nutty,1,dish
+Tatte,"Maple, Squash & Chicken Salad",1,dish
+Tatte,Chicken Vegetable,1,dish
+Tatte,Red Lentil Soup,1,dish
+Tatte,Tomato Basil,1,dish
+Tatte,Bagged Salad Rolls,1,component
+Tatte,Berries & Grapes,0,dish
+Tatte,Cashew Pepper Spread,0,component
+Tatte,Labneh,0,component
+Tatte,Mediterranean Farro Salad,1,dish
+Tatte,G&G Overnight Oats with Dried Fruits,0,dish
+Tatte,Tomato Basil Soup,1,dish
+Tatte,Tuna Salad,0,dish
+Tatte,"Boureka, Cheese",1,dish
+Tatte,Croissant - Almond,1,dish
+Tatte,Croissant - Chocolate,1,dish
+Tatte,Croissant - Ham & Cheese,1,dish
+Tatte,Croissant - Pistachio,1,dish
+Tatte,Croissant - Plain,1,dish
+Tatte,Danish - Sour Cherry Cream Cheese,1,dish
+Tatte,Jerusalem Bagel,1,dish
+Tatte,Kouign Amann,1,dish
+Tatte,Morning Bun,1,dish
+Tatte,Monkey bread,1,dish
+Tatte,Muffin - Blueberry Olive Oil,1,dish
+Tatte,Rose - Chocolate,1,dish
+Tatte,Rose - Cinnamon Pecan,1,dish
+Tatte,Turnover - Apple,1,dish
+Tatte,Scone - Cherry Almond Scone,1,dish
+Tatte,Gingerbread Tile,1,dish
+Tatte,Butter Nutella Cookie,1,dish
+Tatte,Chocolate Sandwich Cookie,1,dish
+Tatte,Cranberry Pistachio Cookie,1,dish
+Tatte,Halva Chocolate Chunk Cookie,1,dish
+Tatte,Linzer Cookie,1,dish
+Tatte,Plain Butter,1,dish
+Tatte,Apricot Plum Galette,1,dish
+Tatte,Almond Tart - Long,1,dish
+Tatte,Apple Pie,1,dish
+Tatte,Cheesecake - Blue,1,dish
+Tatte,Cheesecake - Crumbs,1,dish
+Tatte,Cheesecake - Red,1,dish
+Tatte,Coffee Cake,1,dish
+Tatte,Fruit Box - Mixed Berry,1,catering or retail pack
+Tatte,Honey Apple Cake,1,dish
+Tatte,Honey Carrot Cake,1,dish
+Tatte,Krembo - Passion Fruit,0,dish
+Tatte,Krembo - Vanilla Lime,0,dish
+Tatte,Lemon Mint Tart,1,dish
+Tatte,Lemon Poppy Pound Cake,1,dish
+Tatte,Maple Pecan Pie,1,dish
+Tatte,Mixed Nut Box,1,catering or retail pack
+Tatte,Mixed Tart - Long,1,dish
+Tatte,Pear Tart,1,dish
+Tatte,Pecan Tart - Long,1,dish
+Tatte,Pineapple Passionfruit Matcha Bombe,1,dish
+Tatte,Pistachio Cherry Tart,1,dish
+Tatte,Pistachio Crush,0,dish
+Tatte,Strawberry Rhubarb Pie,1,dish
+Tatte,Tiramisu,1,dish
+Tatte,Baguette,1,component
+Tatte,Challah/Rolls,1,component
+Tatte,Ciabatta,1,component
+Tatte,Focaccia,1,component
+Tatte,Multigrain,1,component
+Tatte,Sourdough,1,component
+Tatte,Cookie Assortment Gift Box - Large,1,catering or retail pack
+Tatte,Cookie Assortment Gift Box - Small,1,catering or retail pack
+Tatte,Royal Icing Egg Cookie,1,catering or retail pack
+Tatte,Hot Cross Buns,1,catering or retail pack
+Tatte,Coconut Macaroons,0,catering or retail pack
+Tatte,Chocolate Covered Matzo Bark,1,catering or retail pack
+Tatte,Pride Cake,0,catering or retail pack
+Tatte,Breakfast Sandwich Assortment (serves 10),1,catering or retail pack
+Tatte,Avocado Breakfast Sandwich,1,dish
+Tatte,Savory Pastry Assortment (serves 10–12),1,catering or retail pack
+Tatte,Cheese Boureka,1,dish
+Tatte,Spinach Labneh Pita,1,dish
+Tatte,Ham & Cheese Croissant,1,dish
+Tatte,Sweet Pastry Assortment (serves 10–12),1,catering or retail pack
+Tatte,Plain Croissant,1,dish
+Tatte,Pain Au Chocolat,1,dish
+Tatte,Apple Turnover,1,dish
+Tatte,Chocolate Muffin,1,dish
+Tatte,Blueberry Muffin,1,dish
+Tatte,Mixed Berry Muesli Cups (serves 10),0,catering or retail pack
+Tatte,Overnight Oats with Dried Fruits (10 CT),0,catering or retail pack
+Tatte,Catering - Overnight Oats with Dried Fruits 1 CT,0,catering or retail pack
+Tatte,Fruit Platter (serves 20),0,catering or retail pack
+Tatte,Berries & Grapes Fruit Cups (10),0,catering or retail pack
+Tatte,Box of Hot Coffee (serves 8–10),0,drink
+Tatte,Breakfast Box (varies),0,catering or retail pack
+Tatte,Halloumi Breakfast Sandwich,1,dish
+Tatte,"Smoked Salmon, Avocado, & Egg Sandwich*",1,dish
+Tatte,Avocado Tartine,1,dish
+Tatte,Smoked Salmon & Avocado Tartine*,1,dish
+Tatte,Tatte Sandwich Assortment (serves 10),1,catering or retail pack
+Tatte,Mixed Greens Salad & Tatte Cookie Box (serves 10),1,catering or retail pack
+Tatte,Lunch Box No. 1 (varies),0,catering or retail pack
+Tatte,Lunch Box No. 2 (varies),0,catering or retail pack
+Tatte,B.L.A.T.,1,dish
+Tatte,Turkey B.L.A.T.,1,dish
+Tatte,Chilled Salmon,1,dish
+Tatte,Sundried Tomato & Eggplant,1,dish
+Tatte,Roasted Cauliflower Pita,1,dish
+Tatte,"Choose Your Favorites: Maple, Squash & Chicken",1,catering or retail pack
+Tatte,Dessert Assortment,1,catering or retail pack
+Tatte,Tatte Cookie Box,1,catering or retail pack
+Tatte,Signature Assortment,1,catering or retail pack
+Tatte,Brownie Finger Box,0,catering or retail pack
+Tatte,Fresh Berries Cheesecake,1,dish
+Tatte,Cinnamon Walnut Coffeecake,1,dish
+Tatte,Halva Chocolate Chunk,1,dish
+Tatte,Linzer,1,dish
+Tatte,Chocolate Sandwich,1,dish
+Tatte,Butter Cookie Tube,1,catering or retail pack
+Tatte,Nutella Cookie Tube,1,catering or retail pack
+Tatte,Fresh Berries Cheesecake Cup,1,dish
+Tatte,Charcuterie Platter (serves 8–10),1,catering or retail pack
+Tatte,Seasonal Vegetable Platter (serves 8–10),0,catering or retail pack
+Tatte,Mezze Platter (serves 10),1,catering or retail pack
+Tatte,"Quiche: Leek, Potato & Spinach (each serves 8–10)",1,catering or retail pack
+Tatte,Pita Assortments (Large serves 12–14 / Small serves 6–8),1,catering or retail pack
